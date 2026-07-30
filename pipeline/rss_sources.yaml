@@ -1,0 +1,47 @@
+# RSS data sources for the knowledge pipeline
+# Each source is independently gated by `enabled`.
+
+sources:
+  # ── 综合技术 ─────────────────────────────────────────────
+  - name: Hacker News Best (AI filtered)
+    url: https://hnrss.org/best?q=AI+OR+LLM+OR+machine+learning
+    category: 综合技术
+    enabled: false            # high volume — enable on demand
+
+  - name: Lobsters AI/ML
+    url: https://lobste.rs/t/ai.rss
+    category: 综合技术
+    enabled: true
+
+  # ── AI 研究 ───────────────────────────────────────────────
+  - name: arXiv cs.AI
+    url: https://rss.arxiv.org/rss/cs.AI
+    category: AI研究
+    enabled: false            # very high volume (dozens/day) — enable selectively
+
+  # ── 公司博客 ──────────────────────────────────────────────
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss.xml
+    category: 公司博客
+    enabled: true
+
+  - name: Anthropic Research
+    url: https://www.anthropic.com/research/feed
+    category: 公司博客
+    enabled: false            # RSS availability unconfirmed — verify before enabling
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: 公司博客
+    enabled: true
+
+  # ── 中文社区 ──────────────────────────────────────────────
+  - name: 机器之心
+    url: https://www.jiqizhixin.com/rss
+    category: 中文社区
+    enabled: false            # RSS availability unconfirmed — verify before enabling
+
+  - name: 量子位
+    url: https://www.qbitai.com/feed
+    category: 中文社区
+    enabled: false            # RSS availability unconfirmed — verify before enabling
