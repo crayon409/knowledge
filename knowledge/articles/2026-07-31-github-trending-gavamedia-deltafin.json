@@ -1,0 +1,19 @@
+{
+  "id": "github-20260731-008",
+  "title": "gavamedia/deltafin",
+  "source": "github-trending",
+  "source_url": "https://github.com/gavamedia/deltafin",
+  "summary": "Run full Kimi K3 on a single device. And an OpenAI",
+  "stars": 500,
+  "language": "Python",
+  "tags": [
+    "kimi",
+    "kimi-k3",
+    "local-ai",
+    "local-llm"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "auto-generated (no LLM)",
+  "status": "draft"
+}

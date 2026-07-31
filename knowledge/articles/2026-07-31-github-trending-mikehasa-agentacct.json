@@ -1,0 +1,20 @@
+{
+  "id": "github-20260731-006",
+  "title": "mikehasa/agentacct",
+  "source": "github-trending",
+  "source_url": "https://github.com/mikehasa/agentacct",
+  "summary": "See what your coding agents did and what it cost. ",
+  "stars": 538,
+  "language": "Python",
+  "tags": [
+    "agent-observability",
+    "ai-agents",
+    "analytics",
+    "claude-code",
+    "cli"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "auto-generated (no LLM)",
+  "status": "draft"
+}

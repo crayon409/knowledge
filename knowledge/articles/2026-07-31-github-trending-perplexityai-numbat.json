@@ -1,0 +1,18 @@
+{
+  "id": "github-20260731-009",
+  "title": "perplexityai/numbat",
+  "source": "github-trending",
+  "source_url": "https://github.com/perplexityai/numbat",
+  "summary": "Visibility into AI agent activity on endpoints, wi",
+  "stars": 440,
+  "language": "Go",
+  "tags": [
+    "agent-security",
+    "ai-agent-security",
+    "ai-agents"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "auto-generated (no LLM)",
+  "status": "draft"
+}
