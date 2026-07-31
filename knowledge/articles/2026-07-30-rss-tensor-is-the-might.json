@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260730-026",
+  "title": "Tensor is the might",
+  "source": "rss",
+  "source_url": "https://zserge.com/posts/tensor/",
+  "summary": "张量计算原理与实现解析",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Programming/Data Structures",
+    "Mathematics/Linear Algebra"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "清晰的技术讲解，但非突破性创新",
+  "status": "draft"
+}

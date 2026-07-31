@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-07",
+  "title": "MoonshotAI/MoonEP",
+  "source": "github-trending",
+  "source_url": "https://github.com/MoonshotAI/MoonEP",
+  "summary": "动态冗余专家 MoE 并行库，完美负载均衡，实测优于 DeepEP v2 且不受路由倾斜影响",
+  "stars": 883,
+  "language": "Python",
+  "tags": [
+    "LLM/MoE训练",
+    "AI/分布式训练",
+    "基础设施/GPU通信",
+    "LLM/训练优化"
+  ],
+  "highlights": [
+    "完美均衡：每个 Rank 始终获得恰好 S×K 个 Token，无论路由分布多倾斜；在线规划内核开销可忽略",
+    "与 DeepEP v2 对比：通信时间始终更低且不受 maxvio 增长影响；E2E 训练中 DeepEP 随倾斜退化直至 OOM，MoonEP 迭代时间恒定",
+    "零拷贝设计：Token 直接写入远程 Rank 的专家分组位置，Buffer 视图直接传给计算，消除通信缓冲区到用户缓冲区的拷贝开销"
+  ],
+  "score": 8,
+  "score_reason": "从根本上解决 MoE 路由倾斜导致训练不稳定的行业难题，实测优于当前 SOTA(DeepEP v2)，可立即用于大规模 MoE 训练",
+  "status": "active"
+}

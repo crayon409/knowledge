@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260730-019",
+  "title": "A global workspace in language models",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/global-workspace",
+  "summary": "语言模型中的全局工作空间",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/LLM",
+    "AI/Theory"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "提出语言模型全局工作空间概念，有理论创新但非突破性成果",
+  "status": "draft"
+}

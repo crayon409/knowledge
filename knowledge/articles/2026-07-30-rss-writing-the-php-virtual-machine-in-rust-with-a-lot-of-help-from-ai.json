@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260730-003",
+  "title": "Writing the PHP Virtual Machine in Rust (with a lot of help from AI)",
+  "source": "rss",
+  "source_url": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+  "summary": "用Rust和AI重写PHP虚拟机",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Programming/Rust",
+    "Virtual Machine/PHP",
+    "AI/Code Assistance"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "创新性结合Rust与AI辅助开发，提升性能与安全性，但非革命性突破",
+  "status": "draft"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-04",
+  "title": "mshumer/Claude-of-Duty",
+  "source": "github-trending",
+  "source_url": "https://github.com/mshumer/Claude-of-Duty",
+  "summary": "全 AI Agent 生成 55K 行 Three.js FPS 游戏，无美术资产，自研物理引擎",
+  "stars": 2297,
+  "language": "JavaScript",
+  "tags": [
+    "AI/代码生成",
+    "游戏/WebGL",
+    "AI/Agent编排",
+    "工具/测试工程"
+  ],
+  "highlights": [
+    "11 个子系统（渲染/物理/武器/AI 敌人/音频等）均由 AI Agent 按 ARCHITECTURE.md 契约编写，自主实现 HDR 管线、PCSS 软阴影、GTAO 等图形技术",
+    "自研物理引擎：BVH 包围盒加速(29000 三角形 → 14000 节点仅需 22ms)、连续碰撞检测、PBD 布娃娃系统",
+    "关键发现：顺序单人任务比并发多 Agent 效率高 2×（评分提升 1.00 vs 0.46），且缺陷数从 66 降至 26"
+  ],
+  "score": 6,
+  "score_reason": "AI 生成能力的震撼展示，工具链设计精巧（可复现截图、像素级回归测试），但本身不是可复用的 AI 工具",
+  "status": "active"
+}

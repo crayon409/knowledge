@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-14",
+  "title": "deerwork-ai/deer-workflow",
+  "source": "github-trending",
+  "source_url": "https://github.com/deerwork-ai/deer-workflow",
+  "summary": "字节 DeerFlow 3.0 先行项目，TypeScript 图工程执行路径，Agent 可替换",
+  "stars": 349,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent工作流",
+    "AI/图工程",
+    "工具/编排框架",
+    "LLM/Agent编排"
+  ],
+  "highlights": [
+    "图工程范式：TypeScript 定义控制流/阶段/输入/失败处理等执行骨架，Coding Agent 仅执行各节点内的语义工作",
+    "可替换 Agent 架构：内置 Codex CLI 和 Claude Code 两个运行时，通过公开 Agent 接口支持任意 Coding Agent 集成",
+    "交互式 TUI + JSONL 事件流双输出：开发时提供阶段感知的终端 UI，CI/管道场景输出结构化 JSON 事件"
+  ],
+  "score": 6,
+  "score_reason": "图工程理念新颖，将 Agent 工作流从对话中抽离至代码层，但当前阶段高度依赖 Agent 能力，生态尚未形成",
+  "status": "active"
+}

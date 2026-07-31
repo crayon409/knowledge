@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-11",
+  "title": "mikehasa/agentacct",
+  "source": "github-trending",
+  "source_url": "https://github.com/mikehasa/agentacct",
+  "summary": "本地优先的 Agent 可观测性平台，Token 消耗+成本追踪，置信度标记数据归属",
+  "stars": 534,
+  "language": "Python",
+  "tags": [
+    "AI/Agent可观测性",
+    "工具/DevOps",
+    "LLM/成本管理",
+    "AI/Agent工具链"
+  ],
+  "highlights": [
+    "本地优先架构：状态以纯本地文件存储，Dashboard 绑定 127.0.0.1，零遥测/零登录/零云同步，不存储任何 API Key",
+    "置信度标记的归属模型：每条使用数据与工作记录通过 session/transcript ID 关联，标记为 exact/high/medium/low 四个置信度",
+    "双数据流分离设计：使用数据来自客户端本地会话文件(标记为 client_reported)，工作语义来自 Agent MCP 事件记录，独立存储后精确关联"
+  ],
+  "score": 7,
+  "score_reason": "填补 Agent 可观测性关键空白，隐私设计严谨（本地优先），诚实标注数据置信度而非猜测，对 Agent 成本管理有直接实用价值",
+  "status": "active"
+}

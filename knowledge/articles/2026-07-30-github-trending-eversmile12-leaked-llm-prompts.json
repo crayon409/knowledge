@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-30-github-15",
+  "title": "Eversmile12/leaked-llm-prompts",
+  "source": "github-trending",
+  "source_url": "https://github.com/Eversmile12/leaked-llm-prompts",
+  "summary": "汇集 GPT-5.6/Claude/Gemini 等泄露的系统提示词，揭示模型安全策略",
+  "stars": 329,
+  "language": null,
+  "tags": [
+    "LLM/安全研究",
+    "AI/模型安全",
+    "数据/提示词收集"
+  ],
+  "highlights": [
+    "收集了 GPT-5.6、Claude Fable 5、Gemini 等主流模型泄露的系统级提示词，对研究 LLM 安全对齐策略有参考价值",
+    "329 星的热度反映了社区对模型透明度和安全性的持续关注"
+  ],
+  "score": 4,
+  "score_reason": "纯数据收集项目，无工具化价值，且存在知识产权灰色地带，仅适合安全研究人员作为参考素材",
+  "status": "active"
+}

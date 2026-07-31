@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-13",
+  "title": "gavamedia/deltafin",
+  "source": "github-trending",
+  "source_url": "https://github.com/gavamedia/deltafin",
+  "summary": "单工作站运行 2.8T Kimi K3，M1 Max 0.07 tok/s，OpenAI 兼容",
+  "stars": 362,
+  "language": "Python",
+  "tags": [
+    "LLM/本地推理",
+    "AI/推理优化",
+    "LLM/模型部署",
+    "硬件/Apple Silicon"
+  ],
+  "highlights": [
+    "M1 Max (64GB) 上实现 0.0687 tok/s 稳定解码（14.6s/token），DGX Spark (128GB + CUDA) 社区报告 213s 完成相同任务",
+    "双模式运行：Full 模式需 1.7TB 本地存储实现全速运行；Stream 模式仅需 215GB 但依赖 HuggingFace 按需加载专家权重",
+    "深度性能优化：int8 量化使端到端速度提升 4×（107GB→53GB 驻留权重），预取/模板复用/投机解码等多项技术叠加"
+  ],
+  "score": 7,
+  "score_reason": "证明了前沿 3T 级模型可在消费级硬件上运行的工程可行性，对本地化 AI 部署有重要示范意义，但实用速度（4.1 tok/min）仍远未达交互级",
+  "status": "active"
+}

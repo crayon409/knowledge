@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-12",
+  "title": "XYZ-AI-Lab/AxisAgentic",
+  "source": "github-trending",
+  "source_url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
+  "summary": "长时程 Agent 运行时与轨迹采集框架，追加式轨迹，状态忠实 SFT 导出",
+  "stars": 525,
+  "language": "Python",
+  "tags": [
+    "AI/Agent框架",
+    "AI/强化学习",
+    "LLM/数据工程",
+    "AI/Agent基础设施"
+  ],
+  "highlights": [
+    "追加式轨迹设计：运行时标记回滚/上下文压缩/丢弃事件，回放可精确复现模型在任意阶段所见上下文",
+    "组件可替换架构：Model Client/Tool/Orchestrator/Dataset/Evaluator/Reward 函数均可独立替换，支持多领域 Agent 扩展",
+    "XYZ-Aquila 搜索系统在其上实现并在 BrowseComp 等 6 项 Agentic 基准中取得有竞争力的结果，同时支持 SFT 导出至 Swift Agent 格式"
+  ],
+  "score": 7,
+  "score_reason": "将 Agent 执行与训练学习形成闭环，轨迹采集到 SFT 导出的链路完整且有实际 benchmark 验证，工程成熟度高",
+  "status": "active"
+}

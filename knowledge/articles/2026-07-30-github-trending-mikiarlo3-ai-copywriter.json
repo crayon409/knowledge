@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-05",
+  "title": "mikiarlo3/ai-copywriter",
+  "source": "github-trending",
+  "source_url": "https://github.com/mikiarlo3/ai-copywriter",
+  "summary": "双模式 AI 文案技能：读者优先营销创作+基于 33 项 AI 特征的去 AI 化引擎",
+  "stars": 1050,
+  "language": "Python",
+  "tags": [
+    "AI/Prompt工程",
+    "AI/文本生成",
+    "工具/内容创作",
+    "LLM/安全对齐"
+  ],
+  "highlights": [
+    "集成 Wikipedia AI Cleanup 项目的 33 项可检测可修复 AI 写作模式，涵盖内容/语言/风格/沟通/填充五大类",
+    "独创'读者感受优先'方法论：写作前先回答'读者此刻的感受'和'最简单的解释方式'两个问题，来自 enso.bot 营销研究",
+    "单 Markdown 文件无依赖设计，~8000 token 体积，无需安装即可在 Claude/ChatGPT/Manus 等任意 LLM 平台运行"
+  ],
+  "score": 6,
+  "score_reason": "精心设计的问题驱动写作方法论 + 可操作的 AI 文本检测框架，但本质是 Prompt 工程产物而非技术创新",
+  "status": "active"
+}

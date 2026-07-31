@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-02",
+  "title": "slvDev/esp32-ai",
+  "source": "github-trending",
+  "source_url": "https://github.com/slvDev/esp32-ai",
+  "summary": "8美元 ESP32 芯片运行 28.9M LLM，用 Google PLE 技术实现百倍扩容",
+  "stars": 2394,
+  "language": "Python",
+  "tags": [
+    "AI/边缘推理",
+    "LLM/模型压缩",
+    "硬件/嵌入式AI",
+    "AI/推理优化"
+  ],
+  "highlights": [
+    "28.9M 参数模型（25M 存放在 Flash 查找表中），仅 512KB SRAM + 8MB PSRAM 即可运行，14.9MB 4-bit 量化体积",
+    "端到端 9.5 tok/s 生成速度，每 Token 仅读取约 450 字节 Flash 数据，无需任何网络连接",
+    "相比此前同类芯片仅 260K 参数的模型，参数规模提升 100 倍，首次将 PLE 技术应用于微控制器级别硬件"
+  ],
+  "score": 7,
+  "score_reason": "在极端硬件约束下实现 100 倍参数规模突破，为边缘 AI 部署提供新范式，但应用场景局限于微型故事生成",
+  "status": "active"
+}

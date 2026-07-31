@@ -1,18 +1,17 @@
 {
-  "id": "github-20260731-009",
+  "id": "github-20260731-003",
   "title": "perplexityai/numbat",
   "source": "github-trending",
   "source_url": "https://github.com/perplexityai/numbat",
-  "summary": "Visibility into AI agent activity on endpoints, wi",
-  "stars": 440,
+  "summary": "AI代理端点活动监控与阻断工具",
+  "stars": 435,
   "language": "Go",
   "tags": [
-    "agent-security",
-    "ai-agent-security",
-    "ai-agents"
+    "AI Security/Agent Monitoring",
+    "AI Security/Endpoint Detection"
   ],
   "highlights": [],
-  "score": 5,
-  "score_reason": "auto-generated (no LLM)",
+  "score": 8,
+  "score_reason": "创新性地提供端点级AI代理安全检测与阻断，填补市场空白，但非突破性技术",
   "status": "draft"
 }

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260730-009",
+  "title": "Native-speed vLLM transformers modeling backend",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "summary": "vLLM后端实现原生速度推理",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Inference",
+    "AI/Model Optimization"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "显著提升推理速度，但非突破性创新",
+  "status": "draft"
+}

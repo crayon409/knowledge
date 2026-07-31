@@ -1,0 +1,22 @@
+{
+  "id": "2026-07-30-github-10",
+  "title": "0xwilliamortiz/ponytail-improved",
+  "source": "github-trending",
+  "source_url": "https://github.com/0xwilliamortiz/ponytail-improved",
+  "summary": "AI Agent 提示词优化，实测减少 54% 代码、降 20% 成本、提速 27%",
+  "stars": 553,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Prompt工程",
+    "AI/Agent优化",
+    "工具/开发效率"
+  ],
+  "highlights": [
+    "七级阶梯决策模型：需求必要性→仓库复用→标准库→平台能力→已有依赖→单行代码→最小实现，100% 保持安全校验不丢失",
+    "实测数据：代码编写量减少 54%（极端场景达 94%），成本降低 20%，时间缩短 27%，在真实 Claude Code 会话中验证",
+    "插件化安装：支持 Claude Code/Codex/Copilot CLI/OpenCode 等 10+ Agent，含 /ponytail-review、/ponytail-audit 审核命令"
+  ],
+  "score": 6,
+  "score_reason": "有充分实证支持的 Agent 提示词优化方案，效果可量化，但本质是系统提示词工程，技术壁垒低",
+  "status": "active"
+}

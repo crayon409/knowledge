@@ -1,0 +1,22 @@
+{
+  "id": "2026-07-30-github-06",
+  "title": "VictorTaelin/OptMem",
+  "source": "github-trending",
+  "source_url": "https://github.com/VictorTaelin/OptMem",
+  "summary": "仅 426 Token 的 AI Agent 永久记忆系统，二叉树摘要，百万记录唤醒仅 0.03s",
+  "stars": 887,
+  "language": "Python",
+  "tags": [
+    "AI/Agent记忆",
+    "工具/Agent增强",
+    "LLM/上下文管理"
+  ],
+  "highlights": [
+    "定长记录设计：每条记忆一行≤280 字符，位置即标识，每次查询仅一次磁盘寻道，百万条记录(608MB)下 wake 仅需 0.03s",
+    "二叉树摘要结构：记忆自动合并为层级摘要，支持 zoom 下钻导航和 recall 正则搜索，可随时调整阅读预算而无需重建",
+    "极简集成：一行 curl 命令安装，无后台进程，无外部依赖，支持 Memory 目录同步/Git 版本控制，跨模型/会话持久化"
+  ],
+  "score": 7,
+  "score_reason": "以极致简洁的设计（426 token 提示词）解决 Agent 持久记忆核心问题，百万级规模依然高效，可立即集成到现有 Agent 系统",
+  "status": "active"
+}

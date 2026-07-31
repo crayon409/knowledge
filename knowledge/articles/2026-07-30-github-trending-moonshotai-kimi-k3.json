@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-01",
+  "title": "MoonshotAI/Kimi-K3",
+  "source": "github-trending",
+  "source_url": "https://github.com/MoonshotAI/Kimi-K3",
+  "summary": "Moonshot 开源 2.8T 多模态 MoE 大模型，1M 上下文，全球首个开放 3T 级模型",
+  "stars": 6784,
+  "language": null,
+  "tags": [
+    "LLM/开源大模型",
+    "AI/多模态",
+    "LLM/MoE架构",
+    "AI/推理部署"
+  ],
+  "highlights": [
+    "2.8T 总参数 / 104B 激活参数，896 专家每 Token 激活 16 个，量化感知训练的 MXFP4 权重，总规模是 Kimi K2 的 2.5× 扩展效率提升",
+    "GPQA Diamond 93.5、DeepSWE 67.5、BrowseComp 91.2、MCPMark 94.5，在多项基准上与 GPT-5.6 Sol 和 Claude Fable 5 持平或超越",
+    "原生集成文本+图像+视频理解，支持 vLLM/SGLang/TokenSpeed 三大推理引擎，提供 OpenAI/Anthropic 兼容 API"
+  ],
+  "score": 9,
+  "score_reason": "首个开源 3T 级前沿模型，多项基准与闭源 SOTA 抗衡，3 天获 6700+ 星，具备重构开源 AI 格局的范式级影响力",
+  "status": "active"
+}

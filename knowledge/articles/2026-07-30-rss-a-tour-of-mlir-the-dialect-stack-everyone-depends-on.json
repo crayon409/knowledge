@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260730-006",
+  "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+  "source": "rss",
+  "source_url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+  "summary": "MLIR方言栈概述：机器学习编译核心",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Compiler/MLIR",
+    "Machine Learning/Infrastructure"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "深入介绍MLIR方言栈，对ML编译有重要参考价值，但非突破性创新",
+  "status": "draft"
+}

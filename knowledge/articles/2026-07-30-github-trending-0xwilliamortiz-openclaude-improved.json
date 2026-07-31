@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-09",
+  "title": "0xwilliamortiz/openclaude-improved",
+  "source": "github-trending",
+  "source_url": "https://github.com/0xwilliamortiz/openclaude-improved",
+  "summary": "开源多后端编码 Agent CLI，支持 20+ 模型提供商，兼容 Claude Code 工作流",
+  "stars": 557,
+  "language": "TypeScript",
+  "tags": [
+    "AI/编码Agent",
+    "工具/CLI",
+    "LLM/多提供商",
+    "AI/Agent工具链"
+  ],
+  "highlights": [
+    "20+ 提供商覆盖：从云端 API（OpenAI/Gemini/Codex/Bedrock/Vertex/Foundry）到本地模型（Ollama/LM Studio），一键切换",
+    "完整 Agent 功能：Bash/读写/编辑/Grep/Glob、子 Agent 路由、MCP 工具、gRPC 服务器、后台会话、VS Code 扩展",
+    "Provider 路由与代理管理：支持按 Agent 指定不同模型/提供商、maxSteps 限制、内置 Explore/Plan/Verification 子 Agent"
+  ],
+  "score": 7,
+  "score_reason": "打破 Claude Code 封闭生态，提供实用的多后端切换能力，生态兼容性好，但本质是 Claude Code 的替代实现而非原创架构",
+  "status": "active"
+}

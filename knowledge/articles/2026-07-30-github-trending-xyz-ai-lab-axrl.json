@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-08",
+  "title": "XYZ-AI-Lab/axrl",
+  "source": "github-trending",
+  "source_url": "https://github.com/XYZ-AI-Lab/axrl",
+  "summary": "Megatron+SGLang Agent RL 框架，300+轮轨迹，GRPO/PPO 等6算法",
+  "stars": 638,
+  "language": "Python",
+  "tags": [
+    "AI/强化学习",
+    "LLM/后训练",
+    "AI/Agent工程",
+    "基础设施/分布式训练"
+  ],
+  "highlights": [
+    "完整算法覆盖：PPO/GRPO/GRPO2/GSPO/TOPR/TIS，支持白盒 Agent 环境和黑盒 OpenAI 兼容代理捕获两种集成模式",
+    "关键引擎优化：Partial Rollout 减少长尾轨迹空等、Handle-based 数据面避免 Driver 瓶颈、MagiAttention 减少重复注意力计算",
+    "R3 路由回放机制减少 MoE 推理与训练间的 Expert 路由不匹配，使 KL 散度和 Loss 更稳定，支持精确 Spike 回放调试"
+  ],
+  "score": 8,
+  "score_reason": "在 Agent RL 后训练这一新兴领域提供端到端工业级方案，解决了推理-训练一致性、长时程轨迹效率等关键工程瓶颈",
+  "status": "active"
+}

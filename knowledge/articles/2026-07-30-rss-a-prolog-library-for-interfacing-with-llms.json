@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260730-007",
+  "title": "A Prolog library for interfacing with LLMs",
+  "source": "rss",
+  "source_url": "https://github.com/vagos/llmpl",
+  "summary": "Prolog与LLM接口库",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/LLM",
+    "Programming/Prolog"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用工具，但非突破性创新",
+  "status": "draft"
+}

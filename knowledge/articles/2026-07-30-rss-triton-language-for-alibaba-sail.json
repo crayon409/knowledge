@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260730-018",
+  "title": "Triton language for Alibaba SAIL",
+  "source": "rss",
+  "source_url": "https://github.com/t-head/triton-for-sail",
+  "summary": "阿里巴巴SAIL芯片适配Triton语言",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Compiler",
+    "Hardware/Open Source"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "开源硬件适配，提升AI编译效率，但非突破性创新",
+  "status": "draft"
+}

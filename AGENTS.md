@@ -50,3 +50,4 @@ knowledge/articles/        最终知识条目（去重、格式化、按日归�
 - **不泄露密钥** — 不在日志、输出或代码中输出 API Key、Token、密码等敏感信息
 - **不执行危险命令** — 不使用 `rm -rf`、`git push --force`、磁盘格式化等不可逆操作
 - **不改 AGENTS.md** — 除非用户明确要求，不修改本文件
+- **不改 Git 配置** — 不修改 `git config`、remote URL、`~/.gitconfig` 或其他 Git 设置，除非用户明确要求

@@ -1,20 +1,17 @@
 {
-  "id": "github-20260731-007",
+  "id": "github-20260731-002",
   "title": "QwenAudio/qwen-audio-agent",
   "source": "github-trending",
   "source_url": "https://github.com/QwenAudio/qwen-audio-agent",
-  "summary": "A realtime voice runtime that keeps Agents talking",
-  "stars": 505,
+  "summary": "实时语音AI代理运行时，支持持续对话与任务执行",
+  "stars": 494,
   "language": "JavaScript",
   "tags": [
-    "agent",
-    "agentic-ai",
-    "voice-agent",
-    "voice-ai",
-    "voice-chat"
+    "AI/Agent",
+    "Voice/Realtime"
   ],
   "highlights": [],
-  "score": 5,
-  "score_reason": "auto-generated (no LLM)",
+  "score": 8,
+  "score_reason": "创新性地将语音交互与代理工作流结合，提供实时运行时，但非突破性技术",
   "status": "draft"
 }

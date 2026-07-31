@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260730-013",
+  "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+  "source": "rss",
+  "source_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+  "summary": "小米MiMo-V2.5全流水线推理优化",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Inference Optimization",
+    "AI/Model Optimization"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "重要的推理优化实践，但非颠覆性突破",
+  "status": "draft"
+}

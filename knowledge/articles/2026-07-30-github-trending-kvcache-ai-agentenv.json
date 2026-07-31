@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-30-github-03",
+  "title": "kvcache-ai/AgentENV",
+  "source": "github-trending",
+  "source_url": "https://github.com/kvcache-ai/AgentENV",
+  "summary": "Rust 分布式 Agent 环境平台，快照沙箱<50ms启动，为 Kimi K3 训练提供基础设施",
+  "stars": 2380,
+  "language": "Rust",
+  "tags": [
+    "AI/Agent基础设施",
+    "基础设施/容器化",
+    "AI/强化学习",
+    "Rust/系统编程"
+  ],
+  "highlights": [
+    "快照支持的沙箱启动<50ms、暂停<100ms，支持增量内存/文件系统快照并持久化至 S3 对象存储",
+    "基于 overlaybd 的按需镜像加载，本地磁盘充当有界缓存，热数据保留冷数据驱逐，镜像可超出磁盘容量",
+    "兼容 E2B API，可直接使用标准 E2B Python/TypeScript SDK 无代码修改，内存气球技术维持高密度过载运行"
+  ],
+  "score": 8,
+  "score_reason": "生产级 Agent 基础设施，直接用于 Kimi K3 训练，解决大规模 Agent 环境管理的核心痛点，可立即投入生产使用",
+  "status": "active"
+}

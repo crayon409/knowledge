@@ -1,0 +1,321 @@
+{
+  "source": "tech-summary skill",
+  "skill": "tech-summary",
+  "analyzed_at": "2026-07-30T08:00:00Z",
+  "input_file": "knowledge/raw/github-trending-2026-07-30.json",
+  "analysis": [
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "summary": "Moonshot 开源 2.8T 多模态 MoE 大模型，1M 上下文，全球首个开放 3T 级模型",
+      "highlights": [
+        "2.8T 总参数 / 104B 激活参数，896 专家每 Token 激活 16 个，量化感知训练的 MXFP4 权重，总规模是 Kimi K2 的 2.5× 扩展效率提升",
+        "GPQA Diamond 93.5、DeepSWE 67.5、BrowseComp 91.2、MCPMark 94.5，在多项基准上与 GPT-5.6 Sol 和 Claude Fable 5 持平或超越",
+        "原生集成文本+图像+视频理解，支持 vLLM/SGLang/TokenSpeed 三大推理引擎，提供 OpenAI/Anthropic 兼容 API"
+      ],
+      "score": 9,
+      "score_reason": "首个开源 3T 级前沿模型，多项基准与闭源 SOTA 抗衡，3 天获 6700+ 星，具备重构开源 AI 格局的范式级影响力",
+      "tags": [
+        "LLM/开源大模型",
+        "AI/多模态",
+        "LLM/MoE架构",
+        "AI/推理部署"
+      ]
+    },
+    {
+      "name": "slvDev/esp32-ai",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "summary": "8美元 ESP32 芯片运行 28.9M LLM，用 Google PLE 技术实现百倍扩容",
+      "highlights": [
+        "28.9M 参数模型（25M 存放在 Flash 查找表中），仅 512KB SRAM + 8MB PSRAM 即可运行，14.9MB 4-bit 量化体积",
+        "端到端 9.5 tok/s 生成速度，每 Token 仅读取约 450 字节 Flash 数据，无需任何网络连接",
+        "相比此前同类芯片仅 260K 参数的模型，参数规模提升 100 倍，首次将 PLE 技术应用于微控制器级别硬件"
+      ],
+      "score": 7,
+      "score_reason": "在极端硬件约束下实现 100 倍参数规模突破，为边缘 AI 部署提供新范式，但应用场景局限于微型故事生成",
+      "tags": [
+        "AI/边缘推理",
+        "LLM/模型压缩",
+        "硬件/嵌入式AI",
+        "AI/推理优化"
+      ]
+    },
+    {
+      "name": "kvcache-ai/AgentENV",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "summary": "Rust 分布式 Agent 环境平台，快照沙箱<50ms启动，为 Kimi K3 训练提供基础设施",
+      "highlights": [
+        "快照支持的沙箱启动<50ms、暂停<100ms，支持增量内存/文件系统快照并持久化至 S3 对象存储",
+        "基于 overlaybd 的按需镜像加载，本地磁盘充当有界缓存，热数据保留冷数据驱逐，镜像可超出磁盘容量",
+        "兼容 E2B API，可直接使用标准 E2B Python/TypeScript SDK 无代码修改，内存气球技术维持高密度过载运行"
+      ],
+      "score": 8,
+      "score_reason": "生产级 Agent 基础设施，直接用于 Kimi K3 训练，解决大规模 Agent 环境管理的核心痛点，可立即投入生产使用",
+      "tags": [
+        "AI/Agent基础设施",
+        "基础设施/容器化",
+        "AI/强化学习",
+        "Rust/系统编程"
+      ]
+    },
+    {
+      "name": "mshumer/Claude-of-Duty",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "summary": "全 AI Agent 生成 55K 行 Three.js FPS 游戏，无美术资产，自研物理引擎",
+      "highlights": [
+        "11 个子系统（渲染/物理/武器/AI 敌人/音频等）均由 AI Agent 按 ARCHITECTURE.md 契约编写，自主实现 HDR 管线、PCSS 软阴影、GTAO 等图形技术",
+        "自研物理引擎：BVH 包围盒加速(29000 三角形 → 14000 节点仅需 22ms)、连续碰撞检测、PBD 布娃娃系统",
+        "关键发现：顺序单人任务比并发多 Agent 效率高 2×（评分提升 1.00 vs 0.46），且缺陷数从 66 降至 26"
+      ],
+      "score": 6,
+      "score_reason": "AI 生成能力的震撼展示，工具链设计精巧（可复现截图、像素级回归测试），但本身不是可复用的 AI 工具",
+      "tags": [
+        "AI/代码生成",
+        "游戏/WebGL",
+        "AI/Agent编排",
+        "工具/测试工程"
+      ]
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "summary": "双模式 AI 文案技能：读者优先营销创作+基于 33 项 AI 特征的去 AI 化引擎",
+      "highlights": [
+        "集成 Wikipedia AI Cleanup 项目的 33 项可检测可修复 AI 写作模式，涵盖内容/语言/风格/沟通/填充五大类",
+        "独创'读者感受优先'方法论：写作前先回答'读者此刻的感受'和'最简单的解释方式'两个问题，来自 enso.bot 营销研究",
+        "单 Markdown 文件无依赖设计，~8000 token 体积，无需安装即可在 Claude/ChatGPT/Manus 等任意 LLM 平台运行"
+      ],
+      "score": 6,
+      "score_reason": "精心设计的问题驱动写作方法论 + 可操作的 AI 文本检测框架，但本质是 Prompt 工程产物而非技术创新",
+      "tags": [
+        "AI/Prompt工程",
+        "AI/文本生成",
+        "工具/内容创作",
+        "LLM/安全对齐"
+      ]
+    },
+    {
+      "name": "VictorTaelin/OptMem",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "summary": "仅 426 Token 的 AI Agent 永久记忆系统，二叉树摘要，百万记录唤醒仅 0.03s",
+      "highlights": [
+        "定长记录设计：每条记忆一行≤280 字符，位置即标识，每次查询仅一次磁盘寻道，百万条记录(608MB)下 wake 仅需 0.03s",
+        "二叉树摘要结构：记忆自动合并为层级摘要，支持 zoom 下钻导航和 recall 正则搜索，可随时调整阅读预算而无需重建",
+        "极简集成：一行 curl 命令安装，无后台进程，无外部依赖，支持 Memory 目录同步/Git 版本控制，跨模型/会话持久化"
+      ],
+      "score": 7,
+      "score_reason": "以极致简洁的设计（426 token 提示词）解决 Agent 持久记忆核心问题，百万级规模依然高效，可立即集成到现有 Agent 系统",
+      "tags": [
+        "AI/Agent记忆",
+        "工具/Agent增强",
+        "LLM/上下文管理"
+      ]
+    },
+    {
+      "name": "MoonshotAI/MoonEP",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "summary": "动态冗余专家 MoE 并行库，完美负载均衡，实测优于 DeepEP v2 且不受路由倾斜影响",
+      "highlights": [
+        "完美均衡：每个 Rank 始终获得恰好 S×K 个 Token，无论路由分布多倾斜；在线规划内核开销可忽略",
+        "与 DeepEP v2 对比：通信时间始终更低且不受 maxvio 增长影响；E2E 训练中 DeepEP 随倾斜退化直至 OOM，MoonEP 迭代时间恒定",
+        "零拷贝设计：Token 直接写入远程 Rank 的专家分组位置，Buffer 视图直接传给计算，消除通信缓冲区到用户缓冲区的拷贝开销"
+      ],
+      "score": 8,
+      "score_reason": "从根本上解决 MoE 路由倾斜导致训练不稳定的行业难题，实测优于当前 SOTA(DeepEP v2)，可立即用于大规模 MoE 训练",
+      "tags": [
+        "LLM/MoE训练",
+        "AI/分布式训练",
+        "基础设施/GPU通信",
+        "LLM/训练优化"
+      ]
+    },
+    {
+      "name": "XYZ-AI-Lab/axrl",
+      "url": "https://github.com/XYZ-AI-Lab/axrl",
+      "summary": "Megatron+SGLang Agent RL 框架，300+轮轨迹，GRPO/PPO 等6算法",
+      "highlights": [
+        "完整算法覆盖：PPO/GRPO/GRPO2/GSPO/TOPR/TIS，支持白盒 Agent 环境和黑盒 OpenAI 兼容代理捕获两种集成模式",
+        "关键引擎优化：Partial Rollout 减少长尾轨迹空等、Handle-based 数据面避免 Driver 瓶颈、MagiAttention 减少重复注意力计算",
+        "R3 路由回放机制减少 MoE 推理与训练间的 Expert 路由不匹配，使 KL 散度和 Loss 更稳定，支持精确 Spike 回放调试"
+      ],
+      "score": 8,
+      "score_reason": "在 Agent RL 后训练这一新兴领域提供端到端工业级方案，解决了推理-训练一致性、长时程轨迹效率等关键工程瓶颈",
+      "tags": [
+        "AI/强化学习",
+        "LLM/后训练",
+        "AI/Agent工程",
+        "基础设施/分布式训练"
+      ]
+    },
+    {
+      "name": "0xwilliamortiz/openclaude-improved",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "summary": "开源多后端编码 Agent CLI，支持 20+ 模型提供商，兼容 Claude Code 工作流",
+      "highlights": [
+        "20+ 提供商覆盖：从云端 API（OpenAI/Gemini/Codex/Bedrock/Vertex/Foundry）到本地模型（Ollama/LM Studio），一键切换",
+        "完整 Agent 功能：Bash/读写/编辑/Grep/Glob、子 Agent 路由、MCP 工具、gRPC 服务器、后台会话、VS Code 扩展",
+        "Provider 路由与代理管理：支持按 Agent 指定不同模型/提供商、maxSteps 限制、内置 Explore/Plan/Verification 子 Agent"
+      ],
+      "score": 7,
+      "score_reason": "打破 Claude Code 封闭生态，提供实用的多后端切换能力，生态兼容性好，但本质是 Claude Code 的替代实现而非原创架构",
+      "tags": [
+        "AI/编码Agent",
+        "工具/CLI",
+        "LLM/多提供商",
+        "AI/Agent工具链"
+      ]
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "summary": "AI Agent 提示词优化，实测减少 54% 代码、降 20% 成本、提速 27%",
+      "highlights": [
+        "七级阶梯决策模型：需求必要性→仓库复用→标准库→平台能力→已有依赖→单行代码→最小实现，100% 保持安全校验不丢失",
+        "实测数据：代码编写量减少 54%（极端场景达 94%），成本降低 20%，时间缩短 27%，在真实 Claude Code 会话中验证",
+        "插件化安装：支持 Claude Code/Codex/Copilot CLI/OpenCode 等 10+ Agent，含 /ponytail-review、/ponytail-audit 审核命令"
+      ],
+      "score": 6,
+      "score_reason": "有充分实证支持的 Agent 提示词优化方案，效果可量化，但本质是系统提示词工程，技术壁垒低",
+      "tags": [
+        "AI/Prompt工程",
+        "AI/Agent优化",
+        "工具/开发效率"
+      ]
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "summary": "本地优先的 Agent 可观测性平台，Token 消耗+成本追踪，置信度标记数据归属",
+      "highlights": [
+        "本地优先架构：状态以纯本地文件存储，Dashboard 绑定 127.0.0.1，零遥测/零登录/零云同步，不存储任何 API Key",
+        "置信度标记的归属模型：每条使用数据与工作记录通过 session/transcript ID 关联，标记为 exact/high/medium/low 四个置信度",
+        "双数据流分离设计：使用数据来自客户端本地会话文件(标记为 client_reported)，工作语义来自 Agent MCP 事件记录，独立存储后精确关联"
+      ],
+      "score": 7,
+      "score_reason": "填补 Agent 可观测性关键空白，隐私设计严谨（本地优先），诚实标注数据置信度而非猜测，对 Agent 成本管理有直接实用价值",
+      "tags": [
+        "AI/Agent可观测性",
+        "工具/DevOps",
+        "LLM/成本管理",
+        "AI/Agent工具链"
+      ]
+    },
+    {
+      "name": "XYZ-AI-Lab/AxisAgentic",
+      "url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
+      "summary": "长时程 Agent 运行时与轨迹采集框架，追加式轨迹，状态忠实 SFT 导出",
+      "highlights": [
+        "追加式轨迹设计：运行时标记回滚/上下文压缩/丢弃事件，回放可精确复现模型在任意阶段所见上下文",
+        "组件可替换架构：Model Client/Tool/Orchestrator/Dataset/Evaluator/Reward 函数均可独立替换，支持多领域 Agent 扩展",
+        "XYZ-Aquila 搜索系统在其上实现并在 BrowseComp 等 6 项 Agentic 基准中取得有竞争力的结果，同时支持 SFT 导出至 Swift Agent 格式"
+      ],
+      "score": 7,
+      "score_reason": "将 Agent 执行与训练学习形成闭环，轨迹采集到 SFT 导出的链路完整且有实际 benchmark 验证，工程成熟度高",
+      "tags": [
+        "AI/Agent框架",
+        "AI/强化学习",
+        "LLM/数据工程",
+        "AI/Agent基础设施"
+      ]
+    },
+    {
+      "name": "gavamedia/deltafin",
+      "url": "https://github.com/gavamedia/deltafin",
+      "summary": "单工作站运行 2.8T Kimi K3，M1 Max 0.07 tok/s，OpenAI 兼容",
+      "highlights": [
+        "M1 Max (64GB) 上实现 0.0687 tok/s 稳定解码（14.6s/token），DGX Spark (128GB + CUDA) 社区报告 213s 完成相同任务",
+        "双模式运行：Full 模式需 1.7TB 本地存储实现全速运行；Stream 模式仅需 215GB 但依赖 HuggingFace 按需加载专家权重",
+        "深度性能优化：int8 量化使端到端速度提升 4×（107GB→53GB 驻留权重），预取/模板复用/投机解码等多项技术叠加"
+      ],
+      "score": 7,
+      "score_reason": "证明了前沿 3T 级模型可在消费级硬件上运行的工程可行性，对本地化 AI 部署有重要示范意义，但实用速度（4.1 tok/min）仍远未达交互级",
+      "tags": [
+        "LLM/本地推理",
+        "AI/推理优化",
+        "LLM/模型部署",
+        "硬件/Apple Silicon"
+      ]
+    },
+    {
+      "name": "deerwork-ai/deer-workflow",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "summary": "字节 DeerFlow 3.0 先行项目，TypeScript 图工程执行路径，Agent 可替换",
+      "highlights": [
+        "图工程范式：TypeScript 定义控制流/阶段/输入/失败处理等执行骨架，Coding Agent 仅执行各节点内的语义工作",
+        "可替换 Agent 架构：内置 Codex CLI 和 Claude Code 两个运行时，通过公开 Agent 接口支持任意 Coding Agent 集成",
+        "交互式 TUI + JSONL 事件流双输出：开发时提供阶段感知的终端 UI，CI/管道场景输出结构化 JSON 事件"
+      ],
+      "score": 6,
+      "score_reason": "图工程理念新颖，将 Agent 工作流从对话中抽离至代码层，但当前阶段高度依赖 Agent 能力，生态尚未形成",
+      "tags": [
+        "AI/Agent工作流",
+        "AI/图工程",
+        "工具/编排框架",
+        "LLM/Agent编排"
+      ]
+    },
+    {
+      "name": "Eversmile12/leaked-llm-prompts",
+      "url": "https://github.com/Eversmile12/leaked-llm-prompts",
+      "summary": "汇集 GPT-5.6/Claude/Gemini 等泄露的系统提示词，揭示模型安全策略",
+      "highlights": [
+        "收集了 GPT-5.6、Claude Fable 5、Gemini 等主流模型泄露的系统级提示词，对研究 LLM 安全对齐策略有参考价值",
+        "329 星的热度反映了社区对模型透明度和安全性的持续关注"
+      ],
+      "score": 4,
+      "score_reason": "纯数据收集项目，无工具化价值，且存在知识产权灰色地带，仅适合安全研究人员作为参考素材",
+      "tags": [
+        "LLM/安全研究",
+        "AI/模型安全",
+        "数据/提示词收集"
+      ]
+    }
+  ],
+  "trends": {
+    "themes": [
+      {
+        "name": "Moonshot K3 生态全面开放",
+        "description": "Moonshot AI 以开源方式集中释放了从模型（Kimi-K3）、训练基础设施（AgentENV、MoonEP）到本地部署（deltafin）的完整技术栈，4 个项目直接围绕 K3 展开，另有 kimi-k3-mlx、FlashKDA 等衍生产品，形成本周最显著的生态爆发。deltafin 更将 3T 级模型推至消费级硬件，推动本地化 AI 民主化。",
+        "related_projects": 4,
+        "representatives": [
+          "MoonshotAI/Kimi-K3",
+          "MoonshotAI/MoonEP",
+          "gavamedia/deltafin",
+          "kvcache-ai/AgentENV"
+        ]
+      },
+      {
+        "name": "Agent 工程化：从运行时到训练闭环",
+        "description": "本周多个项目聚焦于 Agent 系统的工程化基础设施——不再仅是调用 LLM 完成单次任务，而是构建完整的 Agent 生命周期管理：环境运行（AgentENV）、后训练（axrl）、轨迹采集（AxisAgentic）、可观测性（agentacct）、工作流编排（deer-workflow）。趋势指向 Agent 系统从'手写 prompt'向'工程化管道'的转变。",
+        "related_projects": 6,
+        "representatives": [
+          "kvcache-ai/AgentENV",
+          "XYZ-AI-Lab/axrl",
+          "XYZ-AI-Lab/AxisAgentic",
+          "mikehasa/agentacct"
+        ]
+      },
+      {
+        "name": "边缘与消费级 AI 推理的可行性验证",
+        "description": "esp32-ai（8美元芯片跑 28.9M 模型）和 deltafin（消费级 Mac 跑 2.8T 模型）从两个极端证明了大型 AI 模型在不依赖云端 GPU 的情况下运行的可行性。Per-Layer Embeddings 和 int8 量化是关键技术杠杆，推动 AI 能力向边缘设备和消费级硬件渗透。",
+        "related_projects": 2,
+        "representatives": [
+          "slvDev/esp32-ai",
+          "gavamedia/deltafin"
+        ]
+      }
+    ],
+    "new_concepts": [
+      {
+        "name": "图工程（Graph Engineering）",
+        "description": "deer-workflow 引入的范式：将 Agent 的工作流从对话中抽离，用代码（TypeScript）定义合法的执行图谱，Agent 仅负责图谱节点内的语义工作，而非自主决定执行路径。这使 Agent 行为可审查、可复现、可替换，是对当前'对话驱动 Agent'模式的一次结构化升级。",
+        "source_project": "deerwork-ai/deer-workflow"
+      },
+      {
+        "name": "Per-Layer Embeddings 在微控制器上的首次应用",
+        "description": "Google Gemma 系列模型提出的 PLE 技术，将大部分参数存放在 Flash 中作为查找表而非计算单元，esp32-ai 首次将此技术推广至 8 美元级微控制器，实现 100 倍参数规模飞跃（260K→28.9M），为极端边缘设备的 AI 推理开辟新路径。",
+        "source_project": "slvDev/esp32-ai"
+      }
+    ]
+  }
+}
