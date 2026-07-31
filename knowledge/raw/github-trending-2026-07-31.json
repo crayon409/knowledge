@@ -3,7 +3,7 @@
     "title": "MoonshotAI/Kimi-K3",
     "url": "https://github.com/MoonshotAI/Kimi-K3",
     "source": "github-trending",
-    "popularity": 7591,
+    "popularity": 7608,
     "summary": "Open Frontier Intelligence",
     "language": null,
     "topics": []
@@ -12,7 +12,7 @@
     "title": "mikiarlo3/ai-copywriter",
     "url": "https://github.com/mikiarlo3/ai-copywriter",
     "source": "github-trending",
-    "popularity": 990,
+    "popularity": 991,
     "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
     "language": "Python",
     "topics": []
@@ -21,7 +21,7 @@
     "title": "VictorTaelin/OptMem",
     "url": "https://github.com/VictorTaelin/OptMem",
     "source": "github-trending",
-    "popularity": 948,
+    "popularity": 958,
     "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
     "language": "Python",
     "topics": []
@@ -30,7 +30,7 @@
     "title": "MoonshotAI/MoonEP",
     "url": "https://github.com/MoonshotAI/MoonEP",
     "source": "github-trending",
-    "popularity": 943,
+    "popularity": 944,
     "summary": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
     "language": "Python",
     "topics": []
@@ -39,7 +39,7 @@
     "title": "0xwilliamortiz/ponytail-improved",
     "url": "https://github.com/0xwilliamortiz/ponytail-improved",
     "source": "github-trending",
-    "popularity": 565,
+    "popularity": 566,
     "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "language": "JavaScript",
     "topics": [
@@ -88,7 +88,7 @@
     "title": "QwenAudio/qwen-audio-agent",
     "url": "https://github.com/QwenAudio/qwen-audio-agent",
     "source": "github-trending",
-    "popularity": 505,
+    "popularity": 515,
     "summary": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
     "language": "JavaScript",
     "topics": [
@@ -103,7 +103,7 @@
     "title": "gavamedia/deltafin",
     "url": "https://github.com/gavamedia/deltafin",
     "source": "github-trending",
-    "popularity": 500,
+    "popularity": 504,
     "summary": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
     "language": "Python",
     "topics": [
@@ -117,7 +117,7 @@
     "title": "perplexityai/numbat",
     "url": "https://github.com/perplexityai/numbat",
     "source": "github-trending",
-    "popularity": 440,
+    "popularity": 446,
     "summary": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
     "language": "Go",
     "topics": [
