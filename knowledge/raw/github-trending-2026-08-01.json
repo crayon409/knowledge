@@ -1,0 +1,314 @@
+[
+  {
+    "title": "MoonshotAI/Kimi-K3",
+    "url": "https://github.com/MoonshotAI/Kimi-K3",
+    "source": "github-trending",
+    "popularity": 7762,
+    "summary": "Open Frontier Intelligence",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "yc-software/qm",
+    "url": "https://github.com/yc-software/qm",
+    "source": "github-trending",
+    "popularity": 3300,
+    "summary": "Multiplayer agent harness for work",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "VictorTaelin/OptMem",
+    "url": "https://github.com/VictorTaelin/OptMem",
+    "source": "github-trending",
+    "popularity": 1045,
+    "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "QwenAudio/qwen-audio-agent",
+    "url": "https://github.com/QwenAudio/qwen-audio-agent",
+    "source": "github-trending",
+    "popularity": 642,
+    "summary": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+    "language": "JavaScript",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "voice-agent",
+      "voice-ai",
+      "voice-chat"
+    ]
+  },
+  {
+    "title": "gavamedia/deltafin",
+    "url": "https://github.com/gavamedia/deltafin",
+    "source": "github-trending",
+    "popularity": 573,
+    "summary": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+    "language": "Python",
+    "topics": [
+      "kimi",
+      "kimi-k3",
+      "local-ai",
+      "local-llm"
+    ]
+  },
+  {
+    "title": "0xwilliamortiz/ponytail-improved",
+    "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+    "source": "github-trending",
+    "popularity": 572,
+    "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "claude-skills",
+      "cursor-rules",
+      "ponytail",
+      "prompt-engineering",
+      "prompt-optimization",
+      "yagni"
+    ]
+  },
+  {
+    "title": "WilonityDev/WilonityLoader",
+    "url": "https://github.com/WilonityDev/WilonityLoader",
+    "source": "github-trending",
+    "popularity": 532,
+    "summary": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID clea",
+    "language": null,
+    "topics": [
+      "arc-raiders",
+      "counter-strike-2",
+      "game",
+      "hack",
+      "meccha-chameleon-tools",
+      "minecraft"
+    ]
+  },
+  {
+    "title": "sqliteai/waste",
+    "url": "https://github.com/sqliteai/waste",
+    "source": "github-trending",
+    "popularity": 437,
+    "summary": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "title": "Noniv/snowflow_demo",
+    "url": "https://github.com/Noniv/snowflow_demo",
+    "source": "github-trending",
+    "popularity": 420,
+    "summary": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "title": "0xwilliamortiz/ratchet",
+    "url": "https://github.com/0xwilliamortiz/ratchet",
+    "source": "github-trending",
+    "popularity": 402,
+    "summary": "Your agent reads the rules. This checks whether it followed them.",
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "code-quality",
+      "developer-tools",
+      "hooks",
+      "llm",
+      "ratchet",
+      "rate-limiting",
+      "static-analysis",
+      "yagni"
+    ]
+  },
+  {
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;The book \"Inventing ELIZA - How the First Chatbot Shaped the Future of AI\".  It is Open Access so the link to the PDF is &lt;a href=\"https://direct.mit.edu/books/book-pdf/2615293/book_9780262",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Writing the PHP Virtual Machine in Rust (with a lot of help from AI)",
+    "url": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hbtqfe/writing_php_virtual_machine_rust_with_lot\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "What Rose Petals Teach Us about Induction",
+    "url": "https://www.oranlooney.com/post/rose-petals/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wwelib/what_rose_petals_teach_us_about_induction\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+    "url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/o9vjlt/tour_mlir_dialect_stack_everyone_depends\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A Prolog library for interfacing with LLMs",
+    "url": "https://github.com/vagos/llmpl",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+    "url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/az2jfb/native_speed_vllm_transformers_modeling\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "You Could Have Come Up With Kimi Delta Attention",
+    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+    "url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/1xbtlo/two_years_vector_search_at_notion_10x\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Human-like Neural Nets by Catapulting",
+    "url": "https://gwern.net/llm-catapult",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qmvc5h/human_like_neural_nets_by_catapulting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Languages as designed latent spaces",
+    "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Open Weights and American AI Leadership",
+    "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Not just development, distribution of software may change as well",
+    "url": "https://antirez.com/news/170",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wfural/not_just_development_distribution\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Google’s exponential path to climate-wrecking digital bloat",
+    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Triton language for Alibaba SAIL",
+    "url": "https://github.com/t-head/triton-for-sail",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/y8okbv/triton_language_for_alibaba_sail\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "AI Surveillance and Social Progress",
+    "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qvu1m0/ai_surveillance_social_progress\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Investigating idiosyncrasies in AI fiction",
+    "url": "https://arxiv.org/abs/2604.03136",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Large Language Models and the Future of Programming by Peter Norvig (2023)",
+    "url": "https://www.youtube.com/watch?v=ia6aJIplmtc",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bouq9b/large_language_models_future\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  }
+]

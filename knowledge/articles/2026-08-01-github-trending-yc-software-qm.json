@@ -1,0 +1,17 @@
+{
+  "id": "github-20260801-001",
+  "title": "yc-software/qm",
+  "source": "github-trending",
+  "source_url": "https://github.com/yc-software/qm",
+  "summary": "多智能体协作工作框架",
+  "stars": 3300,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "Development/Framework"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具但非突破性创新",
+  "status": "draft"
+}

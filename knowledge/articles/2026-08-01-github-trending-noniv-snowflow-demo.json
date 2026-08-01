@@ -1,0 +1,18 @@
+{
+  "id": "github-20260801-004",
+  "title": "Noniv/snowflow_demo",
+  "source": "github-trending",
+  "source_url": "https://github.com/Noniv/snowflow_demo",
+  "summary": "WebGPU实时程序化雪景渲染演示，含地形变形与角色",
+  "stars": 420,
+  "language": "JavaScript",
+  "tags": [
+    "Graphics/WebGPU",
+    "Graphics/Procedural Generation",
+    "Game Development/Rendering"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "技术先进，结合WebGPU与程序化生成，但非突破性创新",
+  "status": "draft"
+}

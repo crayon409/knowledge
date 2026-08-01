@@ -1,0 +1,18 @@
+{
+  "id": "github-20260801-005",
+  "title": "0xwilliamortiz/ratchet",
+  "source": "github-trending",
+  "source_url": "https://github.com/0xwilliamortiz/ratchet",
+  "summary": "AI代理规则遵循检查工具，提升代码质量",
+  "stars": 402,
+  "language": "JavaScript",
+  "tags": [
+    "Developer Tools/Code Quality",
+    "AI/Agents",
+    "Static Analysis/Linting"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，解决AI代理规则遵循问题，但非突破性创新",
+  "status": "draft"
+}
