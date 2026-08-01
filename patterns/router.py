@@ -83,7 +83,7 @@ VALID_INTENTS = {"github_search", "knowledge_query", "general_chat"}
 def _llm_classify(query: str) -> str:
     """LLM-based fallback classifier using chat_json()."""
     try:
-        result = chat_json(INTENT_SYSTEM, f"用户输入：{query}")
+        result, _ = chat_json(f"用户输入：{query}", system=INTENT_SYSTEM)
         intent = (result.get("intent") or "").strip().lower()
         if intent in VALID_INTENTS:
             return intent
@@ -284,7 +284,7 @@ GENERAL_SYSTEM = "你是技术助手，精通 AI/LLM/Agent 等领域。请用中
 def handle_general_chat(query: str) -> str:
     """Handle general chat via LLM."""
     try:
-        text, _ = chat(GENERAL_SYSTEM, query)
+        text, _ = chat(query, system=GENERAL_SYSTEM)
         return text.strip()
     except Exception as e:
         return f"LLM 调用失败：{e}"

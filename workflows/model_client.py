@@ -1,8 +1,9 @@
 """Simplified LLM client wrapper for workflow layer.
 
-Provides two convenience functions:
-  - chat(system, prompt)  -> (text: str, usage: dict)
-  - chat_json(system, prompt) -> dict
+Provides:
+  - chat(prompt, *, system="", ...)       -> (text, usage)
+  - chat_json(prompt, *, system="", ...)  -> (parsed_json, usage)
+  - accumulate_usage(tracker, usage)      -> None
 """
 
 from __future__ import annotations
@@ -20,27 +21,27 @@ def _get_provider():
     global _provider, _provider_model
     if _provider is None:
         _provider, _provider_model = create_provider()
-        _provider._client.timeout = _provider._client.timeout
     return _provider, _provider_model
 
 
 def chat(
-    system: str,
     prompt: str,
     *,
+    system: str = "",
     model: str | None = None,
     temperature: float = 0.7,
 ) -> tuple[str, dict]:
     """Send a chat request and return (text_content, usage_dict).
 
     Args:
-        system: System message (set as system role).
         prompt: User message.
+        system: Optional system message.
         model: Override the default model.
         temperature: Sampling temperature.
 
     Returns:
-        Tuple of (response_text, usage_dict with prompt_tokens/completion_tokens/total_tokens).
+        Tuple of (response_text, usage_dict).
+        usage_dict keys: prompt_tokens, completion_tokens, total_tokens.
     """
     provider, default_model = _get_provider()
     messages: list[dict[str, str]] = []
@@ -63,33 +64,31 @@ def chat(
 
 
 def chat_json(
-    system: str,
     prompt: str,
     *,
+    system: str = "",
     model: str | None = None,
     temperature: float = 0.3,
-) -> dict:
+) -> tuple[dict, dict]:
     """Chat and parse the response as JSON.
 
-    Attempts to extract a JSON object from the response (supports ```json fences
-    and bare JSON). Falls back to {"raw": text} if parsing fails.
-
     Args:
-        system: System message.
         prompt: User message.
+        system: Optional system message.
         model: Override the default model.
         temperature: Lower default (0.3) for structured output.
 
     Returns:
-        Parsed JSON dict.
+        Tuple of (parsed_json_dict, usage_dict).
+        Falls back to {"raw": text} if JSON parsing fails.
     """
-    text, _ = chat(system, prompt, model=model, temperature=temperature)
+    text, usage = chat(prompt, system=system, model=model, temperature=temperature)
 
-    # Try ```json fence first
+    # Try ```json fence
     m = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', text, re.DOTALL)
     if m:
         try:
-            return json.loads(m.group(1))
+            return json.loads(m.group(1)), usage
         except json.JSONDecodeError:
             pass
 
@@ -97,12 +96,23 @@ def chat_json(
     m = re.search(r'\{.*\}', text, re.DOTALL)
     if m:
         try:
-            return json.loads(m.group())
+            return json.loads(m.group()), usage
         except json.JSONDecodeError:
             pass
 
     # Try full text
     try:
-        return json.loads(text.strip())
+        return json.loads(text.strip()), usage
     except json.JSONDecodeError:
-        return {"raw": text}
+        return {"raw": text}, usage
+
+
+def accumulate_usage(tracker: dict, usage: dict) -> None:
+    """Accumulate token usage into a tracker dict (mutated in place).
+
+    Args:
+        tracker: Dict with prompt_tokens/completion_tokens/total_tokens keys.
+        usage: Dict from chat() or chat_json() second return value.
+    """
+    for key in ("prompt_tokens", "completion_tokens", "total_tokens"):
+        tracker[key] = tracker.get(key, 0) + usage.get(key, 0)

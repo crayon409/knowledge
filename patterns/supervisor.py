@@ -47,7 +47,7 @@ def _worker(task: str, feedback: str = "") -> str:
     if feedback:
         prompt += f'\n\n上一轮审核反馈：{feedback}\n请根据反馈改进你的分析报告，确保 JSON 格式正确。'
 
-    text, _ = chat(WORKER_SYSTEM, prompt, temperature=0.7)
+    text, _ = chat(prompt, system=WORKER_SYSTEM, temperature=0.7)
     return text
 
 
@@ -81,7 +81,7 @@ def _supervisor(report: str) -> dict:
         Dict with keys: passed, score, feedback, accuracy, depth, format.
     """
     prompt = f'请审核以下分析报告：\n\n{report}'
-    text, _ = chat(SUPERVISOR_SYSTEM, prompt, temperature=0.3)
+    text, _ = chat(prompt, system=SUPERVISOR_SYSTEM, temperature=0.3)
 
     # Parse supervisor JSON
     parsed = _extract_json(text)
