@@ -16,7 +16,7 @@ import urllib.request
 from datetime import date
 from pathlib import Path
 
-from workflows.model_client import chat, chat_json, accumulate_usage
+from workflows.model_client import accumulate_usage, chat, chat_json
 from workflows.state import KBState
 
 # ======================================================================
@@ -37,10 +37,14 @@ COLLECT_PER_PAGE = 5
 
 
 def collect_node(state: KBState) -> dict:
-    """Fetch AI-related repositories from GitHub Search API."""
+    """Fetch AI-related repositories from GitHub Search API.
+
+    Reads:  state["queries"]
+    Writes: state["sources"], state["total_count"], state["error"]
+    """
     print("[collect_node] Starting collection...")
 
-    queries = state.queries or DEFAULT_QUERIES
+    queries = state.get("queries") or DEFAULT_QUERIES
     all_items: list[dict] = []
     total_count = 0
 
@@ -80,7 +84,7 @@ def collect_node(state: KBState) -> dict:
         time.sleep(1)
 
     print(f"[collect_node] Collected {len(all_items)} items (total {total_count})")
-    return {"items": all_items, "total_count": total_count}
+    return {"sources": all_items, "total_count": total_count}
 
 
 # ======================================================================
@@ -107,46 +111,49 @@ ANALYZE_SYSTEM = textwrap.dedent("""\
 
 
 def analyze_node(state: KBState) -> dict:
-    """LLM analysis: generate summary, tags, score for each item."""
+    """LLM analysis: generate summary, tags, score for each source.
+
+    Reads:  state["sources"], state["cost_tracker"], state["error"]
+    Writes: state["analyses"], state["cost_tracker"]
+    """
     print("[analyze_node] Starting analysis...")
 
-    if state.error:
+    if state.get("error"):
         return {}
 
-    items = state.items
-    if not items:
-        return {"articles": []}
+    sources = state.get("sources") or []
+    if not sources:
+        return {"analyses": []}
 
-    articles: list[dict] = []
-    tracker = dict(state.usage_tracker)
+    analyses: list[dict] = []
+    tracker = dict(state.get("cost_tracker", {}))
 
-    for item in items:
+    for src in sources:
         prompt = (
-            f"项目名称：{item['name']}\n"
-            f"描述：{item['description']}\n"
-            f"语言：{item['language']}\n"
-            f"Stars：{item['stars']}"
+            f"项目名称：{src['name']}\n"
+            f"描述：{src['description']}\n"
+            f"语言：{src['language']}\n"
+            f"Stars：{src['stars']}"
         )
 
         try:
             parsed, usage = chat_json(prompt, system=ANALYZE_SYSTEM)
             accumulate_usage(tracker, usage)
         except Exception:
-            parsed = {"summary": item["description"][:50], "tags": [], "score": 5}
+            parsed = {"summary": src["description"][:50], "tags": [], "score": 5}
 
-        articles.append({
-            "title": item["name"],
-            "source_url": item["url"],
+        analyses.append({
+            "title": src["name"],
+            "source_url": src["url"],
             "summary": parsed.get("summary", "")[:50],
             "tags": parsed.get("tags", []),
             "score": int(parsed.get("score", 5)),
-            "stars": item["stars"],
-            "language": item["language"],
-            "status": "active",
+            "stars": src["stars"],
+            "language": src["language"],
         })
 
-    print(f"[analyze_node] Analyzed {len(articles)} articles")
-    return {"articles": articles, "usage_tracker": tracker}
+    print(f"[analyze_node] Analyzed {len(analyses)} items")
+    return {"analyses": analyses, "cost_tracker": tracker}
 
 
 # ======================================================================
@@ -165,21 +172,26 @@ FIX_SYSTEM = textwrap.dedent("""\
 
 
 def organize_node(state: KBState) -> dict:
-    """Filter low-score (<6), dedup by URL, apply LLM fixes if feedback exists."""
+    """Filter low-score (<6), dedup by URL, apply LLM fixes.
+
+    Reads:  state["analyses"], state["iteration"],
+            state["review_feedback"], state["cost_tracker"], state["error"]
+    Writes: state["articles"], state["cost_tracker"]
+    """
     print("[organize_node] Organizing...")
 
-    if state.error:
+    if state.get("error"):
         return {}
 
-    articles = state.articles
-    if not articles:
+    analyses = state.get("analyses") or []
+    if not analyses:
         return {"articles": []}
 
     # Step 1: filter score < 6
-    filtered = [a for a in articles if a.get("score", 0) >= 6]
-    dropped = len(articles) - len(filtered)
+    filtered = [a for a in analyses if a.get("score", 0) >= 6]
+    dropped = len(analyses) - len(filtered)
     if dropped:
-        print(f"[organize_node] Dropped {dropped} low-score articles (score < 6)")
+        print(f"[organize_node] Dropped {dropped} low-score items (score < 6)")
 
     # Step 2: deduplicate by source_url
     seen: set[str] = set()
@@ -189,15 +201,19 @@ def organize_node(state: KBState) -> dict:
         if url and url in seen:
             continue
         seen.add(url)
-        deduped.append(a)
+        # Promote to article format
+        deduped.append({**a, "status": "active"})
     dup_count = len(filtered) - len(deduped)
     if dup_count:
         print(f"[organize_node] Removed {dup_count} duplicates")
 
     # Step 3: LLM fixes when iteration > 0 and feedback exists
-    tracker = dict(state.usage_tracker)
-    if state.iteration > 0 and state.feedback:
-        print(f"[organize_node] Applying LLM fixes (iteration {state.iteration})...")
+    tracker = dict(state.get("cost_tracker", {}))
+    iteration = state.get("iteration", 0)
+    feedback = state.get("review_feedback", "")
+
+    if iteration > 0 and feedback:
+        print(f"[organize_node] Applying LLM fixes (iteration {iteration})...")
         for art in deduped:
             prompt = (
                 f"当前文章：\n"
@@ -205,7 +221,7 @@ def organize_node(state: KBState) -> dict:
                 f"摘要：{art['summary']}\n"
                 f"标签：{', '.join(art['tags'])}\n"
                 f"评分：{art['score']}\n\n"
-                f"审核反馈：{state.feedback}\n"
+                f"审核反馈：{feedback}\n"
                 f"请根据反馈修正摘要、标签和评分。"
             )
             try:
@@ -218,7 +234,7 @@ def organize_node(state: KBState) -> dict:
                 pass
 
     print(f"[organize_node] Final count: {len(deduped)}")
-    return {"articles": deduped, "usage_tracker": tracker}
+    return {"articles": deduped, "cost_tracker": tracker}
 
 
 # ======================================================================
@@ -251,21 +267,35 @@ REVIEW_SYSTEM = textwrap.dedent("""\
 
 
 def review_node(state: KBState) -> dict:
-    """Review article batch quality. Force-pass when iteration >= 2."""
+    """Review article batch quality. Force-pass when iteration >= 2.
+
+    Reads:  state["articles"], state["iteration"],
+            state["cost_tracker"], state["error"]
+    Writes: state["review_passed"], state["review_feedback"],
+            state["iteration"], state["cost_tracker"]
+    """
     print("[review_node] Reviewing...")
 
-    if state.error:
+    if state.get("error"):
         return {}
 
-    articles = state.articles
-    iteration = state.iteration
+    articles = state.get("articles") or []
+    iteration = state.get("iteration", 0)
 
     if iteration >= 2:
         print(f"[review_node] iteration={iteration} → force pass")
-        return {"passed": True, "feedback": "", "iteration": iteration + 1}
+        return {
+            "review_passed": True,
+            "review_feedback": "",
+            "iteration": iteration + 1,
+        }
 
     if not articles:
-        return {"passed": True, "feedback": "", "iteration": iteration + 1}
+        return {
+            "review_passed": True,
+            "review_feedback": "",
+            "iteration": iteration + 1,
+        }
 
     batch_text = "\n\n".join(
         f"[{i}] {a['title']}\n"
@@ -284,7 +314,7 @@ def review_node(state: KBState) -> dict:
     feedback = review_result.get("feedback", "")
     overall = review_result.get("overall_score", 0)
 
-    tracker = dict(state.usage_tracker)
+    tracker = dict(state.get("cost_tracker", {}))
     accumulate_usage(tracker, usage)
 
     print(
@@ -293,11 +323,10 @@ def review_node(state: KBState) -> dict:
     )
 
     return {
-        "passed": passed,
-        "feedback": feedback,
+        "review_passed": passed,
+        "review_feedback": feedback,
         "iteration": iteration + 1,
-        "usage_tracker": tracker,
-        "_review_scores": review_result.get("scores", {}),
+        "cost_tracker": tracker,
     }
 
 
@@ -310,13 +339,17 @@ INDEX_PATH = ARTICLES_DIR / "index.json"
 
 
 def save_node(state: KBState) -> dict:
-    """Persist articles to JSON files and update index.json."""
+    """Persist articles to JSON files and update index.json.
+
+    Reads:  state["articles"], state["error"]
+    Writes: state["saved_count"]
+    """
     print("[save_node] Saving articles...")
 
-    if state.error:
+    if state.get("error"):
         return {}
 
-    articles = state.articles
+    articles = state.get("articles") or []
     if not articles:
         print("[save_node] No articles to save")
         return {"saved_count": 0}
@@ -391,40 +424,39 @@ def _load_index() -> list[dict]:
 # ======================================================================
 
 if __name__ == "__main__":
-    s = KBState()
+    from workflows.state import new_state
+
+    s = new_state(queries=["AI agent framework stars:>10"])
 
     updates = collect_node(s)
-    print(f"\ncollect → items={len(updates.get('items', []))}, error={updates.get('error')}")
-    if updates.get("error"):
-        print(f"ERROR: {updates['error']}")
+    s.update(updates)
+    print(f"\ncollect → sources={len(s.get('sources', []))}, error={s.get('error')}")
+    if s.get("error"):
+        print(f"ERROR: {s['error']}")
         exit(1)
-    for k, v in updates.items():
-        setattr(s, k, v)
 
     updates = analyze_node(s)
-    print(f"analyze → articles={len(updates.get('articles', []))}")
-    for k, v in updates.items():
-        setattr(s, k, v)
+    s.update(updates)
+    print(f"analyze → analyses={len(s.get('analyses', []))}")
 
     updates = organize_node(s)
-    print(f"organize → articles={len(updates.get('articles', []))}")
-    for k, v in updates.items():
-        setattr(s, k, v)
+    s.update(updates)
+    print(f"organize → articles={len(s.get('articles', []))}")
 
     updates = review_node(s)
-    print(f"review → passed={updates.get('passed')}, feedback={bool(updates.get('feedback'))}")
-    for k, v in updates.items():
-        setattr(s, k, v)
+    s.update(updates)
+    passed = s.get("review_passed", False)
+    print(f"review → passed={passed}, feedback={bool(s.get('review_feedback'))}")
 
-    if not s.passed and s.iteration < 2:
-        s.feedback = updates.get("feedback", "")
-        print(f"\n--- Retry (iteration {s.iteration}) ---")
-        for k, v in organize_node(s).items():
-            setattr(s, k, v)
-        for k, v in review_node(s).items():
-            setattr(s, k, v)
-        print(f"review#2 → passed={s.passed}")
+    if not passed and s.get("iteration", 0) < 2:
+        print(f"\n--- Retry (iteration {s['iteration']}) ---")
+        updates = organize_node(s)
+        s.update(updates)
+        updates = review_node(s)
+        s.update(updates)
+        print(f"review#2 → passed={s.get('review_passed')}")
 
     updates = save_node(s)
-    print(f"save → saved_count={updates.get('saved_count')}")
-    print(f"\nTotal tokens: {s.usage_tracker}")
+    s.update(updates)
+    print(f"save → saved_count={s.get('saved_count')}")
+    print(f"\nTotal tokens: {s.get('cost_tracker')}")

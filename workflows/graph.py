@@ -16,7 +16,7 @@ from workflows.nodes import (
     review_node,
     save_node,
 )
-from workflows.state import KBState
+from workflows.state import KBState, new_state
 
 
 # ======================================================================
@@ -30,9 +30,9 @@ def _review_router(state: KBState) -> str:
     Returns:
         "save" if passed or error occurred (stop), else "organize" for retry.
     """
-    if state.error:
+    if state.get("error"):
         return "save"
-    return "save" if state.passed else "organize"
+    return "save" if state.get("review_passed") else "organize"
 
 
 # ======================================================================
@@ -82,7 +82,7 @@ def build_graph() -> StateGraph:
 
 if __name__ == "__main__":
     app = build_graph()
-    initial_state = KBState(queries=["AI agent framework stars:>10"])
+    initial_state = new_state(queries=["AI agent framework stars:>10"])
 
     print("=" * 60)
     print("LangGraph Knowledge Pipeline (streaming)")
@@ -94,17 +94,17 @@ if __name__ == "__main__":
         data = event[node_name]
 
         if node_name == "collect":
-            items = data.get("items", [])
+            sources = data.get("sources", [])
             err = data.get("error")
             if err:
                 print(f"\n[{node_name}] ERROR: {err}")
             else:
-                print(f"\n[{node_name}] Fetched {len(items)} items")
+                print(f"\n[{node_name}] Fetched {len(sources)} items")
 
         elif node_name == "analyze":
-            articles = data.get("articles", [])
-            print(f"\n[{node_name}] Generated {len(articles)} articles")
-            for a in articles[:3]:
+            analyses = data.get("analyses", [])
+            print(f"\n[{node_name}] Generated {len(analyses)} analyses")
+            for a in analyses[:3]:
                 print(f"  - {a['title']}: score={a['score']}, tags={a['tags']}")
 
         elif node_name == "organize":
@@ -112,12 +112,9 @@ if __name__ == "__main__":
             print(f"\n[{node_name}] After filter/dedup: {len(articles)} articles")
 
         elif node_name == "review":
-            passed = data.get("passed")
-            feedback = data.get("feedback", "")
-            scores = data.get("_review_scores", {})
+            passed = data.get("review_passed")
+            feedback = data.get("review_feedback", "")
             print(f"\n[{node_name}] passed={passed}")
-            if scores:
-                print(f"  scores: {scores}")
             if feedback:
                 print(f"  feedback: {feedback}")
 
@@ -125,18 +122,18 @@ if __name__ == "__main__":
             saved = data.get("saved_count", 0)
             print(f"\n[{node_name}] Saved {saved} articles")
 
-        final = event  # last event holds merged state if needed
+        final = event
 
     # Final state summary
     if final is not None:
         merged = list(final.values())[-1]
-        usage = merged.get("usage_tracker", {})
+        cost = merged.get("cost_tracker", {})
     else:
-        usage = {}
+        cost = {}
 
     print("\n" + "=" * 60)
-    print(f"Pipeline complete.")
-    if usage:
-        print(f"Total tokens → prompt: {usage.get('prompt_tokens', 0)}, "
-              f"completion: {usage.get('completion_tokens', 0)}, "
-              f"total: {usage.get('total_tokens', 0)}")
+    print("Pipeline complete.")
+    if cost:
+        print(f"Total tokens → prompt: {cost.get('prompt_tokens', 0)}, "
+              f"completion: {cost.get('completion_tokens', 0)}, "
+              f"total: {cost.get('total_tokens', 0)}")
