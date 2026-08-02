@@ -108,3 +108,13 @@ Agent 在输出前必须逐项确认：
 - [ ] **字段完整** — 每条均含全部 12 个字段，`language` 可空但字段不可缺失
 - [ ] **状态标注** — 新入库条目 `status` = `active`
 - [ ] **格式有效** — 每个 JSON 文件为合法 JSON，不含额外注释或尾部逗号
+
+## 完成后
+
+organizer 完成任务后，**调用者必须**运行静态页生成脚本以更新 `knowledge/index.html`：
+
+```bash
+python3 knowledge/generate_index.py
+```
+
+此步骤由调用者执行（organizer Agent 禁止使用 Bash），生成的 `index.html` 会包含所有已入库文章，按采集日期倒序排列，支持搜索过滤。

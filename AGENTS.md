@@ -8,9 +8,10 @@ AI 技术动态知识库，通过三阶段 Agent 流水线自动采集、分析�
 
 ```
 .opencode/agents/         Agent 定义（collector → analyzer → organizer）
-.opencode/skills/          可复用技能（github-trending, tech-summary）
+.opencode/skills/          可复用技能（github-trending, tech-summary, generate-static）
 knowledge/raw/             流水线中间产物（采集结果 + 分析报告）
 knowledge/articles/        最终知识条目（去重、格式化、按日归档）
+knowledge/index.html       自包含静态数据展示页（organizer 完成后自动生成）
 ```
 
 ## Agent 流水线（必须按序执行）
@@ -20,8 +21,11 @@ knowledge/articles/        最终知识条目（去重、格式化、按日归�
 | 1. 采集 | `collector` | GitHub API / HN API | `knowledge/raw/github-trending-{date}.json` | Write, Edit, Bash |
 | 2. 分析 | `analyzer` | `knowledge/raw/` 最新文件 | `knowledge/raw/tech-summary-{date}.json` | Write, Edit, Bash |
 | 3. 整理 | `organizer` | 分析结果 | `knowledge/articles/{date}-{source}-{slug}.json` | WebFetch, Bash |
+| 4. 展示 | `generate-static` | `knowledge/articles/` 全部 JSON | `knowledge/index.html` | WebFetch |
 
 `collector` 和 `analyzer` 不能写文件 — 需由调用者（用户或 orchestrator）将输出保存到目标路径。
+
+organizer 完成后，调用者必须运行静态页生成技能：`python3 knowledge/generate_index.py`
 
 ## 数据格式关键约束
 

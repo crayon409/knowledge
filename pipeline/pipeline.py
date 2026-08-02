@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Four-step knowledge pipeline: collect → analyze → organize → save."""
+"""Five-step knowledge pipeline: collect → analyze → organize → save → generate-static."""
 
 from __future__ import annotations
 
@@ -359,6 +359,41 @@ def _save_raw(filename: str, data: list[dict]) -> None:
 
 
 # ---------------------------------------------------------------------------
+# Step 5: Generate static page
+# ---------------------------------------------------------------------------
+
+_GENERATE_SCRIPT = ROOT / "knowledge" / "generate_index.py"
+
+
+def _generate_static_page() -> None:
+    """Run the static page generator to rebuild knowledge/index.html."""
+    if not _GENERATE_SCRIPT.is_file():
+        logger.warning("Static page generator not found: %s", _GENERATE_SCRIPT)
+        return
+
+    logger.info("Running static page generator...")
+    try:
+        result = subprocess.run(
+            [sys.executable, str(_GENERATE_SCRIPT)],
+            capture_output=True,
+            text=True,
+            timeout=30,
+        )
+        if result.returncode == 0:
+            logger.info("Static page generated successfully")
+        else:
+            logger.warning(
+                "Static page generator exited with code %d: %s",
+                result.returncode,
+                result.stderr.strip() or result.stdout.strip(),
+            )
+    except subprocess.TimeoutExpired:
+        logger.warning("Static page generator timed out")
+    except OSError as exc:
+        logger.warning("Static page generator failed: %s", exc)
+
+
+# ---------------------------------------------------------------------------
 # Main pipeline
 # ---------------------------------------------------------------------------
 
@@ -417,6 +452,11 @@ def run_pipeline(
     logger.info("=== Step 4: Save ===")
     saved = _save_articles(organized)
     logger.info("saved %d articles", saved)
+
+    # ── Step 5: Generate static page ──
+    logger.info("=== Step 5: Generate Static Page ===")
+    _generate_static_page()
+
     return 0
 
 
