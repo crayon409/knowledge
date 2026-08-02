@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260802-004",
+  "title": "Why we write our own C and C++ inference engines",
+  "source": "rss",
+  "source_url": "https://localai.io/blog/why-we-write-our-own-engines/",
+  "summary": "自研C/C++推理引擎的原因与优势",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Inference",
+    "Programming/C++"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "深入探讨自研引擎的动机与收益，对工程实践有参考价值，但非突破性创新。",
+  "status": "draft"
+}

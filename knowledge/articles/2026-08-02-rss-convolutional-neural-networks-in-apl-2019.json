@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260802-010",
+  "title": "Convolutional Neural Networks in APL (2019)",
+  "source": "rss",
+  "source_url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
+  "summary": "APL实现卷积神经网络的研究",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Programming/APL",
+    "Machine Learning/Neural Networks"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "展示了APL在深度学习中的潜力，但非突破性进展",
+  "status": "draft"
+}

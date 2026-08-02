@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260802-002",
+  "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+  "source": "rss",
+  "source_url": "https://ieeexplore.ieee.org/document/11475847/",
+  "summary": "AI安全与对齐的持续挑战与数学证明",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI Safety/Alignment",
+    "AI Security/Robustness",
+    "Mathematics/Proof"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "结合NIST数学证明，深入探讨AI安全对齐的持续性难题，具有理论价值但非突破性创新",
+  "status": "draft"
+}

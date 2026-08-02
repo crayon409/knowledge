@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260802-003",
+  "title": "AI Agents Enable Adaptive Computer Worms",
+  "source": "rss",
+  "source_url": "https://cleverhans.io/worm.html",
+  "summary": "AI代理催生自适应计算机蠕虫，安全威胁升级",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Security/Malware",
+    "AI/Agents"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "首次展示AI代理驱动的自适应蠕虫，安全影响重大但非全面突破",
+  "status": "draft"
+}

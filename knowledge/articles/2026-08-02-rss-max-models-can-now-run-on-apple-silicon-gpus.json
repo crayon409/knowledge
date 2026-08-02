@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260802-006",
+  "title": "MAX models can now run on Apple silicon GPUs",
+  "source": "rss",
+  "source_url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+  "summary": "MAX模型现支持Apple硅GPU运行",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/模型部署",
+    "硬件/Apple Silicon"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "重要兼容性更新，但非根本性突破",
+  "status": "draft"
+}
