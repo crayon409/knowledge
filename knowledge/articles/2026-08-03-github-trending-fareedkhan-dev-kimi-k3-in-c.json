@@ -1,0 +1,18 @@
+{
+  "id": "github-20260803-002",
+  "title": "FareedKhan-dev/kimi-k3-in-c",
+  "source": "github-trending",
+  "source_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+  "summary": "纯C99单CPU运行2.78万亿参数Kimi K3，仅8.24GB内存",
+  "stars": 643,
+  "language": "C",
+  "tags": [
+    "AI/LLM推理",
+    "系统优化/内存优化",
+    "编程语言/C99"
+  ],
+  "highlights": [],
+  "score": 9,
+  "score_reason": "突破性内存效率与极简实现，但非全新架构突破",
+  "status": "draft"
+}

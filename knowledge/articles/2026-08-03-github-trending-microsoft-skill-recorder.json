@@ -1,0 +1,18 @@
+{
+  "id": "github-20260803-001",
+  "title": "microsoft/skill-recorder",
+  "source": "github-trending",
+  "source_url": "https://github.com/microsoft/skill-recorder",
+  "summary": "微软桌面录屏工具，自动生成AI技能",
+  "stars": 1194,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent Skills",
+    "Automation/Workflow",
+    "Microsoft/Copilot"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "创新结合录屏与Copilot CLI生成可复用技能，实用性强但非颠覆性突破",
+  "status": "draft"
+}

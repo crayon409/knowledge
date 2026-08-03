@@ -1,0 +1,17 @@
+{
+  "id": "github-20260803-003",
+  "title": "0xwilliamortiz/humanizer-cli",
+  "source": "github-trending",
+  "source_url": "https://github.com/0xwilliamortiz/humanizer-cli",
+  "summary": "终端AI文本检测与人性化工具",
+  "stars": 542,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Text Detection",
+    "Developer Tools/CLI"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，提供33种检测方法，零依赖，但非突破性创新",
+  "status": "draft"
+}
