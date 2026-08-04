@@ -2,19 +2,26 @@
 
 ## 仓库概览
 
-AI 技术动态知识库，通过三阶段 Agent 流水线自动采集、分析、整理 GitHub/Hacker News 热门项目。
+AI 技术动态知识库，通过四阶段 Agent 流水线自动采集、分析、整理 GitHub/Hacker News 热门项目。
 
 ## 目录结构
 
 ```
-.opencode/agents/         Agent 定义（collector → analyzer → organizer）
-.opencode/skills/          可复用技能（github-trending, tech-summary, generate-static）
-knowledge/raw/             流水线中间产物（采集结果 + 分析报告）
-knowledge/articles/        最终知识条目（去重、格式化、按日归档）
-knowledge/index.html       自包含静态数据展示页（organizer 完成后自动生成）
+.opencode/agents/           Agent 定义（collector → analyzer → organizer）
+.opencode/skills/            可复用技能（github-trending / tech-summary / generate-static / git-commit）
+knowledge/raw/               流水线中间产物（采集结果 + 分析报告）
+knowledge/articles/          最终知识条目（去重、格式化、按日归档）
+knowledge/index.html         自包含静态数据展示页（organizer 完成后生成）
+knowledge/generate_index.py  静态页生成脚本
+patterns/                    Router / Supervisor 模式实现
+workflows/                   LangGraph 工作流（model_client / state / nodes / graph）
+tests/                       评估测试
+pipeline/                    主流水线（model_client + pipeline.py）
+hooks/                       JSON 验证脚本
+opencode.json               MCP 配置
 ```
 
-## Agent 流水线（必须按序执行）
+## Agent 流水线
 
 | 阶段 | Agent | 输入 | 输出 | 禁止 |
 |------|-------|------|------|------|
@@ -23,35 +30,65 @@ knowledge/index.html       自包含静态数据展示页（organizer 完成后�
 | 3. 整理 | `organizer` | 分析结果 | `knowledge/articles/{date}-{source}-{slug}.json` | WebFetch, Bash |
 | 4. 展示 | `generate-static` | `knowledge/articles/` 全部 JSON | `knowledge/index.html` | WebFetch |
 
-`collector` 和 `analyzer` 不能写文件 — 需由调用者（用户或 orchestrator）将输出保存到目标路径。
+`collector` / `analyzer` 不能写文件，需由调用者保存输出。organizer 完成后必须运行：
 
-organizer 完成后，调用者必须运行静态页生成技能：`python3 knowledge/generate_index.py`
+```bash
+python3 knowledge/generate_index.py
+```
 
-## 数据格式关键约束
+## 常用命令
 
-- **摘要**：纯中文，≤50 字（`len()` 按 Unicode 码点计）
+```bash
+# 运行完整管线
+python3 pipeline/pipeline.py --sources github --limit 20
+
+# 仅生成静态页面
+python3 knowledge/generate_index.py
+
+# 运行测试（排除 LLM 调用）
+pytest tests/ -v -m "not slow"
+
+# 运行全部测试（含 LLM）
+PYTHONPATH=. pytest tests/ -v
+
+# LangGraph 流式执行（mock 数据，不调 API）
+PYTHONPATH=. python3 workflows/test_review_loop.py
+```
+
+## model_client API（关键）
+
+```python
+from workflows.model_client import chat, chat_json, accumulate_usage
+
+# prompt 在前，system 为 keyword-only
+text, usage = chat(prompt, system="...")           # → (str, dict)
+result, usage = chat_json(prompt, system="...")    # → (dict, dict)
+accumulate_usage(tracker, usage)                    # 累加 token 统计
+```
+
+## 数据格式约束
+
+- **摘要**：纯中文，≤50 字（Unicode 码点）
 - **标签**：`分类/子分类` 层级格式（如 `LLM/推理优化`、`AI/Agent`）
-- **评分**：1-10 分制，每批 15 个项目中 9-10 分不超过 2 个
-- **文件命名**：`{date}-{source}-{slug}.json`，slug 仅含小写字母、数字、连字符
-- **去重依据**：`source_url` 字段，已有相同 URL 则跳过
+- **评分**：1-10，每批 15 个中 9-10 分 ≤2 个
+- **文件名**：`{date}-{source}-{slug}.json`，slug 仅小写字母、数字、连字符
+- **去重**：按 `source_url` 去重
 
 ## GitHub API 注意事项
 
-- 必须设置 `User-Agent` 请求头，否则返回 403
-- 未认证限速 10 次/分钟，有 Token 可提高
-- `created` 日期参数使用 ISO 8601（`>=YYYY-MM-DD`）
-- `WebFetch` 访问项目页面可能超时，改用 `raw.githubusercontent.com` 路径或 API 端点
+- 必须 `User-Agent` 头，否则 403；未认证限速 10/min
+- `created` 日期用 ISO 8601（`>=YYYY-MM-DD`）
+- WebFetch 页面可能超时，改用 `api.github.com` 端点
+- **SSL 错误**：某些环境缺 CA 证书，`nodes.py` 的 `collect_node` 会自动回退到 `ssl._create_unverified_context`
 
 ## 写作约定
 
-- 回复使用中文
-- 注释使用英文
+- 回复使用中文，注释使用英文
 - 摘要聚焦项目价值，避免营销化表述
 
-## 红线（绝对不可违反）
+## 红线
 
-- **不编造数据** — 不杜撰不存在的项目、URL、star 数、benchmark 分数或其他任何数据
-- **不泄露密钥** — 不在日志、输出或代码中输出 API Key、Token、密码等敏感信息
-- **不执行危险命令** — 不使用 `rm -rf`、`git push --force`、磁盘格式化等不可逆操作
-- **不改 AGENTS.md** — 除非用户明确要求，不修改本文件
-- **不改 Git 配置** — 不修改 `git config`、remote URL、`~/.gitconfig` 或其他 Git 设置，除非用户明确要求
+- **不编造数据** — 不杜撰不存在的项目、URL、star 数、评分或其他数据
+- **不泄露密钥** — 日志/输出/代码中不输出 API Key、Token、密码
+- **不执行危险命令** — 不使用 `rm -rf`、`git push --force`、磁盘格式化
+- **不改 Git 配置** — 不改 `git config`、remote URL、`~/.gitconfig`，除非用户明确要求
