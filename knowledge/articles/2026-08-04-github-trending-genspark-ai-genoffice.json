@@ -1,0 +1,18 @@
+{
+  "id": "github-20260804-002",
+  "title": "genspark-ai/genoffice",
+  "source": "github-trending",
+  "source_url": "https://github.com/genspark-ai/genoffice",
+  "summary": "AI原生跨平台办公套件，支持文档、表格、演示和PDF",
+  "stars": 989,
+  "language": "TypeScript",
+  "tags": [
+    "Productivity/Office Suite",
+    "AI/Applications",
+    "Cross-Platform/Desktop"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "整合AI到办公套件有实用价值，但非突破性创新，同类产品已有先例",
+  "status": "draft"
+}
