@@ -1,0 +1,17 @@
+{
+  "id": "github-20260806-004",
+  "title": "ben-z/findphone",
+  "source": "github-trending",
+  "source_url": "https://github.com/ben-z/findphone",
+  "summary": "macOS命令行按信号强度定位蓝牙设备",
+  "stars": 699,
+  "language": "Swift",
+  "tags": [
+    "Developer Tools/CLI",
+    "Hardware/Bluetooth"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用工具，解决特定场景需求，但技术含量一般",
+  "status": "draft"
+}

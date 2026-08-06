@@ -1,0 +1,17 @@
+{
+  "id": "github-20260806-003",
+  "title": "Binaryify/open-kimi-ppt-skill",
+  "source": "github-trending",
+  "source_url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+  "summary": "非官方Kimi幻灯片技能，生成可编辑PPT并带本地编辑器",
+  "stars": 1020,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "Productivity/Office"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，填补Kimi官方PPT生成可编辑性空白，但非突破性创新",
+  "status": "draft"
+}
