@@ -1,0 +1,18 @@
+{
+  "id": "github-20260807-001",
+  "title": "magicrew/doc7",
+  "source": "github-trending",
+  "source_url": "https://github.com/magicrew/doc7",
+  "summary": "文档转AI就绪Markdown，支持视觉理解",
+  "stars": 566,
+  "language": "Go",
+  "tags": [
+    "Document AI/Conversion",
+    "AI/Open Source",
+    "Multimodal/Vision"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，但非突破性创新，功能与现有方案重叠",
+  "status": "draft"
+}
