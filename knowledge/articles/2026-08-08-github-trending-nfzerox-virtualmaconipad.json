@@ -1,0 +1,17 @@
+{
+  "id": "github-20260808-001",
+  "title": "nfzerox/VirtualMacOniPad",
+  "source": "github-trending",
+  "source_url": "https://github.com/nfzerox/VirtualMacOniPad",
+  "summary": "iPad运行macOS，实现Xcode等专业应用",
+  "stars": 506,
+  "language": "Objective-C",
+  "tags": [
+    "Technology/Virtualization",
+    "Apple/Ecosystem"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "突破性实现iPad运行macOS，但依赖虚拟化，非原生，且未开源细节",
+  "status": "draft"
+}
