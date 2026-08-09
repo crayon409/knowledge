@@ -1,0 +1,18 @@
+{
+  "id": "github-20260809-002",
+  "title": "jd-opensource/JoyAI-Video-Edit",
+  "source": "github-trending",
+  "source_url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+  "summary": "京东开源实时视频编辑模型，自回归扩散技术",
+  "stars": 548,
+  "language": "Python",
+  "tags": [
+    "AI/Video Editing",
+    "AI/Diffusion Models",
+    "Open Source/Repository"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "开源实时视频编辑，技术新颖，但非颠覆性突破",
+  "status": "draft"
+}

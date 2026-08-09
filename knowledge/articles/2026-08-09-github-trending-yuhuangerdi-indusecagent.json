@@ -1,0 +1,17 @@
+{
+  "id": "github-20260809-001",
+  "title": "yuhuangerdi/InduSecAgent",
+  "source": "github-trending",
+  "source_url": "https://github.com/yuhuangerdi/InduSecAgent",
+  "summary": "工业安全智能代理框架",
+  "stars": 573,
+  "language": "Vue",
+  "tags": [
+    "Security/Industrial",
+    "AI/Agent"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "提供工业安全代理框架，但缺乏详细描述和突破性创新",
+  "status": "draft"
+}

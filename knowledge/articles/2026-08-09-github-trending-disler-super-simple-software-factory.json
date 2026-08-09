@@ -1,0 +1,17 @@
+{
+  "id": "github-20260809-003",
+  "title": "disler/super-simple-software-factory",
+  "source": "github-trending",
+  "source_url": "https://github.com/disler/super-simple-software-factory",
+  "summary": "将代理与代码工作流打包为可复用技能",
+  "stars": 526,
+  "language": "Python",
+  "tags": [
+    "Software Development/Workflow Automation",
+    "AI/Agent Orchestration"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新性地将代理工作流封装为确定性图节点，提升可重复性，但非突破性技术。",
+  "status": "draft"
+}
