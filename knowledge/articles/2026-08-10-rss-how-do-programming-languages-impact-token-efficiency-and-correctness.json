@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260810-005",
+  "title": "How do programming languages impact token efficiency and correctness?",
+  "source": "rss",
+  "source_url": "https://danluu.com/pl-tokens/",
+  "summary": "编程语言对token效率与正确性的影响分析",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Programming/Token Efficiency",
+    "AI/LLM"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "深入探讨编程语言设计对LLM token使用的影响，提供实证分析，但非突破性研究。",
+  "status": "draft"
+}

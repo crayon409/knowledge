@@ -1,0 +1,17 @@
+{
+  "id": "github-20260810-001",
+  "title": "ShawnPana/phone-harness",
+  "source": "github-trending",
+  "source_url": "https://github.com/ShawnPana/phone-harness",
+  "summary": "让AI代理控制手机的开源工具",
+  "stars": 1085,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "Mobile/Control"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用性强，但非突破性创新，属于工具类项目",
+  "status": "draft"
+}

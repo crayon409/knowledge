@@ -1,0 +1,18 @@
+{
+  "id": "github-20260810-002",
+  "title": "MengTo/kage",
+  "source": "github-trending",
+  "source_url": "https://github.com/MengTo/kage",
+  "summary": "京都山寺夜间交互式五章步行体验",
+  "stars": 705,
+  "language": "HTML",
+  "tags": [
+    "Creative Coding/WebGL",
+    "Generative Art/Three.js",
+    "Interactive Storytelling/Web Experience"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "融合日本美学与WebGL的沉浸式叙事，技术实现精致，但非突破性创新",
+  "status": "draft"
+}

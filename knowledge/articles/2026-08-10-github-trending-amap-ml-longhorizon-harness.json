@@ -1,0 +1,17 @@
+{
+  "id": "github-20260810-004",
+  "title": "AMAP-ML/LongHorizon-Harness",
+  "source": "github-trending",
+  "source_url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+  "summary": "长时程AI代理桌面与CLI操作框架",
+  "stars": 532,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "Tools/Harness"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "解决长时程任务状态保持的关键问题，实用性强，但非突破性创新",
+  "status": "draft"
+}

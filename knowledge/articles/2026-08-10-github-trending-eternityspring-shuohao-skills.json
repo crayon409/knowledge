@@ -1,0 +1,18 @@
+{
+  "id": "github-20260810-003",
+  "title": "eternityspring/shuohao-skills",
+  "source": "github-trending",
+  "source_url": "https://github.com/eternityspring/shuohao-skills",
+  "summary": "AI编码代理技能集，含小说角色拆解工具",
+  "stars": 601,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Agent",
+    "AI/Code",
+    "AI/Novel"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用工具集但非突破性创新，功能明确且跨平台兼容",
+  "status": "draft"
+}

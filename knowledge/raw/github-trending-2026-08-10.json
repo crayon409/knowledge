@@ -1,0 +1,292 @@
+[
+  {
+    "title": "KKKKhazix/human-writing",
+    "url": "https://github.com/KKKKhazix/human-writing",
+    "source": "github-trending",
+    "popularity": 2189,
+    "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "chinese-writing",
+      "creative-writing",
+      "writing-skill"
+    ]
+  },
+  {
+    "title": "Binaryify/open-kimi-ppt-skill",
+    "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+    "source": "github-trending",
+    "popularity": 1608,
+    "summary": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "ShawnPana/phone-harness",
+    "url": "https://github.com/ShawnPana/phone-harness",
+    "source": "github-trending",
+    "popularity": 1085,
+    "summary": "let your agent control your phone",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "MengTo/kage",
+    "url": "https://github.com/MengTo/kage",
+    "source": "github-trending",
+    "popularity": 705,
+    "summary": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+    "language": "HTML",
+    "topics": [
+      "creative-coding",
+      "generative-art",
+      "interactive-storytelling",
+      "japanese-design",
+      "threejs",
+      "webgl"
+    ]
+  },
+  {
+    "title": "yuhuangerdi/InduSecAgent",
+    "url": "https://github.com/yuhuangerdi/InduSecAgent",
+    "source": "github-trending",
+    "popularity": 670,
+    "summary": "",
+    "language": "Vue",
+    "topics": []
+  },
+  {
+    "title": "jd-opensource/JoyAI-Video-Edit",
+    "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+    "source": "github-trending",
+    "popularity": 665,
+    "summary": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "eternityspring/shuohao-skills",
+    "url": "https://github.com/eternityspring/shuohao-skills",
+    "source": "github-trending",
+    "popularity": 601,
+    "summary": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a no",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "title": "nfzerox/VirtualMacOniPad",
+    "url": "https://github.com/nfzerox/VirtualMacOniPad",
+    "source": "github-trending",
+    "popularity": 566,
+    "summary": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to ",
+    "language": "Objective-C",
+    "topics": []
+  },
+  {
+    "title": "AMAP-ML/LongHorizon-Harness",
+    "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+    "source": "github-trending",
+    "popularity": 532,
+    "summary": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "cli",
+      "codex",
+      "codex-desktop",
+      "codex-plugin",
+      "cua",
+      "gui",
+      "harness",
+      "long-horizon",
+      "long-horizon-agents",
+      "longhorizon-harness",
+      "loop",
+      "loop-engineering"
+    ]
+  },
+  {
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;The book \"Inventing ELIZA - How the First Chatbot Shaped the Future of AI\".  It is Open Access so the link to the PDF is &lt;a href=\"https://direct.mit.edu/books/book-pdf/2615293/book_9780262",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+    "url": "https://ieeexplore.ieee.org/document/11475847/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update\" rel=\"ugc\"&gt;NIST article&lt;/a&gt; covers this paper well",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Why we write our own C and C++ inference engines",
+    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "What does it mean to be a mathematician when AI does the math?",
+    "url": "https://spectrum.ieee.org/ai-in-mathematics",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hvd5hk/what_does_it_mean_be_mathematician_when_ai\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "What Rose Petals Teach Us about Induction",
+    "url": "https://www.oranlooney.com/post/rose-petals/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wwelib/what_rose_petals_teach_us_about_induction\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+    "url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "MAX models can now run on Apple silicon GPUs",
+    "url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/4srepl/max_models_can_now_run_on_apple_silicon\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Comparing Transformers and Hybrid Models at the Token Level",
+    "url": "https://arxiv.org/pdf/2606.20936",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/6c5c4j/comparing_transformers_hybrid_models_at\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "\"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation &amp; More",
+    "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/n2r6r6/how_think_about_ai_cory_doctorow_on_big\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "You Could Have Come Up With Kimi Delta Attention",
+    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Convolutional Neural Networks in APL (2019)",
+    "url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ibji5x/convolutional_neural_networks_apl_2019\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+    "url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+    "url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/1xbtlo/two_years_vector_search_at_notion_10x\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Human-like Neural Nets by Catapulting",
+    "url": "https://gwern.net/llm-catapult",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qmvc5h/human_like_neural_nets_by_catapulting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "How do programming languages impact token efficiency and correctness?",
+    "url": "https://danluu.com/pl-tokens/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/4waghh/how_do_programming_languages_impact\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Languages as designed latent spaces",
+    "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Google’s exponential path to climate-wrecking digital bloat",
+    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/k9qw5n/matrix_orthogonalization_improves\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "AI Learns the \"Dark Art\" of RF Chip Design",
+    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bxhmjt/ai_learns_dark_art_rf_chip_design\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  }
+]
