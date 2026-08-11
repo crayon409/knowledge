@@ -1,0 +1,18 @@
+{
+  "id": "github-20260811-007",
+  "title": "criptogus/HermesOffice",
+  "source": "github-trending",
+  "source_url": "https://github.com/criptogus/HermesOffice",
+  "summary": "AI原生办公套件，基于GenOffice分叉",
+  "stars": 428,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Office",
+    "Productivity/OfficeSuite",
+    "OpenSource/Fork"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "有创新但非突破性，基于现有项目分叉，AI集成是亮点",
+  "status": "draft"
+}

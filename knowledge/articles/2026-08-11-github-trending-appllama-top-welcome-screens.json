@@ -1,0 +1,18 @@
+{
+  "id": "github-20260811-005",
+  "title": "Appllama/top-welcome-screens",
+  "source": "github-trending",
+  "source_url": "https://github.com/Appllama/top-welcome-screens",
+  "summary": "顶级iOS应用欢迎屏动画的React Native实现",
+  "stars": 442,
+  "language": "TypeScript",
+  "tags": [
+    "Mobile/UI Design",
+    "React Native/Animation",
+    "Design/Patterns"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用设计资源，但非突破性创新，价值在于精选案例和代码实现",
+  "status": "draft"
+}

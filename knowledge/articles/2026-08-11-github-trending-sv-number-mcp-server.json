@@ -1,0 +1,18 @@
+{
+  "id": "github-20260811-003",
+  "title": "sv-number/mcp-server",
+  "source": "github-trending",
+  "source_url": "https://github.com/sv-number/mcp-server",
+  "summary": "MCP服务器：AI代理获取虚拟号码接收短信验证码",
+  "stars": 578,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Agent",
+    "MCP/Server",
+    "Telecom/SMS"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用性强，覆盖200+国家，但非突破性创新，属于垂直领域工具",
+  "status": "draft"
+}

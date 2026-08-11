@@ -1,0 +1,17 @@
+{
+  "id": "github-20260811-004",
+  "title": "SandAI-org/MAGI-2-preview",
+  "source": "github-trending",
+  "source_url": "https://github.com/SandAI-org/MAGI-2-preview",
+  "summary": "MAGI-2视频生成模型高效扩展预览",
+  "stars": 443,
+  "language": "Python",
+  "tags": [
+    "AI/Video Generation",
+    "AI/Model Scaling"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "视频生成模型扩展效率提升，但属预览版本，创新性有限",
+  "status": "draft"
+}

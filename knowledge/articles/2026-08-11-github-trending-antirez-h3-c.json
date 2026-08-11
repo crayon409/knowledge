@@ -1,0 +1,17 @@
+{
+  "id": "github-20260811-002",
+  "title": "antirez/h3.c",
+  "source": "github-trending",
+  "source_url": "https://github.com/antirez/h3.c",
+  "summary": "Mac上运行MiniMax H3推理引擎",
+  "stars": 747,
+  "language": "C",
+  "tags": [
+    "AI/Inference",
+    "AI/Model Deployment"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "为Mac用户提供H3模型推理能力，实用但非突破性创新",
+  "status": "draft"
+}
