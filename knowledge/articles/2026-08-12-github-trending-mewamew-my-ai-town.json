@@ -1,0 +1,17 @@
+{
+  "id": "github-20260812-004",
+  "title": "mewamew/my_ai_town",
+  "source": "github-trending",
+  "source_url": "https://github.com/mewamew/my_ai_town",
+  "summary": "AI小镇项目，模拟AI生活交互",
+  "stars": 457,
+  "language": "GDScript",
+  "tags": [
+    "AI/Simulation",
+    "AI/Interactive"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "概念有趣但实现简单，缺乏创新突破",
+  "status": "draft"
+}

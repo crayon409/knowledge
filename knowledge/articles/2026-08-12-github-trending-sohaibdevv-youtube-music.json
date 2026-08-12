@@ -1,0 +1,18 @@
+{
+  "id": "github-20260812-001",
+  "title": "sohaibdevv/youtube-music",
+  "source": "github-trending",
+  "source_url": "https://github.com/sohaibdevv/youtube-music",
+  "summary": "轻量无广告的YouTube Music桌面客户端",
+  "stars": 837,
+  "language": "TypeScript",
+  "tags": [
+    "Media/Music",
+    "Development/Open Source",
+    "Tools/Desktop App"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用开源项目，提供无广告播放和后台播放，但非突破性创新",
+  "status": "draft"
+}

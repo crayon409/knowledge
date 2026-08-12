@@ -1,0 +1,17 @@
+{
+  "id": "github-20260812-002",
+  "title": "SaladDay/pi-from-scratch",
+  "source": "github-trending",
+  "source_url": "https://github.com/SaladDay/pi-from-scratch",
+  "summary": "600行TS实现迷你pi-agent，从零构建",
+  "stars": 655,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "TypeScript/Tutorial"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "教学价值高，代码精简，但非突破性创新",
+  "status": "draft"
+}

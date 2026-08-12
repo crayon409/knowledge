@@ -1,0 +1,18 @@
+{
+  "id": "github-20260812-005",
+  "title": "NikoDemon80/ComfyUI-H3-Motion-Context",
+  "source": "github-trending",
+  "source_url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+  "summary": "ComfyUI节点实现MiniMax H3视频运动与音频跨片段连续生成",
+  "stars": 439,
+  "language": "Python",
+  "tags": [
+    "AI/Video-Generation",
+    "AI/ComfyUI",
+    "AI/Motion-Continuity"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "解决视频生成中运动与音频连续性难题，实用性强，但非颠覆性突破",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260812-003",
+  "title": "shadcn-ui/chatbot-template",
+  "source": "github-trending",
+  "source_url": "https://github.com/shadcn-ui/chatbot-template",
+  "summary": "Next.js聊天机器人模板，集成AI SDK和shadcn/ui",
+  "stars": 498,
+  "language": "TypeScript",
+  "tags": [
+    "Web Development/Frontend",
+    "AI/Chatbot",
+    "Template/Starter"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用模板，技术栈现代，但非突破性创新",
+  "status": "draft"
+}
