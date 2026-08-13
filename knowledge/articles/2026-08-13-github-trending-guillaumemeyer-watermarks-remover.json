@@ -1,0 +1,18 @@
+{
+  "id": "github-20260813-001",
+  "title": "guillaumemeyer/watermarks-remover",
+  "source": "github-trending",
+  "source_url": "https://github.com/guillaumemeyer/watermarks-remover",
+  "summary": "多供应商AI水印去除工具，支持多种格式",
+  "stars": 3446,
+  "language": "Python",
+  "tags": [
+    "AI/Watermark",
+    "Security/Provenance",
+    "Tools/Utility"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用性强，覆盖多种格式和供应商，但非突破性创新",
+  "status": "draft"
+}
