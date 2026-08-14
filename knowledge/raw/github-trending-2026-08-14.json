@@ -1,0 +1,315 @@
+[
+  {
+    "title": "deepseek-ai/deepseek-harness",
+    "url": "https://github.com/deepseek-ai/deepseek-harness",
+    "source": "github-trending",
+    "popularity": 81386,
+    "summary": "DeepSeek Harness: Everything is a Plugin.",
+    "language": "TypeScript",
+    "topics": [
+      "cordis",
+      "dsh",
+      "dsh-plugin"
+    ]
+  },
+  {
+    "title": "guillaumemeyer/watermarks-remover",
+    "url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "source": "github-trending",
+    "popularity": 6173,
+    "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "ai",
+      "c2pa",
+      "claude",
+      "provenance",
+      "synthid",
+      "watermark"
+    ]
+  },
+  {
+    "title": "antirez/h3.c",
+    "url": "https://github.com/antirez/h3.c",
+    "source": "github-trending",
+    "popularity": 1816,
+    "summary": "MiniMax H3 inference engine for Mac computers",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "title": "ShawnPana/phone-harness",
+    "url": "https://github.com/ShawnPana/phone-harness",
+    "source": "github-trending",
+    "popularity": 1734,
+    "summary": "let your agent control your phone",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "automation",
+      "developer-tools"
+    ]
+  },
+  {
+    "title": "SMNETSTUDIO/WeChat-AI",
+    "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+    "source": "github-trending",
+    "popularity": 1700,
+    "summary": "",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "SaladDay/pi-from-scratch",
+    "url": "https://github.com/SaladDay/pi-from-scratch",
+    "source": "github-trending",
+    "popularity": 940,
+    "summary": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+    "language": "TypeScript",
+    "topics": [
+      "agent-loop",
+      "ai-agent",
+      "coding-agent",
+      "llm",
+      "llm-agent",
+      "pi",
+      "pi-agent",
+      "tool-calling",
+      "typescript",
+      "typescript-tutorial"
+    ]
+  },
+  {
+    "title": "MengTo/kage",
+    "url": "https://github.com/MengTo/kage",
+    "source": "github-trending",
+    "popularity": 911,
+    "summary": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+    "language": "HTML",
+    "topics": [
+      "creative-coding",
+      "generative-art",
+      "interactive-storytelling",
+      "japanese-design",
+      "threejs",
+      "webgl"
+    ]
+  },
+  {
+    "title": "sohaibdevv/youtube-music",
+    "url": "https://github.com/sohaibdevv/youtube-music",
+    "source": "github-trending",
+    "popularity": 855,
+    "summary": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+    "language": "TypeScript",
+    "topics": [
+      "ad-free",
+      "audio-streaming",
+      "background-playback",
+      "desktop-app",
+      "free",
+      "music",
+      "music-player",
+      "no-ads",
+      "open-source",
+      "player",
+      "playlist-manager",
+      "streaming",
+      "windows",
+      "youtube",
+      "youtube-music",
+      "yt-music"
+    ]
+  },
+  {
+    "title": "shadcn-ui/chatbot-template",
+    "url": "https://github.com/shadcn-ui/chatbot-template",
+    "source": "github-trending",
+    "popularity": 660,
+    "summary": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;The book \"Inventing ELIZA - How the First Chatbot Shaped the Future of AI\".  It is Open Access so the link to the PDF is &lt;a href=\"https://direct.mit.edu/books/book-pdf/2615293/book_9780262",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+    "url": "https://ieeexplore.ieee.org/document/11475847/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update\" rel=\"ugc\"&gt;NIST article&lt;/a&gt; covers this paper well",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Why we write our own C and C++ inference engines",
+    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "AI companies destroy physical books — let’s scan rare books before it’s too late",
+    "url": "https://fr.annas-archive.gl/blog/physical-destruction.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/g32zwm/ai_companies_destroy_physical_books_let_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "What Rose Petals Teach Us about Induction",
+    "url": "https://www.oranlooney.com/post/rose-petals/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wwelib/what_rose_petals_teach_us_about_induction\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+    "url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "MAX models can now run on Apple silicon GPUs",
+    "url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/4srepl/max_models_can_now_run_on_apple_silicon\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Comparing Transformers and Hybrid Models at the Token Level",
+    "url": "https://arxiv.org/pdf/2606.20936",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/6c5c4j/comparing_transformers_hybrid_models_at\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "You Could Have Come Up With Kimi Delta Attention",
+    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Convolutional Neural Networks in APL (2019)",
+    "url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ibji5x/convolutional_neural_networks_apl_2019\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+    "url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+    "url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/1xbtlo/two_years_vector_search_at_notion_10x\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Human-like Neural Nets by Catapulting",
+    "url": "https://gwern.net/llm-catapult",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qmvc5h/human_like_neural_nets_by_catapulting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Languages as designed latent spaces",
+    "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+    "url": "https://youtu.be/87DyyMV0kCY",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ahonc7/breaking_news_openai_hugging_face\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Google’s exponential path to climate-wrecking digital bloat",
+    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/k9qw5n/matrix_orthogonalization_improves\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "AI Learns the \"Dark Art\" of RF Chip Design",
+    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bxhmjt/ai_learns_dark_art_rf_chip_design\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  }
+]
