@@ -1,0 +1,18 @@
+{
+  "id": "github-20260816-001",
+  "title": "yjh051108/dsh-routing-suite",
+  "source": "github-trending",
+  "source_url": "https://github.com/yjh051108/dsh-routing-suite",
+  "summary": "DSH路由套件：注入器与任务感知路由预设",
+  "stars": 2232,
+  "language": "PowerShell",
+  "tags": [
+    "AI/Inference",
+    "AI/Routing",
+    "Tools/Development"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "提供实用的路由工具组合，但创新性一般，属于工程优化而非突破性成果。",
+  "status": "draft"
+}

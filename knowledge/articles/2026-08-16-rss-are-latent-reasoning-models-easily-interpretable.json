@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260816-002",
+  "title": "Are Latent Reasoning Models Easily Interpretable?",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.04902",
+  "summary": "潜推理模型可解释性研究",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Interpretability",
+    "AI/Reasoning Models"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "针对新兴潜推理模型的可解释性提出实证评估，方法新颖但非颠覆性突破。",
+  "status": "draft"
+}
