@@ -1,0 +1,17 @@
+{
+  "id": "github-20260817-001",
+  "title": "alchaincyf/deepseek-harness-orange-book",
+  "source": "github-trending",
+  "source_url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+  "summary": "DeepSeek系统提示词与启动清单实测",
+  "stars": 933,
+  "language": "HTML",
+  "tags": [
+    "AI/DeepSeek",
+    "Documentation/Guide"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "提供官方未公开的实测细节，但非核心技术突破",
+  "status": "draft"
+}
