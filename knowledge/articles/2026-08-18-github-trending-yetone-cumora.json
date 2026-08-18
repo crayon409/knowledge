@@ -1,0 +1,17 @@
+{
+  "id": "github-20260818-001",
+  "title": "yetone/cumora",
+  "source": "github-trending",
+  "source_url": "https://github.com/yetone/cumora",
+  "summary": "跨平台AI代理团队协作聊天工具",
+  "stars": 1970,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent协作",
+    "开发工具/聊天平台"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新性地将AI代理作为团队聊天一等公民，支持自带模型，但非突破性技术",
+  "status": "draft"
+}
