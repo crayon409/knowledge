@@ -1,0 +1,18 @@
+{
+  "id": "github-20260819-002",
+  "title": "cinderline/northcinder",
+  "source": "github-trending",
+  "source_url": "https://github.com/cinderline/northcinder",
+  "summary": "买家主导的广告中立购物代理MCP",
+  "stars": 1160,
+  "language": "JavaScript",
+  "tags": [
+    "Agentic Commerce/Shopping Agent",
+    "MCP/Server",
+    "Privacy/Local-first"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新性结合确定性排序与审计追踪，但非突破性技术",
+  "status": "draft"
+}
