@@ -1,0 +1,18 @@
+{
+  "id": "github-20260820-001",
+  "title": "CopilotKit/openbot",
+  "source": "github-trending",
+  "source_url": "https://github.com/CopilotKit/openbot",
+  "summary": "开源AI同事框架，自带浏览器与工具",
+  "stars": 930,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent-Framework",
+    "AI/Open-Source",
+    "Automation/Browser"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "提供可治理的AI代理环境，但非突破性创新",
+  "status": "draft"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260820-002",
+  "title": "Liquid Types as a behavioural sandbox for agents",
+  "source": "rss",
+  "source_url": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+  "summary": "液态类型作为智能体行为沙箱的探索",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Programming Languages/Type Systems",
+    "AI/Agent Safety"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "提出新颖的液态类型应用方向，但缺乏实证和深度讨论",
+  "status": "draft"
+}
