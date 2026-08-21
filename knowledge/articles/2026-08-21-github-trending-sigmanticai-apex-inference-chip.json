@@ -1,0 +1,17 @@
+{
+  "id": "github-20260821-005",
+  "title": "SigmanticAI/apex-inference-chip",
+  "source": "github-trending",
+  "source_url": "https://github.com/SigmanticAI/apex-inference-chip",
+  "summary": "FPGA上跑通真实LLM推理芯片设计",
+  "stars": 647,
+  "language": "Python",
+  "tags": [
+    "Hardware/FPGA",
+    "AI/Inference"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "在FPGA上实现真实LLM推理，位精确匹配，性能提升显著，但非突破性创新",
+  "status": "draft"
+}

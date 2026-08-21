@@ -1,0 +1,18 @@
+{
+  "id": "github-20260821-004",
+  "title": "hairyf/deepseek-harness-desktop",
+  "source": "github-trending",
+  "source_url": "https://github.com/hairyf/deepseek-harness-desktop",
+  "summary": "DeepSeek Harness桌面版，轻量跨平台",
+  "stars": 806,
+  "language": "Rust",
+  "tags": [
+    "AI/Desktop",
+    "AI/DeepSeek",
+    "Developer Tools/Desktop"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，简化部署，但非突破性创新",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260821-003",
+  "title": "wang2122/sprix-sage-router",
+  "source": "github-trending",
+  "source_url": "https://github.com/wang2122/sprix-sage-router",
+  "summary": "A2A智能体网络的状态感知路由框架",
+  "stars": 926,
+  "language": "Python",
+  "tags": [
+    "AI/Agent-Orchestration",
+    "AI/Multi-Agent-Systems",
+    "AI/Task-Scheduling"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "针对A2A多智能体协作的路由设计，有明确场景但非突破性创新",
+  "status": "draft"
+}

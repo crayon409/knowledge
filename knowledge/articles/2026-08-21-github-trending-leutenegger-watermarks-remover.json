@@ -1,0 +1,17 @@
+{
+  "id": "github-20260821-002",
+  "title": "Leutenegger/watermarks-remover",
+  "source": "github-trending",
+  "source_url": "https://github.com/Leutenegger/watermarks-remover",
+  "summary": "多厂商AI水印去除工具，支持多种文件格式",
+  "stars": 928,
+  "language": "Python",
+  "tags": [
+    "AI/Watermark",
+    "Security/Privacy"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用工具但非突破性创新，技术常规且存在伦理风险",
+  "status": "draft"
+}

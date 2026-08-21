@@ -1,0 +1,17 @@
+{
+  "id": "github-20260821-006",
+  "title": "bowenliang123/dsh-context",
+  "source": "github-trending",
+  "source_url": "https://github.com/bowenliang123/dsh-context",
+  "summary": "DeepSeek Harness上下文管理插件",
+  "stars": 638,
+  "language": "TypeScript",
+  "tags": [
+    "Developer Tools/IDE Plugins",
+    "AI/LLM Tools"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，提供上下文洞察和管理功能，但非突破性创新",
+  "status": "draft"
+}
