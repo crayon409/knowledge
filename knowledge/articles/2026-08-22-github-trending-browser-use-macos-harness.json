@@ -1,0 +1,18 @@
+{
+  "id": "github-20260822-001",
+  "title": "browser-use/macos-harness",
+  "source": "github-trending",
+  "source_url": "https://github.com/browser-use/macos-harness",
+  "summary": "极简Mac控制框架，赋予LLM完整系统权限",
+  "stars": 698,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "Automation/MacOS",
+    "Developer Tools/Framework"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "提供极简高效的LLM控制Mac方案，实用性高但非突破性创新",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260822-007",
+  "title": "Leutenegger/claudish-to-english",
+  "source": "github-trending",
+  "source_url": "https://github.com/Leutenegger/claudish-to-english",
+  "summary": "Claude Code插件将AI回复转为通俗语言",
+  "stars": 579,
+  "language": "Shell",
+  "tags": [
+    "Developer Tools/CLI",
+    "AI/LLM",
+    "Productivity/Communication"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用工具，提升可读性，但非突破性创新",
+  "status": "draft"
+}

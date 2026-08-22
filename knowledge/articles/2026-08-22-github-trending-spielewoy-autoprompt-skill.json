@@ -1,0 +1,18 @@
+{
+  "id": "github-20260822-004",
+  "title": "Spielewoy/autoprompt-skill",
+  "source": "github-trending",
+  "source_url": "https://github.com/Spielewoy/autoprompt-skill",
+  "summary": "Autoprompt技能将智能体编码失败率降低45%",
+  "stars": 623,
+  "language": "JavaScript",
+  "tags": [
+    "AI Agents/Coding",
+    "Developer Tools/Prompt Engineering",
+    "Workflow Automation/Agentic"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "显著提升编码智能体性能，但非根本性突破，属于工程优化创新。",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260822-002",
+  "title": "Nervercc/gpt_nerver",
+  "source": "github-trending",
+  "source_url": "https://github.com/Nervercc/gpt_nerver",
+  "summary": "ChatGPT Plus自动化工具集，含桌面端与支付流程",
+  "stars": 659,
+  "language": "Python",
+  "tags": [
+    "Automation/Toolkit",
+    "Desktop/GUI",
+    "Payment/Integration"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "功能实用但非突破性创新，自动化支付流程存在合规风险",
+  "status": "draft"
+}

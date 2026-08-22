@@ -1,0 +1,17 @@
+{
+  "id": "github-20260822-006",
+  "title": "missuo/herdrm",
+  "source": "github-trending",
+  "source_url": "https://github.com/missuo/herdrm",
+  "summary": "macOS原生控制台，管理多设备编码代理与终端",
+  "stars": 596,
+  "language": "Swift",
+  "tags": [
+    "Developer Tools/Agent Management",
+    "macOS/Console"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，但非突破性创新，功能明确且有一定需求",
+  "status": "draft"
+}

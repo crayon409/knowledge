@@ -1,0 +1,18 @@
+{
+  "id": "github-20260822-003",
+  "title": "jeremy-prt/bloub",
+  "source": "github-trending",
+  "source_url": "https://github.com/jeremy-prt/bloub",
+  "summary": "SVG复刻x.ai机器人头像，14态形变动画",
+  "stars": 626,
+  "language": "TypeScript",
+  "tags": [
+    "Frontend/Animation",
+    "SVG/Morphing",
+    "Design/Avatar"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "技术实现精细，但非突破性创新，属于高质量前端动画作品",
+  "status": "draft"
+}

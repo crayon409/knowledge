@@ -1,0 +1,18 @@
+{
+  "id": "github-20260822-005",
+  "title": "Leutenegger/coldcard-airgap",
+  "source": "github-trending",
+  "source_url": "https://github.com/Leutenegger/coldcard-airgap",
+  "summary": "Coldcard离线工具集：PSBT检查、种子拆分等",
+  "stars": 608,
+  "language": "Python",
+  "tags": [
+    "Bitcoin/Hardware Wallet",
+    "Security/Airgap",
+    "Cryptography/Key Management"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用性强，但非突破性创新，功能已有类似实现",
+  "status": "draft"
+}
