@@ -1,0 +1,17 @@
+{
+  "id": "github-20260823-001",
+  "title": "bawadou/ai-data-extractor",
+  "source": "github-trending",
+  "source_url": "https://github.com/bawadou/ai-data-extractor",
+  "summary": "开源AI编码助手聊天记录提取工具",
+  "stars": 541,
+  "language": "Python",
+  "tags": [
+    "Developer Tools/Data Extraction",
+    "AI/Code Assistants"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用性强，支持多平台，但非突破性创新",
+  "status": "draft"
+}

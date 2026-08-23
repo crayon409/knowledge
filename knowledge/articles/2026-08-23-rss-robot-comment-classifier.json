@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260823-003",
+  "title": "Robot comment classifier",
+  "source": "rss",
+  "source_url": "https://entropicthoughts.com/ai-comment-classifier",
+  "summary": "AI评论分类器：训练逻辑回归/SVM区分机器人评论",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Machine Learning",
+    "AI/NLP"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用技术应用，但方法常规，无重大突破",
+  "status": "draft"
+}
