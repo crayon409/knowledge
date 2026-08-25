@@ -1,0 +1,17 @@
+{
+  "id": "github-20260825-006",
+  "title": "Forsy-AI/biosecurity-agent",
+  "source": "github-trending",
+  "source_url": "https://github.com/Forsy-AI/biosecurity-agent",
+  "summary": "AI代理构建实时生物安全监控体系",
+  "stars": 513,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "Biosecurity/Monitoring"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新应用AI于生物安全，但非突破性技术，实用性待验证",
+  "status": "draft"
+}

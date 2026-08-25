@@ -1,0 +1,18 @@
+{
+  "id": "github-20260825-001",
+  "title": "duty1g/x64dbg-mcp-server",
+  "source": "github-trending",
+  "source_url": "https://github.com/duty1g/x64dbg-mcp-server",
+  "summary": "x64dbg原生MCP插件，AI控制调试器",
+  "stars": 1298,
+  "language": "Zig",
+  "tags": [
+    "AI/Debugging",
+    "Reverse Engineering/Tools",
+    "MCP/Server"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "创新性地将MCP协议引入x64dbg，实现AI辅助调试，实用性强，但非突破性技术",
+  "status": "draft"
+}

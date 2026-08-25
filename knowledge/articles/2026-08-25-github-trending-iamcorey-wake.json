@@ -1,0 +1,17 @@
+{
+  "id": "github-20260825-005",
+  "title": "iAmCorey/Wake",
+  "source": "github-trending",
+  "source_url": "https://github.com/iAmCorey/Wake",
+  "summary": "Mac端编码代理会话统一管理工具",
+  "stars": 608,
+  "language": "Rust",
+  "tags": [
+    "Developer Tools/Productivity",
+    "Rust/Application"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，解决会话管理痛点，但非突破性创新",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260825-007",
+  "title": "Zyrexnn/Cybermes",
+  "source": "github-trending",
+  "source_url": "https://github.com/Zyrexnn/Cybermes",
+  "summary": "自主攻防安全代理框架，多模型LLM编排",
+  "stars": 493,
+  "language": "Python",
+  "tags": [
+    "Cybersecurity/Offensive Security",
+    "AI/Agent Framework",
+    "DevSecOps/Testing"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "集成多种安全工具和LLM，但非突破性创新，属于实用框架",
+  "status": "draft"
+}
