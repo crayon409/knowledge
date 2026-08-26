@@ -25,6 +25,7 @@ jobs:
 
       - name: Run pipeline
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LLM_PROVIDER: ${{ secrets.LLM_PROVIDER || 'deepseek' }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}

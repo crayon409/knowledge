@@ -10,6 +10,7 @@ import os
 import re
 import subprocess
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -52,10 +53,33 @@ _RSS_DESC = re.compile(
 _RSS_ITEM = re.compile(r"<item>(.*?)</item>", re.S)
 
 
+_GITHUB_MAX_RETRIES = 3
+_RETRY_BASE_DELAY = 2  # seconds; doubles each retry
+
+
+def _retry_after_seconds(value: str | None, default: float = 60.0) -> float:
+    """Parse a Retry-After header (seconds or HTTP-date) into seconds."""
+    if not value:
+        return default
+    try:
+        return max(1.0, float(value))
+    except ValueError:
+        pass
+    try:
+        from email.utils import parsedate_to_datetime
+
+        retry_at = parsedate_to_datetime(value)
+        wait = (retry_at - datetime.now(timezone.utc)).total_seconds()
+        return max(1.0, wait)
+    except (TypeError, ValueError, OverflowError):
+        return default
+
+
 def _collect_github(
     client: httpx.Client, limit: int, since_days: int = 7
 ) -> list[dict]:
     from datetime import timedelta
+
     since = (
         datetime.now(timezone.utc) - timedelta(days=since_days)
     ).strftime("%Y-%m-%d")
@@ -65,9 +89,40 @@ def _collect_github(
         "order": "desc",
         "per_page": min(limit, 100),
     }
-    resp = client.get(_GITHUB_SEARCH_URL, params=params, headers=_GITHUB_HEADERS)
-    resp.raise_for_status()
-    items = resp.json().get("items", [])
+
+    headers = dict(_GITHUB_HEADERS)
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    items: list[dict] = []
+    for attempt in range(1, _GITHUB_MAX_RETRIES + 1):
+        try:
+            resp = client.get(_GITHUB_SEARCH_URL, params=params, headers=headers)
+            if resp.status_code in (403, 429):
+                wait = _retry_after_seconds(resp.headers.get("Retry-After"))
+                logger.warning(
+                    "github rate limited (HTTP %d), waiting %.0fs (attempt %d/%d)",
+                    resp.status_code, wait, attempt, _GITHUB_MAX_RETRIES,
+                )
+                time.sleep(wait)
+                continue
+            resp.raise_for_status()
+            items = resp.json().get("items", [])
+            break
+        except (httpx.TimeoutException, httpx.TransportError) as exc:
+            if attempt == _GITHUB_MAX_RETRIES:
+                raise
+            wait = _RETRY_BASE_DELAY ** attempt
+            logger.warning(
+                "github fetch failed (%s), retrying in %ds (attempt %d/%d)",
+                exc, wait, attempt, _GITHUB_MAX_RETRIES,
+            )
+            time.sleep(wait)
+    else:
+        raise RuntimeError(
+            f"GitHub Search API failed after {_GITHUB_MAX_RETRIES} attempts"
+        )
 
     results: list[dict] = []
     ai_re = re.compile(_AI_KEYWORDS, re.I)
@@ -405,7 +460,10 @@ def run_pipeline(
     dry_run: bool = False,
 ) -> int:
     date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    client = httpx.Client(timeout=30.0)
+    client = httpx.Client(
+        timeout=30.0,
+        transport=httpx.HTTPTransport(retries=3),
+    )
 
     items: list[dict] = []
 
