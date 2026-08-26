@@ -1,0 +1,17 @@
+{
+  "id": "github-20260826-003",
+  "title": "localai-org/kimodo.cpp",
+  "source": "github-trending",
+  "source_url": "https://github.com/localai-org/kimodo.cpp",
+  "summary": "NVIDIA Kimodo移植到C++/GGML",
+  "stars": 472,
+  "language": "C++",
+  "tags": [
+    "AI/Model Porting",
+    "AI/Inference"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "技术移植有价值，但非全新突破，依赖上游模型",
+  "status": "draft"
+}

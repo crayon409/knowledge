@@ -1,0 +1,18 @@
+{
+  "id": "github-20260826-004",
+  "title": "kgoedecke/doop",
+  "source": "github-trending",
+  "source_url": "https://github.com/kgoedecke/doop",
+  "summary": "开源多人AI协作设计画布，内置MCP",
+  "stars": 383,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agents",
+    "Design/Collaboration",
+    "MCP/Integration"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "创新性地结合多人实时协作与AI代理设计，内置MCP，但非突破性技术，生态尚新",
+  "status": "draft"
+}

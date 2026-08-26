@@ -1,0 +1,17 @@
+{
+  "id": "github-20260826-002",
+  "title": "amagine-ai/Amagine3D",
+  "source": "github-trending",
+  "source_url": "https://github.com/amagine-ai/Amagine3D",
+  "summary": "从硬件需求生成可编辑3D设计",
+  "stars": 685,
+  "language": "TypeScript",
+  "tags": [
+    "AI/3D生成",
+    "CAD/自动化设计"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "创新性地将硬件需求转化为可编辑3D设计，具有实用价值，但非颠覆性突破。",
+  "status": "draft"
+}
