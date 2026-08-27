@@ -1,0 +1,18 @@
+{
+  "id": "github-20260827-002",
+  "title": "Tencent/WeMM-Embedding",
+  "source": "github-trending",
+  "source_url": "https://github.com/Tencent/WeMM-Embedding",
+  "summary": "腾讯微信视觉团队发布通用多模态嵌入模型",
+  "stars": 459,
+  "language": "Python",
+  "tags": [
+    "Embedding/Multimodal",
+    "AI/Model",
+    "Tencent/OpenSource"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "腾讯官方发布的多模态嵌入模型，支持理解与检索，具有较高实用价值但非颠覆性突破",
+  "status": "draft"
+}
