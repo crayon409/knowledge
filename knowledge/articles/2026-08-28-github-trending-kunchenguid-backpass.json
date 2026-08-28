@@ -1,0 +1,17 @@
+{
+  "id": "github-20260828-002",
+  "title": "kunchenguid/backpass",
+  "source": "github-trending",
+  "source_url": "https://github.com/kunchenguid/backpass",
+  "summary": "用梯度下降训练AGENTS.md，创新但小众",
+  "stars": 523,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Agent",
+    "AI/Training"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "概念新颖，将训练引入配置生成，但实用性待验证",
+  "status": "draft"
+}
