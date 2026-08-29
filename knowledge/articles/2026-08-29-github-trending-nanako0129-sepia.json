@@ -1,0 +1,18 @@
+{
+  "id": "github-20260829-002",
+  "title": "Nanako0129/sepia",
+  "source": "github-trending",
+  "source_url": "https://github.com/Nanako0129/sepia",
+  "summary": "De-AI写作技能包，修复AI叙事痕迹",
+  "stars": 563,
+  "language": "Shell",
+  "tags": [
+    "AI Writing/Humanizer",
+    "Developer Tools/Agent Skills",
+    "Prompt Engineering/Skills"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，基于论文，但非突破性创新",
+  "status": "draft"
+}

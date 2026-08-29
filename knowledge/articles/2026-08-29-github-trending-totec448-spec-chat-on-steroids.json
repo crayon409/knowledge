@@ -1,0 +1,18 @@
+{
+  "id": "github-20260829-003",
+  "title": "totec448-spec/chat-on-steroids",
+  "source": "github-trending",
+  "source_url": "https://github.com/totec448-spec/chat-on-steroids",
+  "summary": "本地MCP增强ChatGPT跨平台多代理",
+  "stars": 534,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "Automation/Workflow",
+    "Browser/Extension"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用性强，但非突破性创新，功能组合为主",
+  "status": "draft"
+}

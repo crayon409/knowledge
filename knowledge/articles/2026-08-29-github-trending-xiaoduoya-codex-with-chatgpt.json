@@ -1,0 +1,18 @@
+{
+  "id": "github-20260829-001",
+  "title": "XiaoDuoYa/codex-with-chatgpt",
+  "source": "github-trending",
+  "source_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+  "summary": "ChatGPT规划+Codex执行，双AI协作编程",
+  "stars": 721,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent协作",
+    "AI/编程工具",
+    "MCP/集成"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用架构创新，但非突破性技术，属于工具集成优化",
+  "status": "draft"
+}
