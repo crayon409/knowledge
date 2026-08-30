@@ -1,0 +1,18 @@
+{
+  "id": "github-20260830-001",
+  "title": "MetaMask-AI/metamask-desktop",
+  "source": "github-trending",
+  "source_url": "https://github.com/MetaMask-AI/metamask-desktop",
+  "summary": "MetaMask桌面版，支持以太坊DApp浏览",
+  "stars": 978,
+  "language": "CSS",
+  "tags": [
+    "Blockchain/Wallet",
+    "DApp/Browser",
+    "Ethereum/Tools"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "官方桌面应用，扩展使用场景，但非突破性创新",
+  "status": "draft"
+}
