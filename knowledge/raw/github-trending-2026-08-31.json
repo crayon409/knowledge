@@ -1,0 +1,327 @@
+[
+  {
+    "title": "XiaoDuoYa/codex-with-chatgpt",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "source": "github-trending",
+    "popularity": 1733,
+    "summary": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ]
+  },
+  {
+    "title": "MetaMask-AI/metamask-desktop",
+    "url": "https://github.com/MetaMask-AI/metamask-desktop",
+    "source": "github-trending",
+    "popularity": 1228,
+    "summary": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+    "language": "CSS",
+    "topics": [
+      "bitcoin",
+      "bitcoin-wallet",
+      "crypto",
+      "cryptocoins",
+      "cryptocompare-api",
+      "cryptocurrency",
+      "dapp",
+      "ethereum",
+      "ethereum-blockchain",
+      "ethereum-wallet",
+      "evm",
+      "evm-wallet",
+      "macos",
+      "metamask",
+      "metamask-dapp",
+      "metamask-desktop",
+      "metamask-io",
+      "solana",
+      "web3",
+      "windows"
+    ]
+  },
+  {
+    "title": "Nanako0129/sepia",
+    "url": "https://github.com/Nanako0129/sepia",
+    "source": "github-trending",
+    "popularity": 1181,
+    "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, ",
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "fiction",
+      "grok",
+      "humanizer",
+      "llm",
+      "prompt-engineering",
+      "writing-tools"
+    ]
+  },
+  {
+    "title": "Tencent/WeMM-Embedding",
+    "url": "https://github.com/Tencent/WeMM-Embedding",
+    "source": "github-trending",
+    "popularity": 996,
+    "summary": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+    "language": "Python",
+    "topics": [
+      "embedding-models",
+      "multimodal",
+      "multimodal-llm"
+    ]
+  },
+  {
+    "title": "amosblomqvist/learn",
+    "url": "https://github.com/amosblomqvist/learn",
+    "source": "github-trending",
+    "popularity": 982,
+    "summary": "My AI learning system.",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "kacperkapusciak/goldie",
+    "url": "https://github.com/kacperkapusciak/goldie",
+    "source": "github-trending",
+    "popularity": 960,
+    "summary": "✨ agentic app store previews and screenshots",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "cbrock84/headcount",
+    "url": "https://github.com/cbrock84/headcount",
+    "source": "github-trending",
+    "popularity": 797,
+    "summary": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+    "language": "Markdown",
+    "topics": [
+      "agent-marketplace",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "claude-skills",
+      "mcp"
+    ]
+  },
+  {
+    "title": "GangTailorUpgrade/CoomeRtool",
+    "url": "https://github.com/GangTailorUpgrade/CoomeRtool",
+    "source": "github-trending",
+    "popularity": 543,
+    "summary": "Coomer Tool",
+    "language": "Python",
+    "topics": [
+      "coomer",
+      "coomer-download",
+      "coomer-downloader",
+      "coomer-party",
+      "coomer-porn",
+      "coomer-st",
+      "coomer-su",
+      "kemomo",
+      "kemon-party",
+      "kemoni",
+      "kemono",
+      "kemono-downloader",
+      "kemono-oarty",
+      "kemono-party",
+      "kemono-porn",
+      "kemono-su",
+      "kemono-su-downloader",
+      "kemono-xxx",
+      "kemonoparty",
+      "kenmono"
+    ]
+  },
+  {
+    "title": "I attended a conference recently and AI use by academics was absurd",
+    "url": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;As we listened to talks most people were stuck doing pointless tasks on their phones and computers. Less than 10%, likely 5%, were listening attentively. This was quite sad for me.&lt;/p&gt;\n",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Robot comment classifier",
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;(I used both AI and vibecoding tags because the article describes training a logistic regression/SVM on LLM output. I thought there was a statistics tag that would have been appropriate but a",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Are Latent Reasoning Models Easily Interpretable?",
+    "url": "https://arxiv.org/abs/2604.04902",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;Models normally do all their reasoning in a continuous hidden state instead of spitting out readable text which makes them hard to monitor. The authors tested the Coconut and CODI models and ",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;The book \"Inventing ELIZA - How the First Chatbot Shaped the Future of AI\".  It is Open Access so the link to the PDF is &lt;a href=\"https://direct.mit.edu/books/book-pdf/2615293/book_9780262",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Why we write our own C and C++ inference engines",
+    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "What Rose Petals Teach Us about Induction",
+    "url": "https://www.oranlooney.com/post/rose-petals/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wwelib/what_rose_petals_teach_us_about_induction\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+    "url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "You Could Have Come Up With Kimi Delta Attention",
+    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+    "url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+    "url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/1xbtlo/two_years_vector_search_at_notion_10x\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Human-like Neural Nets by Catapulting",
+    "url": "https://gwern.net/llm-catapult",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qmvc5h/human_like_neural_nets_by_catapulting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "But what is cross-entropy? | Compression is Intelligence Part 2 - YouTube",
+    "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ctbbjj/what_is_cross_entropy_compression_is\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Languages as designed latent spaces",
+    "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+    "url": "https://youtu.be/87DyyMV0kCY",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ahonc7/breaking_news_openai_hugging_face\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Google’s exponential path to climate-wrecking digital bloat",
+    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+    "url": "https://arxiv.org/abs/2408.06602",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/2djazj/super_intelligence_superstition\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "AscendNPU-IR: MLIR for Ascend",
+    "url": "https://gitcode.com/Ascend/AscendNPU-IR",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zpk6cj/ascendnpu_ir_mlir_for_ascend\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/aixljs/turbulent_ai_era_is_here\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  }
+]

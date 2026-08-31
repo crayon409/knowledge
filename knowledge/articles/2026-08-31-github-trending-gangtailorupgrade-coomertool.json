@@ -1,0 +1,17 @@
+{
+  "id": "github-20260831-002",
+  "title": "GangTailorUpgrade/CoomeRtool",
+  "source": "github-trending",
+  "source_url": "https://github.com/GangTailorUpgrade/CoomeRtool",
+  "summary": "成人内容平台下载工具",
+  "stars": 543,
+  "language": "Python",
+  "tags": [
+    "Tools/Downloader",
+    "Adult/Content"
+  ],
+  "highlights": [],
+  "score": 2,
+  "score_reason": "功能单一，面向成人内容，技术含量低，非突破性项目",
+  "status": "draft"
+}

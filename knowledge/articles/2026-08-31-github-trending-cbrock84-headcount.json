@@ -1,0 +1,17 @@
+{
+  "id": "github-20260831-001",
+  "title": "cbrock84/headcount",
+  "source": "github-trending",
+  "source_url": "https://github.com/cbrock84/headcount",
+  "summary": "Claude Code 代理组织，125+技能模块化安装",
+  "stars": 797,
+  "language": "Markdown",
+  "tags": [
+    "AI/Agent",
+    "Developer Tools/CLI"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新地将代理组织为公司结构，模块化设计实用，但非突破性技术",
+  "status": "draft"
+}
