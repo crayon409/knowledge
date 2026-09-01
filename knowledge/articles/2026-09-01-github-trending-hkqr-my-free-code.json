@@ -1,0 +1,18 @@
+{
+  "id": "github-20260901-001",
+  "title": "hkqr/my-free-code",
+  "source": "github-trending",
+  "source_url": "https://github.com/hkqr/my-free-code",
+  "summary": "开源多提供商AI网关，支持模型路由与回退",
+  "stars": 617,
+  "language": "Python",
+  "tags": [
+    "AI/API网关",
+    "AI/开发工具",
+    "开源/工具"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用性强，功能全面，但非突破性创新，属于成熟方案整合",
+  "status": "draft"
+}

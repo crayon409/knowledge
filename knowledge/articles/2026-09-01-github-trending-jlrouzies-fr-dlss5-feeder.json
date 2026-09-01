@@ -1,0 +1,18 @@
+{
+  "id": "github-20260901-004",
+  "title": "jlrouzies-fr/DLSS5-Feeder",
+  "source": "github-trending",
+  "source_url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+  "summary": "DLSS5注入器，为无DLSS游戏提供神经渲染",
+  "stars": 457,
+  "language": "C++",
+  "tags": [
+    "Graphics/Neural Rendering",
+    "Tools/Modding",
+    "Gaming/Compatibility"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "创新性将DLSS5引入非原生游戏，技术实现复杂，但依赖私有API，普适性有限",
+  "status": "draft"
+}
