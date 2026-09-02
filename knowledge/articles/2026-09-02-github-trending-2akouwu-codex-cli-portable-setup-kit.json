@@ -1,0 +1,18 @@
+{
+  "id": "github-20260902-004",
+  "title": "2akouwu/codex-cli-portable-setup-kit",
+  "source": "github-trending",
+  "source_url": "https://github.com/2akouwu/codex-cli-portable-setup-kit",
+  "summary": "Codex CLI便携式安全工具包，支持自主系统与安全分析",
+  "stars": 505,
+  "language": "Python",
+  "tags": [
+    "Developer Tools/CLI",
+    "AI/Agentic Workflow",
+    "Security/Analysis"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用工具集，但非突破性创新，功能聚焦于特定场景",
+  "status": "draft"
+}

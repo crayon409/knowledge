@@ -1,0 +1,18 @@
+{
+  "id": "github-20260902-003",
+  "title": "PAICNI/CFBox",
+  "source": "github-trending",
+  "source_url": "https://github.com/PAICNI/CFBox",
+  "summary": "CF代理订阅管理面板，支持多协议与图形配置",
+  "stars": 554,
+  "language": "JavaScript",
+  "tags": [
+    "Cloudflare/Workers",
+    "Proxy/Subscription",
+    "Tools/Dashboard"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "功能全面且实用，但非突破性创新，属于工具类整合",
+  "status": "draft"
+}

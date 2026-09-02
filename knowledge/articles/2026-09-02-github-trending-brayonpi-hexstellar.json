@@ -1,0 +1,18 @@
+{
+  "id": "github-20260902-002",
+  "title": "brayonpi/hexstellar",
+  "source": "github-trending",
+  "source_url": "https://github.com/brayonpi/hexstellar",
+  "summary": "将AI代理转化为计算研究员的平台",
+  "stars": 639,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "AI/Scientific Computing",
+    "AI/Quantum Computing"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "整合多领域计算能力，创新性强但非突破性技术",
+  "status": "draft"
+}

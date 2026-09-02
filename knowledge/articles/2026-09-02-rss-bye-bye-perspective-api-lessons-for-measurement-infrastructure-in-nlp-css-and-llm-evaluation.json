@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260902-005",
+  "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.25580",
+  "summary": "NLP测量基础设施的反思与教训",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "NLP/Evaluation",
+    "AI/Infrastructure"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "对评估基础设施有深刻见解，但非突破性研究",
+  "status": "draft"
+}
