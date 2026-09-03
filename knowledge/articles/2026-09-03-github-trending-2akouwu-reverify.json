@@ -1,0 +1,18 @@
+{
+  "id": "github-20260903-003",
+  "title": "2akouwu/reverify",
+  "source": "github-trending",
+  "source_url": "https://github.com/2akouwu/reverify",
+  "summary": "AI逆向工程验证工具，基于确定性工具防幻觉",
+  "stars": 675,
+  "language": "Python",
+  "tags": [
+    "AI/Agentic Workflow",
+    "Reverse Engineering/Binary Analysis",
+    "Developer Tools/Verification"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "创新性地将AI逆向工程与确定性验证结合，实用性强，但非革命性突破",
+  "status": "draft"
+}

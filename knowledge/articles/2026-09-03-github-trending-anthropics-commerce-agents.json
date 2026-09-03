@@ -1,0 +1,17 @@
+{
+  "id": "github-20260903-001",
+  "title": "anthropics/commerce-agents",
+  "source": "github-trending",
+  "source_url": "https://github.com/anthropics/commerce-agents",
+  "summary": "Anthropic电商智能体参考蓝图，覆盖零售电信等场景",
+  "stars": 1136,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "E-commerce/Reference"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "官方参考实现，实用性强，但非突破性创新",
+  "status": "draft"
+}

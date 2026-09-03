@@ -1,0 +1,17 @@
+{
+  "id": "github-20260903-002",
+  "title": "shadcn-ui/cn",
+  "source": "github-trending",
+  "source_url": "https://github.com/shadcn-ui/cn",
+  "summary": "cn引擎：30倍速替代tailwind-merge与clsx",
+  "stars": 806,
+  "language": "TypeScript",
+  "tags": [
+    "Frontend/Tooling",
+    "CSS/Tailwind CSS"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "性能显著提升且API兼容，但非根本性创新，属于优化型工具",
+  "status": "draft"
+}
