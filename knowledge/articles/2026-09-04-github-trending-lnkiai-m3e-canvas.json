@@ -1,0 +1,17 @@
+{
+  "id": "github-20260904-001",
+  "title": "lnkiai/m3e-canvas",
+  "source": "github-trending",
+  "source_url": "https://github.com/lnkiai/m3e-canvas",
+  "summary": "浏览器绘制Material3界面并生成vibe-coding提示",
+  "stars": 994,
+  "language": "TypeScript",
+  "tags": [
+    "Design/UI Tools",
+    "Development/Vibe Coding"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用设计工具，将草图转为提示词，但非突破性创新",
+  "status": "draft"
+}

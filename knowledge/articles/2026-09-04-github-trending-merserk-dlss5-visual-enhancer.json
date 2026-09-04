@@ -1,0 +1,18 @@
+{
+  "id": "github-20260904-002",
+  "title": "Merserk/dlss5-visual-enhancer",
+  "source": "github-trending",
+  "source_url": "https://github.com/Merserk/dlss5-visual-enhancer",
+  "summary": "DLSS 5神经视频图像增强与帧插值工具",
+  "stars": 441,
+  "language": "Python",
+  "tags": [
+    "AI/Video Enhancement",
+    "AI/Image Upscaling",
+    "NVIDIA/DLSS"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，但非突破性创新，基于已有技术整合",
+  "status": "draft"
+}
