@@ -1,0 +1,18 @@
+{
+  "id": "github-20260905-003",
+  "title": "Human-Agent-Society/reef",
+  "source": "github-trending",
+  "source_url": "https://github.com/Human-Agent-Society/reef",
+  "summary": "自改进智能体的持续学习基础设施",
+  "stars": 472,
+  "language": "Python",
+  "tags": [
+    "AI Agents/Infrastructure",
+    "AI Agents/Continual Learning",
+    "AI Agents/Self-Improvement"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "针对智能体持续学习的关键需求，提供基础设施，具有实用价值，但非颠覆性突破。",
+  "status": "draft"
+}

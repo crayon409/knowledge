@@ -1,0 +1,17 @@
+{
+  "id": "github-20260905-005",
+  "title": "faisalkindi/DLSS5oneclick",
+  "source": "github-trending",
+  "source_url": "https://github.com/faisalkindi/DLSS5oneclick",
+  "summary": "一键为RTX显卡部署DLSS5神经渲染",
+  "stars": 416,
+  "language": "Rust",
+  "tags": [
+    "AI/Neural Rendering",
+    "Gaming/Modding"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "提供便捷的DLSS5部署方案，但依赖泄露版本，非官方突破",
+  "status": "draft"
+}

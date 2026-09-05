@@ -1,0 +1,17 @@
+{
+  "id": "github-20260905-001",
+  "title": "nahrek/polyledger",
+  "source": "github-trending",
+  "source_url": "https://github.com/nahrek/polyledger",
+  "summary": "Polymarket数据索引器，SQL查询DuckDB",
+  "stars": 616,
+  "language": "Python",
+  "tags": [
+    "Data/Indexing",
+    "Blockchain/Data"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，整合链上链下数据，但非突破性创新",
+  "status": "draft"
+}

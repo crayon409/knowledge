@@ -1,0 +1,18 @@
+{
+  "id": "github-20260905-002",
+  "title": "danielblnc/DLSS-NR-on-AMD",
+  "source": "github-trending",
+  "source_url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+  "summary": "AMD显卡运行DLSS 5神经渲染",
+  "stars": 564,
+  "language": null,
+  "tags": [
+    "Graphics/Neural Rendering",
+    "Hardware/GPU",
+    "Software/Compatibility"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "突破性技术实现，但依赖特定硬件和驱动，非通用方案",
+  "status": "draft"
+}
