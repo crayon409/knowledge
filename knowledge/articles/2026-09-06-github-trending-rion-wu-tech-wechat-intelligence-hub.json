@@ -1,0 +1,18 @@
+{
+  "id": "github-20260906-001",
+  "title": "Rion-Wu-tech/wechat-intelligence-hub",
+  "source": "github-trending",
+  "source_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+  "summary": "本地优先的微信智能系统，支持只读CLI与搜索",
+  "stars": 555,
+  "language": "Python",
+  "tags": [
+    "Developer Tools/CLI",
+    "AI/Integration",
+    "Messaging/WeChat"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，整合微信数据与AI，但非突破性创新",
+  "status": "draft"
+}
