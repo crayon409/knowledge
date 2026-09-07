@@ -1,0 +1,17 @@
+{
+  "id": "github-20260907-001",
+  "title": "EverettFish/holo-card-studio",
+  "source": "github-trending",
+  "source_url": "https://github.com/EverettFish/holo-card-studio",
+  "summary": "将描述或参考图转为可编辑Blender卡片和交互页面",
+  "stars": 654,
+  "language": "Python",
+  "tags": [
+    "AI/Generative",
+    "3D/Blender"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，自动化3D卡片生成，但非突破性创新",
+  "status": "draft"
+}
