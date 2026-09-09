@@ -1,0 +1,18 @@
+{
+  "id": "github-20260909-001",
+  "title": "openai/NavierStokesAndEuler",
+  "source": "github-trending",
+  "source_url": "https://github.com/openai/NavierStokesAndEuler",
+  "summary": "OpenAI开源纳维-斯托克斯方程形式化证明",
+  "stars": 1364,
+  "language": "Lean",
+  "tags": [
+    "Mathematics/Formal Verification",
+    "AI/OpenAI",
+    "Physics/CFD"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "将偏微分方程经典结果形式化验证，开源意义重大，但非全新突破",
+  "status": "draft"
+}
