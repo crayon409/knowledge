@@ -1,0 +1,18 @@
+{
+  "id": "github-20260910-002",
+  "title": "AI-FanGe/Microduck-build-tutorial",
+  "source": "github-trending",
+  "source_url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
+  "summary": "紧凑型RL双足机器人Microduck的软硬件搭建教程",
+  "stars": 622,
+  "language": "Python",
+  "tags": [
+    "Robotics/Bipedal Robots",
+    "Reinforcement Learning/Applications",
+    "Hardware/DIY Projects"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用的开源机器人教程，但非突破性创新",
+  "status": "draft"
+}

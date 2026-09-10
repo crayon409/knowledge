@@ -1,0 +1,17 @@
+{
+  "id": "github-20260910-001",
+  "title": "donvito/codex-astra-luna-orchestrator",
+  "source": "github-trending",
+  "source_url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+  "summary": "使用Astra作为编排器，Luna作为子代理的Codex项目",
+  "stars": 877,
+  "language": "Python",
+  "tags": [
+    "AI/Agent Orchestration",
+    "Developer Tools/Codex"
+  ],
+  "highlights": [],
+  "score": 3,
+  "score_reason": "描述简单，缺乏创新细节，仅为工具组合",
+  "status": "draft"
+}

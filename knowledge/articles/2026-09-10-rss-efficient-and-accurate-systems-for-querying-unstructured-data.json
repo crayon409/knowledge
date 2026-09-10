@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260910-005",
+  "title": "Efficient and accurate systems for querying unstructured data",
+  "source": "rss",
+  "source_url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+  "summary": "斯坦福论文：高效准确查询非结构化数据系统",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Database/Unstructured Data",
+    "Machine Learning/Information Retrieval"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "提出高效准确的非结构化数据查询系统，有实用价值",
+  "status": "draft"
+}
