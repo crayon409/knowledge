@@ -1,0 +1,18 @@
+{
+  "id": "github-20260911-002",
+  "title": "iamzulx/crypto-rag",
+  "source": "github-trending",
+  "source_url": "https://github.com/iamzulx/crypto-rag",
+  "summary": "印尼语加密RAG助手，整合267主题知识库与实时市场数据",
+  "stars": 901,
+  "language": "Python",
+  "tags": [
+    "AI/RAG",
+    "Finance/Crypto",
+    "Developer Tools/Agent"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "功能全面但属应用集成，创新性有限",
+  "status": "draft"
+}

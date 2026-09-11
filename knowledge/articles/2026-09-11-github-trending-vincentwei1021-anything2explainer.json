@@ -1,0 +1,18 @@
+{
+  "id": "github-20260911-003",
+  "title": "Vincentwei1021/anything2explainer",
+  "source": "github-trending",
+  "source_url": "https://github.com/Vincentwei1021/anything2explainer",
+  "summary": "Claude Code技能：任意主题自动生成带配音字幕的解说视频",
+  "stars": 859,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "AI/Video Generation",
+    "Developer Tools/Claude Code"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "将多智能体与Remotion/TTS结合，实用但属工程整合而非突破",
+  "status": "draft"
+}
