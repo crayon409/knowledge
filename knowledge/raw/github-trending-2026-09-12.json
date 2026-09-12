@@ -1,0 +1,346 @@
+[
+  {
+    "title": "openai/NavierStokesAndEuler",
+    "url": "https://github.com/openai/NavierStokesAndEuler",
+    "source": "github-trending",
+    "popularity": 1794,
+    "summary": "Lean certificates accompanying Navier-Stokes and Euler results",
+    "language": "Lean",
+    "topics": []
+  },
+  {
+    "title": "EverettFish/holo-card-studio",
+    "url": "https://github.com/EverettFish/holo-card-studio",
+    "source": "github-trending",
+    "popularity": 1458,
+    "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "Edge0-AI/Edge0",
+    "url": "https://github.com/Edge0-AI/Edge0",
+    "source": "github-trending",
+    "popularity": 1398,
+    "summary": "",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "Vincentwei1021/anything2explainer",
+    "url": "https://github.com/Vincentwei1021/anything2explainer",
+    "source": "github-trending",
+    "popularity": 1010,
+    "summary": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. C",
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "claude-code-skill",
+      "codex",
+      "edge-tts",
+      "educational-video",
+      "explainer-video",
+      "kokoro",
+      "motion-graphics",
+      "multi-agent",
+      "react",
+      "remotion",
+      "text-to-video",
+      "tts",
+      "typescript",
+      "video-generation"
+    ]
+  },
+  {
+    "title": "donvito/codex-astra-luna-orchestrator",
+    "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+    "source": "github-trending",
+    "popularity": 1002,
+    "summary": "Use Astra as orchestrator and Luna for subagents in Codex",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "Faizpi/bank-sampah",
+    "url": "https://github.com/Faizpi/bank-sampah",
+    "source": "github-trending",
+    "popularity": 920,
+    "summary": "",
+    "language": "PHP",
+    "topics": []
+  },
+  {
+    "title": "iamzulx/crypto-rag",
+    "url": "https://github.com/iamzulx/crypto-rag",
+    "source": "github-trending",
+    "popularity": 906,
+    "summary": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "achimala/dream-loop",
+    "url": "https://github.com/achimala/dream-loop",
+    "source": "github-trending",
+    "popularity": 884,
+    "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "title": "Jarvis322/macos-sysdata",
+    "url": "https://github.com/Jarvis322/macos-sysdata",
+    "source": "github-trending",
+    "popularity": 658,
+    "summary": "See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.",
+    "language": "Swift",
+    "topics": [
+      "cache-cleaner",
+      "developer-tools",
+      "disk-cleaner",
+      "disk-cleanup",
+      "disk-space",
+      "macos",
+      "macos-app",
+      "menubar",
+      "storage",
+      "swift",
+      "swiftui",
+      "system-data",
+      "xcode"
+    ]
+  },
+  {
+    "title": "okf-memory/okf-agent-memory",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "source": "github-trending",
+    "popularity": 590,
+    "summary": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zer",
+    "language": "Go",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "bm25",
+      "coding-agents",
+      "developer-tools",
+      "git-native",
+      "go",
+      "golang",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm-memory",
+      "markdown",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "okf",
+      "open-knowledge-format",
+      "persistent-memory"
+    ]
+  },
+  {
+    "title": "truanayangi-com/truanayangi",
+    "url": "https://github.com/truanayangi-com/truanayangi",
+    "source": "github-trending",
+    "popularity": 579,
+    "summary": "Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "SpaceDudem/text-humanizer",
+    "url": "https://github.com/SpaceDudem/text-humanizer",
+    "source": "github-trending",
+    "popularity": 560,
+    "summary": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+    "language": "Python",
+    "topics": [
+      "ai-humanizer",
+      "gpt-zero",
+      "text-humanizer"
+    ]
+  },
+  {
+    "title": "Efficient and accurate systems for querying unstructured data",
+    "url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;Abstract: (shortened)&lt;/p&gt;\n&lt;p&gt;In recent years, automatic analysis over this unstructured data has become possible via machine learning (ML). Analysts can use ML to extract structur",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Better AI code comment detector",
+    "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;(I used both AI and vibecoding tags because the article describes training a logistic regression on LLM output. I thought there was a statistics tag that would have been appropriate but appar",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Robot comment classifier",
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;(I used both AI and vibecoding tags because the article describes training a logistic regression/SVM on LLM output. I thought there was a statistics tag that would have been appropriate but a",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Are Latent Reasoning Models Easily Interpretable?",
+    "url": "https://arxiv.org/abs/2604.04902",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;Models normally do all their reasoning in a continuous hidden state instead of spitting out readable text which makes them hard to monitor. The authors tested the Coconut and CODI models and ",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Why we write our own C and C++ inference engines",
+    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "US government backs OpenAI in New York Times copyright case",
+    "url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xoklqk/us_government_backs_openai_new_york_times\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "What Rose Petals Teach Us about Induction",
+    "url": "https://www.oranlooney.com/post/rose-petals/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wwelib/what_rose_petals_teach_us_about_induction\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Using machine learning on my Guitar Hero Controller",
+    "url": "https://p0ly.com/ml_strummer.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hhogjo/using_machine_learning_on_my_guitar_hero\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "You Could Have Come Up With Kimi Delta Attention",
+    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+    "url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "But what is cross-entropy? | Compression is Intelligence Part 2 - YouTube",
+    "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ctbbjj/what_is_cross_entropy_compression_is\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mzgtjg/retrospectively_reverse_engineering\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Languages as designed latent spaces",
+    "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy",
+    "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/em1whz/researchers_use_ai_democratize_3d\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+    "url": "https://youtu.be/87DyyMV0kCY",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ahonc7/breaking_news_openai_hugging_face\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+    "url": "https://arxiv.org/abs/2408.06602",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/2djazj/super_intelligence_superstition\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "AscendNPU-IR: MLIR for Ascend",
+    "url": "https://gitcode.com/Ascend/AscendNPU-IR",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zpk6cj/ascendnpu_ir_mlir_for_ascend\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "LLMs and self-referentiality",
+    "url": "https://scottaaronson.blog/?p=10046",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jato3y/llms_self_referentiality\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "44% on ARC-AGI-1 in 67 cents",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/2rrgyh/44_on_arc_agi_1_67_cents\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  }
+]

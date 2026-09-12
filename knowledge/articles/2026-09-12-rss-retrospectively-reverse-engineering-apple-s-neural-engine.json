@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260912-005",
+  "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+  "source": "rss",
+  "source_url": "https://eiln.github.io/posts/ane.html",
+  "summary": "逆向工程苹果神经引擎的回顾性分析",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "硬件/逆向工程",
+    "人工智能/神经引擎"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "深入的技术逆向工程，但非突破性创新",
+  "status": "draft"
+}

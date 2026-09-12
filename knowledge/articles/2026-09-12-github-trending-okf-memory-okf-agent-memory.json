@@ -1,0 +1,19 @@
+{
+  "id": "github-20260912-002",
+  "title": "okf-memory/okf-agent-memory",
+  "source": "github-trending",
+  "source_url": "https://github.com/okf-memory/okf-agent-memory",
+  "summary": "Git原生AI编码代理持久内存，实现OKF v0.2，BM25搜索<300µs，减少80%令牌",
+  "stars": 590,
+  "language": "Go",
+  "tags": [
+    "AI/Agent Memory",
+    "Developer Tools/Coding Agents",
+    "Search/BM25",
+    "Protocol/MCP"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "创新性解决AI代理内存问题，性能优异，但尚未广泛验证",
+  "status": "draft"
+}
