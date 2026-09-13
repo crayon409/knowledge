@@ -1,0 +1,18 @@
+{
+  "id": "github-20260913-004",
+  "title": "OpenWAM-Official/OpenWAM",
+  "source": "github-trending",
+  "source_url": "https://github.com/OpenWAM-Official/OpenWAM",
+  "summary": "OpenWAM：开源模块化世界-动作模型预训练框架",
+  "stars": 568,
+  "language": "Python",
+  "tags": [
+    "Robotics/World-Action Model",
+    "AI/Pre-training",
+    "Robotics/Generalist Policies"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "开源模块化世界-动作模型预训练，推动机器人通用策略发展",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260913-003",
+  "title": "perseval-BLR/DLSS5-NeuralScreen",
+  "source": "github-trending",
+  "source_url": "https://github.com/perseval-BLR/DLSS5-NeuralScreen",
+  "summary": "DLSS 5神经渲染实时应用于Windows桌面，支持RTX 30/40/50",
+  "stars": 600,
+  "language": "Python",
+  "tags": [
+    "AI/神经渲染",
+    "图形/超分辨率",
+    "Windows/桌面应用"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "将DLSS 5神经渲染扩展到全桌面，技术上有创新但非基础性突破",
+  "status": "draft"
+}
