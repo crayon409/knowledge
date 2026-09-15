@@ -1,0 +1,17 @@
+{
+  "id": "github-20260915-001",
+  "title": "kruzovic7/ai-data-extractor",
+  "source": "github-trending",
+  "source_url": "https://github.com/kruzovic7/ai-data-extractor",
+  "summary": "开源工具，提取多种AI编程助手聊天历史记录",
+  "stars": 815,
+  "language": "Python",
+  "tags": [
+    "AI/开发工具",
+    "数据提取/聊天记录"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，支持多平台，但技术门槛不高",
+  "status": "draft"
+}

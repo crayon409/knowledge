@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260915-005",
+  "title": "Why don’t machine learning research agents overfit?",
+  "source": "rss",
+  "source_url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+  "summary": "亚马逊研究探讨机器学习研究代理为何不易过拟合，分析其机制与原因。",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Machine Learning",
+    "AI/Research Agents"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "深入分析代理过拟合现象，对ML研究有启发，但非突破性。",
+  "status": "draft"
+}

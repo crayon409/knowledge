@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260915-002",
+  "title": "openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments",
+  "source": "rss",
+  "source_url": "https://github.com/enactic/OpenArm",
+  "summary": "开源人形机械臂OpenArm，专为物理AI研究和接触密集环境部署设计",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Robotics/Humanoid Robots",
+    "Open Source/Hardware",
+    "AI/Physical AI"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "开源人形机械臂，对物理AI研究有实用价值，但非突破性创新",
+  "status": "draft"
+}
