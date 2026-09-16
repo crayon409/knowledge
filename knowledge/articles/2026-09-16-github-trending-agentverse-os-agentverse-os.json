@@ -1,0 +1,18 @@
+{
+  "id": "github-20260916-002",
+  "title": "agentverse-os/AgentVerse-OS",
+  "source": "github-trending",
+  "source_url": "https://github.com/agentverse-os/AgentVerse-OS",
+  "summary": "面向开发者与AI代理的个人云操作系统，单服务器一键部署，浏览器内提供窗口化桌面与隔离工作区。",
+  "stars": 643,
+  "language": "Rust",
+  "tags": [
+    "AI/Agent",
+    "Cloud/Personal",
+    "DevOps/Deployment"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "整合AI代理与开发环境的个人云OS，思路新颖但尚属早期项目。",
+  "status": "draft"
+}
