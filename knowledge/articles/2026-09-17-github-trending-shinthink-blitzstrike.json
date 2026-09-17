@@ -1,0 +1,20 @@
+{
+  "id": "github-20260917-001",
+  "title": "shinthink/blitzstrike",
+  "source": "github-trending",
+  "source_url": "https://github.com/shinthink/blitzstrike",
+  "summary": "Blitz Strike：通用MCP渗透测试工具带，含侦察、攻击面映射与漏洞利用链。",
+  "stars": 633,
+  "language": "TypeScript",
+  "tags": [
+    "Security/Penetration Testing",
+    "Security/Offensive Security",
+    "Security/Vulnerability Scanning",
+    "Security/Red Team",
+    "Tools/Security Tools"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "集成57条升级链与130+工具，MCP架构创新，但非颠覆性突破。",
+  "status": "draft"
+}
