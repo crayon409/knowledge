@@ -1,0 +1,18 @@
+{
+  "id": "github-20260918-001",
+  "title": "jarrodwatts/jev-trader",
+  "source": "github-trending",
+  "source_url": "https://github.com/jarrodwatts/jev-trader",
+  "summary": "基于Monad区块的AI交易机器人，在Kuru上交易MON-USDC",
+  "stars": 718,
+  "language": "TypeScript",
+  "tags": [
+    "Blockchain/DeFi",
+    "AI/Reinforcement Learning",
+    "Trading/Bot"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "创新性AI高频交易概念，但项目成熟度未知",
+  "status": "draft"
+}

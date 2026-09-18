@@ -1,0 +1,17 @@
+{
+  "id": "github-20260918-003",
+  "title": "korcarc/text-humanizer",
+  "source": "github-trending",
+  "source_url": "https://github.com/korcarc/text-humanizer",
+  "summary": "开源文本人性化工具，可绕过Turnitin和GPTZero等AI检测器",
+  "stars": 618,
+  "language": "Python",
+  "tags": [
+    "AI/文本生成",
+    "安全/对抗检测"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用工具但非突破性技术，依赖现有方法",
+  "status": "draft"
+}

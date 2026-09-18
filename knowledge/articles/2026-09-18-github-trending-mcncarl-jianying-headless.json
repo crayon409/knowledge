@@ -1,0 +1,18 @@
+{
+  "id": "github-20260918-002",
+  "title": "mcncarl/jianying-headless",
+  "source": "github-trending",
+  "source_url": "https://github.com/mcncarl/jianying-headless",
+  "summary": "剪映无头自动化工具，支持原生草稿与独立导出",
+  "stars": 698,
+  "language": "Python",
+  "tags": [
+    "Video/Editing",
+    "Automation/Headless",
+    "AI/Agent"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实现剪映无头编辑与导出，对自动化视频创作有实用价值",
+  "status": "draft"
+}
