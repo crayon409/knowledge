@@ -1,0 +1,17 @@
+{
+  "id": "github-20260919-002",
+  "title": "saragordic/window-sweaters",
+  "source": "github-trending",
+  "source_url": "https://github.com/saragordic/window-sweaters",
+  "summary": "macOS菜单栏应用，为窗口添加针织边框装饰",
+  "stars": 585,
+  "language": "C",
+  "tags": [
+    "Desktop Customization/Window Decoration",
+    "macOS/Menu Bar App"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "创意有趣但功能简单，属于小众桌面美化工具",
+  "status": "draft"
+}

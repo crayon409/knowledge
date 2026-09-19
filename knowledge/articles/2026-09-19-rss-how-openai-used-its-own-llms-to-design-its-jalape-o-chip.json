@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260919-003",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "summary": "OpenAI利用自研LLM设计Jalapeño芯片，展示AI辅助芯片设计新范式",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/芯片设计",
+    "AI/LLM应用"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "AI应用于芯片设计的重要实践，但非颠覆性突破",
+  "status": "draft"
+}
