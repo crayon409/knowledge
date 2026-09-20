@@ -1,0 +1,17 @@
+{
+  "id": "github-20260920-002",
+  "title": "jaredpalmer/kev",
+  "source": "github-trending",
+  "source_url": "https://github.com/jaredpalmer/kev",
+  "summary": "基于Qwen2.5-0.5B的微型Jev模型，可在MacBook上训练运行",
+  "stars": 742,
+  "language": "Python",
+  "tags": [
+    "AI/Model",
+    "AI/Edge Computing"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "轻量级模型，便于本地实验，但创新性有限",
+  "status": "draft"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260920-003",
+  "title": "jackwener/wx-cli-again",
+  "source": "github-trending",
+  "source_url": "https://github.com/jackwener/wx-cli-again",
+  "summary": "微信本地数据命令行工具，支持查询、解密与导出",
+  "stars": 689,
+  "language": "Rust",
+  "tags": [
+    "Developer Tools/CLI",
+    "Security/Data Extraction"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用工具但非突破性创新",
+  "status": "draft"
+}

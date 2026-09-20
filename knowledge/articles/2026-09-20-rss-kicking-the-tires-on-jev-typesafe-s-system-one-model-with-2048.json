@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260920-005",
+  "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+  "source": "rss",
+  "source_url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+  "summary": "使用2048游戏测试TypeSafe的Jev系统一模型",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Programming/Type Systems",
+    "Game Development/2048"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "有趣的实验，但非突破性",
+  "status": "draft"
+}
