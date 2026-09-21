@@ -1,0 +1,17 @@
+{
+  "id": "github-20260921-003",
+  "title": "Mak5er/AirCard",
+  "source": "github-trending",
+  "source_url": "https://github.com/Mak5er/AirCard",
+  "summary": "iOS 18+无需越狱的Apple Wallet卡片皮肤工具",
+  "stars": 1132,
+  "language": "Swift",
+  "tags": [
+    "iOS/工具",
+    "个性化/主题"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，无需越狱即可自定义卡片外观，但非重大突破",
+  "status": "draft"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260921-001",
+  "title": "browser-use/jev-ultrafast",
+  "source": "github-trending",
+  "source_url": "https://github.com/browser-use/jev-ultrafast",
+  "summary": "browser-use推出jev-ultrafast，号称最快最便宜的网页代理",
+  "stars": 14657,
+  "language": "Python",
+  "tags": [
+    "AI/Web Agent",
+    "AI/Performance"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "性能与成本优势显著，但尚需实际验证",
+  "status": "draft"
+}

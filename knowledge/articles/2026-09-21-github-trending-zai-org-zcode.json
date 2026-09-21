@@ -1,0 +1,17 @@
+{
+  "id": "github-20260921-002",
+  "title": "zai-org/ZCode",
+  "source": "github-trending",
+  "source_url": "https://github.com/zai-org/ZCode",
+  "summary": "Z.ai推出的编码智能体框架，功能强大且可扩展",
+  "stars": 5210,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "Developer Tools/Coding Assistant"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "有潜力的编码智能体框架，但缺乏突破性细节",
+  "status": "draft"
+}
