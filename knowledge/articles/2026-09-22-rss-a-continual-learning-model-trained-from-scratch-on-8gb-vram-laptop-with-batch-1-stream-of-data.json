@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260922-002",
+  "title": "A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data",
+  "source": "rss",
+  "source_url": "https://github.com/volotat/mini-AGI/",
+  "summary": "在8GB显存笔记本上从零训练持续学习模型，支持批大小1的数据流",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Machine Learning",
+    "AI/Continual Learning",
+    "Hardware/Edge Computing"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "在有限硬件上实现持续学习，具有实用价值但非突破性创新",
+  "status": "draft"
+}

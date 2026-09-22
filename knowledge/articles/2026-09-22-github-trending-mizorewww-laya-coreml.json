@@ -1,0 +1,18 @@
+{
+  "id": "github-20260922-001",
+  "title": "mizorewww/laya-coreml",
+  "source": "github-trending",
+  "source_url": "https://github.com/mizorewww/laya-coreml",
+  "summary": "Laya决策模型在Apple Core ML与神经引擎上的本地部署，M3 Max约5ms短决策，含可",
+  "stars": 1121,
+  "language": "Python",
+  "tags": [
+    "AI/On-Device Inference",
+    "AI/Model Deployment",
+    "Hardware/Apple Silicon"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "在Apple神经引擎上实现低延迟本地决策模型，有可复现基准，但属工程优化而非突破性创新。",
+  "status": "draft"
+}
