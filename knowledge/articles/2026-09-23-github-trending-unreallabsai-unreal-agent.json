@@ -1,0 +1,17 @@
+{
+  "id": "github-20260923-001",
+  "title": "unreallabsai/unreal-agent",
+  "source": "github-trending",
+  "source_url": "https://github.com/unreallabsai/unreal-agent",
+  "summary": "异步优先的AI代理框架，简化并发代理开发",
+  "stars": 1486,
+  "language": "Go",
+  "tags": [
+    "AI/Agent框架",
+    "编程/异步编程"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "异步代理框架有实用价值，但非突破性创新",
+  "status": "draft"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260923-002",
+  "title": "hydra-db/open-glean",
+  "source": "github-trending",
+  "source_url": "https://github.com/hydra-db/open-glean",
+  "summary": "开源AI知识工作平台，连接应用、查找答案并完成工作",
+  "stars": 888,
+  "language": "TypeScript",
+  "tags": [
+    "AI/知识管理",
+    "开源/工具"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "开源AI知识工作平台，功能实用但非突破性创新",
+  "status": "draft"
+}
