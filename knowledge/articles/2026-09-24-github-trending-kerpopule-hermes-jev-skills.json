@@ -1,0 +1,17 @@
+{
+  "id": "github-20260924-002",
+  "title": "kerpopule/hermes-jev-skills",
+  "source": "github-trending",
+  "source_url": "https://github.com/kerpopule/hermes-jev-skills",
+  "summary": "Hermes代理的Jev技能集，支持模型路由、记忆、压缩、技能选择及浏览器操作",
+  "stars": 740,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "Developer Tools/Agent Framework"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "功能全面但为特定代理的技能集合，创新性中等",
+  "status": "draft"
+}

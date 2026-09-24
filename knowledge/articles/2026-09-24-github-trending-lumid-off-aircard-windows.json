@@ -1,0 +1,17 @@
+{
+  "id": "github-20260924-001",
+  "title": "Lumid-Off/AirCard-Windows",
+  "source": "github-trending",
+  "source_url": "https://github.com/Lumid-Off/AirCard-Windows",
+  "summary": "AirCard-Windows：Windows平台开源卡片式信息展示工具",
+  "stars": 839,
+  "language": "Rust",
+  "tags": [
+    "开发工具/桌面应用",
+    "开源项目/Windows"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "实用工具但缺乏突破性，信息有限",
+  "status": "draft"
+}
