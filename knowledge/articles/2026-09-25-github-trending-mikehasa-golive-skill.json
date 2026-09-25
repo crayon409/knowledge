@@ -1,0 +1,17 @@
+{
+  "id": "github-20260925-001",
+  "title": "mikehasa/golive-skill",
+  "source": "github-trending",
+  "source_url": "https://github.com/mikehasa/golive-skill",
+  "summary": "开源Agent Skill与Node CLI，自动化部署上线流程",
+  "stars": 929,
+  "language": "TypeScript",
+  "tags": [
+    "Developer Tools/Deployment",
+    "AI/Agents"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "覆盖部署全流程且零依赖，但属工具集成非技术突破",
+  "status": "draft"
+}

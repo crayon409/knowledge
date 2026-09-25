@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260925-004",
+  "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+  "source": "rss",
+  "source_url": "https://machinelearning.apple.com/research/homomorphic-encryption",
+  "summary": "苹果将机器学习与同态加密结合，保护用户隐私",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Security/Homomorphic Encryption",
+    "Machine Learning/Privacy-Preserving ML",
+    "Industry/Apple"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "苹果在隐私保护机器学习上的重要工程实践",
+  "status": "draft"
+}

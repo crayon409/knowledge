@@ -1,0 +1,18 @@
+{
+  "id": "github-20260925-003",
+  "title": "incoai/splash",
+  "source": "github-trending",
+  "source_url": "https://github.com/incoai/splash",
+  "summary": "面向Apple Silicon的本地推理引擎，围绕模型优化",
+  "stars": 786,
+  "language": "Python",
+  "tags": [
+    "AI/Inference Engine",
+    "Hardware/Apple Silicon",
+    "AI/Speculative Decoding"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "针对Apple Silicon的专用推理引擎，集成推测解码，有实用价值但非突破性",
+  "status": "draft"
+}
