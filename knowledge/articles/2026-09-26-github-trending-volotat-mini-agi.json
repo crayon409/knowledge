@@ -1,0 +1,17 @@
+{
+  "id": "github-20260926-003",
+  "title": "volotat/mini-AGI",
+  "source": "github-trending",
+  "source_url": "https://github.com/volotat/mini-AGI",
+  "summary": "在8GB显存笔记本上从零训练持续学习模型，批大小为1",
+  "stars": 774,
+  "language": "Python",
+  "tags": [
+    "AI/持续学习",
+    "AI/模型训练"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "资源高效且实现持续学习，但非突破性创新",
+  "status": "draft"
+}

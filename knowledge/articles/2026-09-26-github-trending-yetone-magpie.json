@@ -1,0 +1,18 @@
+{
+  "id": "github-20260926-002",
+  "title": "yetone/magpie",
+  "source": "github-trending",
+  "source_url": "https://github.com/yetone/magpie",
+  "summary": "菜单栏工具，让Codex、Claude Code等Agent自由切换任意LLM模型",
+  "stars": 839,
+  "language": "Go",
+  "tags": [
+    "AI/开发工具",
+    "AI/LLM应用",
+    "macOS/效率工具"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "解决多Agent模型切换痛点，实用性强但非技术突破",
+  "status": "draft"
+}
