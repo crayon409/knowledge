@@ -1,0 +1,18 @@
+{
+  "id": "github-20260927-003",
+  "title": "yukitorido/short-video-generator-AI",
+  "source": "github-trending",
+  "source_url": "https://github.com/yukitorido/short-video-generator-AI",
+  "summary": "AI短视频生成流水线，集成LLM、Whisper转录、亮点检测与自动剪辑",
+  "stars": 721,
+  "language": "Python",
+  "tags": [
+    "AI/视频生成",
+    "AI/语音识别",
+    "工具/自动化"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "集成多种AI技术实现短视频自动化，实用但非突破性创新",
+  "status": "draft"
+}

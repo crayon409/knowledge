@@ -1,0 +1,17 @@
+{
+  "id": "github-20260927-004",
+  "title": "Rizzo-AI-Academy/rizzo-flow",
+  "source": "github-trending",
+  "source_url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+  "summary": "开源本地LLM决策工具，无需生成token即可输出类型化决策",
+  "stars": 656,
+  "language": "Python",
+  "tags": [
+    "AI/LLM",
+    "Developer Tools/Decision Making"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "创新性思路但项目影响力有限",
+  "status": "draft"
+}

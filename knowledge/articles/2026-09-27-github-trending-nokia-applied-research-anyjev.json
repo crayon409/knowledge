@@ -1,0 +1,18 @@
+{
+  "id": "github-20260927-001",
+  "title": "nokia-applied-research/AnyJev",
+  "source": "github-trending",
+  "source_url": "https://github.com/nokia-applied-research/AnyJev",
+  "summary": "诺基亚研究开源AnyJev，无需训练将任意LLM转为Jev风格决策模型，支持类型化决策和真实概率。",
+  "stars": 809,
+  "language": "Python",
+  "tags": [
+    "AI/Decision Making",
+    "AI/LLM Applications",
+    "Machine Learning/Calibration"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新性方法将LLM转化为决策模型，无需训练，实用性强，但尚未验证广泛影响。",
+  "status": "draft"
+}

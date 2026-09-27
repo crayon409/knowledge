@@ -1,0 +1,18 @@
+{
+  "id": "github-20260927-002",
+  "title": "asokurasu/text-humanizer",
+  "source": "github-trending",
+  "source_url": "https://github.com/asokurasu/text-humanizer",
+  "summary": "开源多语言LLM文本人性化工具，可绕过AI检测器",
+  "stars": 738,
+  "language": "Python",
+  "tags": [
+    "AI/文本生成",
+    "开源工具/文本处理",
+    "AI检测/绕过"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用开源项目，但技术门槛不高，创新性一般",
+  "status": "draft"
+}
