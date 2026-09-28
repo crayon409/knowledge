@@ -1,0 +1,18 @@
+{
+  "id": "github-20260928-003",
+  "title": "ollaya-dev/ollaya",
+  "source": "github-trending",
+  "source_url": "https://github.com/ollaya-dev/ollaya",
+  "summary": "本地运行决策模型，提供TypeSafe兼容API，类似Ollama",
+  "stars": 822,
+  "language": "Rust",
+  "tags": [
+    "AI/Decision Models",
+    "AI/Local Inference",
+    "API/TypeSafe"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新性地将决策模型本地化并集成API，但非突破性技术",
+  "status": "draft"
+}

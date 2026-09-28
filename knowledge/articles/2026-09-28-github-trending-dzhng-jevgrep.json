@@ -1,0 +1,17 @@
+{
+  "id": "github-20260928-001",
+  "title": "dzhng/jevgrep",
+  "source": "github-trending",
+  "source_url": "https://github.com/dzhng/jevgrep",
+  "summary": "基于语义的代码搜索CLI，帮助编码代理发现相关文件。",
+  "stars": 1213,
+  "language": "TypeScript",
+  "tags": [
+    "Developer Tools/Code Search",
+    "AI/Developer Tools"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "面向编码代理的语义代码检索工具，实用但非突破性。",
+  "status": "draft"
+}

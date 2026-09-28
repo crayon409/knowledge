@@ -1,0 +1,17 @@
+{
+  "id": "github-20260928-004",
+  "title": "supermemoryai/company-brain",
+  "source": "github-trending",
+  "source_url": "https://github.com/supermemoryai/company-brain",
+  "summary": "开源公司大脑：Slack机器人记忆团队对话并执行任务。",
+  "stars": 741,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Enterprise",
+    "Productivity/Slack"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新性企业记忆助手，但非突破性技术。",
+  "status": "draft"
+}

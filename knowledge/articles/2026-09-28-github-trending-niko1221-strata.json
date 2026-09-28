@@ -1,0 +1,18 @@
+{
+  "id": "github-20260928-002",
+  "title": "Niko1221/Strata",
+  "source": "github-trending",
+  "source_url": "https://github.com/Niko1221/Strata",
+  "summary": "Strata推理引擎：8GB显卡本地运行125B MoE模型，支持Win/Linux一键安装",
+  "stars": 902,
+  "language": "C++",
+  "tags": [
+    "AI/推理引擎",
+    "AI/大语言模型",
+    "工具/本地部署"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "在消费级8GB显卡上运行125B MoE大模型，技术突破显著且实用性强",
+  "status": "draft"
+}
