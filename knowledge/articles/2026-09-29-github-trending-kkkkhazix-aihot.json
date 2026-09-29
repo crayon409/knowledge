@@ -1,0 +1,18 @@
+{
+  "id": "github-20260929-001",
+  "title": "KKKKhazix/AIHOT",
+  "source": "github-trending",
+  "source_url": "https://github.com/KKKKhazix/AIHOT",
+  "summary": "开源AI热点聚合框架，可自定义信源自动生成日报",
+  "stars": 2629,
+  "language": "TypeScript",
+  "tags": [
+    "AI/应用",
+    "开发工具/自动化",
+    "开源/自托管"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用性强但技术门槛低，属于应用层整合",
+  "status": "draft"
+}

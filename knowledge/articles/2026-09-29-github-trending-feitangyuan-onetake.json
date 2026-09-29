@@ -1,0 +1,18 @@
+{
+  "id": "github-20260929-002",
+  "title": "feitangyuan/onetake",
+  "source": "github-trending",
+  "source_url": "https://github.com/feitangyuan/onetake",
+  "summary": "Claude Agent Skill实现无剪辑连续镜头动态影片，每帧自然过渡",
+  "stars": 946,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "Video/Motion Graphics",
+    "Development/Claude Skill"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新性连续镜头生成技术，但应用场景较垂直",
+  "status": "draft"
+}
