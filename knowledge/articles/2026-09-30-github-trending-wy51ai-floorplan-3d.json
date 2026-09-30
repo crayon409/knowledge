@@ -1,0 +1,17 @@
+{
+  "id": "github-20260930-003",
+  "title": "wy51ai/floorplan-3d",
+  "source": "github-trending",
+  "source_url": "https://github.com/wy51ai/floorplan-3d",
+  "summary": "基于平面图生成3D建筑模型的工具",
+  "stars": 833,
+  "language": "HTML",
+  "tags": [
+    "AI/3D生成",
+    "工具/建筑建模"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用但非突破性，缺乏详细描述",
+  "status": "draft"
+}
