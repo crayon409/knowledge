@@ -1,0 +1,18 @@
+{
+  "id": "github-20261001-001",
+  "title": "firelex/jeff",
+  "source": "github-trending",
+  "source_url": "https://github.com/firelex/jeff",
+  "summary": "0.8B开源System 1模型，毫秒级决策，支持LoRA适配器切换",
+  "stars": 1243,
+  "language": "Python",
+  "tags": [
+    "AI/模型",
+    "AI/决策系统",
+    "开源/模型"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "轻量级决策模型创新，但尚需验证实际效果",
+  "status": "draft"
+}

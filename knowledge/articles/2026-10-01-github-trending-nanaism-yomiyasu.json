@@ -1,0 +1,18 @@
+{
+  "id": "github-20261001-002",
+  "title": "nanaism/yomiyasu",
+  "source": "github-trending",
+  "source_url": "https://github.com/nanaism/yomiyasu",
+  "summary": "AI生成日文润色为自然日文的Agent Skill工具",
+  "stars": 861,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "NLP/文本润色",
+    "开发工具/写作辅助"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用工具但技术门槛不高，聚焦日文润色细分场景",
+  "status": "draft"
+}

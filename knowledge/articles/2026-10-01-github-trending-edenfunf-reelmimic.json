@@ -1,0 +1,18 @@
+{
+  "id": "github-20261001-006",
+  "title": "edenfunf/reelmimic",
+  "source": "github-trending",
+  "source_url": "https://github.com/edenfunf/reelmimic",
+  "summary": "AI多智能体协作实现视频风格迁移与生成工具",
+  "stars": 653,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Video Generation",
+    "AI/Multi-Agent",
+    "AI/Style Transfer"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "多智能体视频风格迁移有创新性，但尚属早期项目",
+  "status": "draft"
+}

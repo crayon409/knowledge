@@ -1,0 +1,18 @@
+{
+  "id": "github-20261001-004",
+  "title": "lemomo-ai/lemo-opuscar",
+  "source": "github-trending",
+  "source_url": "https://github.com/lemomo-ai/lemo-opuscar",
+  "summary": "43种电影风格提示词库，纯代码生成短片，可复用风格",
+  "stars": 745,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Agent",
+    "AI/Video",
+    "Creative/Coding"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创意提示词库与代码生成视频结合，实用但非技术突破",
+  "status": "draft"
+}
