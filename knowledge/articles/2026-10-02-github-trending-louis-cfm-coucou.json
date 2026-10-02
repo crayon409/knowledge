@@ -1,0 +1,18 @@
+{
+  "id": "github-20261002-001",
+  "title": "Louis-CFM/coucou",
+  "source": "github-trending",
+  "source_url": "https://github.com/Louis-CFM/coucou",
+  "summary": "跨平台小工具，在屏幕顶部监控AI编码代理状态",
+  "stars": 2781,
+  "language": "Swift",
+  "tags": [
+    "AI/Agent",
+    "开发工具/监控",
+    "操作系统/跨平台"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用的小工具，但创新性有限",
+  "status": "draft"
+}

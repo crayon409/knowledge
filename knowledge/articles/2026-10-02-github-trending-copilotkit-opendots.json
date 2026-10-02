@@ -1,0 +1,18 @@
+{
+  "id": "github-20261002-002",
+  "title": "CopilotKit/OpenDots",
+  "source": "github-trending",
+  "source_url": "https://github.com/CopilotKit/OpenDots",
+  "summary": "CopilotKit推出OpenDots，实现跨文本、通话和Slack的常驻AI同事。",
+  "stars": 1050,
+  "language": "TypeScript",
+  "tags": [
+    "AI/协作工具",
+    "AI/多模态交互",
+    "开发工具/开源项目"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新性多模态AI协作工具，但尚处早期，影响力待验证。",
+  "status": "draft"
+}
