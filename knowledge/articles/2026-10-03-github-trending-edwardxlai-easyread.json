@@ -1,0 +1,18 @@
+{
+  "id": "github-20261003-001",
+  "title": "Edwardxlai/easyread",
+  "source": "github-trending",
+  "source_url": "https://github.com/Edwardxlai/easyread",
+  "summary": "本地PDF论文翻译工具，支持中英对照、AI问答与文献管理",
+  "stars": 654,
+  "language": "Python",
+  "tags": [
+    "Tool/PDF Translation",
+    "AI/LLM Application",
+    "Research/Academic Tool"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "功能整合实用但技术门槛不高，属工具类应用",
+  "status": "draft"
+}

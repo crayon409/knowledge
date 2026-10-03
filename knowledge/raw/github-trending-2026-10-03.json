@@ -1,0 +1,450 @@
+[
+  {
+    "title": "KKKKhazix/AIHOT",
+    "url": "https://github.com/KKKKhazix/AIHOT",
+    "source": "github-trending",
+    "popularity": 5170,
+    "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "content-curation",
+      "llm",
+      "mcp",
+      "news-aggregator",
+      "rss",
+      "self-hosted",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Louis-CFM/coucou",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "source": "github-trending",
+    "popularity": 3127,
+    "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+    "language": "Swift",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "dynamic-island",
+      "gemini-cli",
+      "linux",
+      "macos",
+      "macos-app",
+      "menubar-app",
+      "notch",
+      "open-source",
+      "swift",
+      "swiftui",
+      "windows"
+    ]
+  },
+  {
+    "title": "feder-cr/dots",
+    "url": "https://github.com/feder-cr/dots",
+    "source": "github-trending",
+    "popularity": 2567,
+    "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-browser",
+      "anti-detect-browser",
+      "browser-agent",
+      "browser-automation",
+      "chatgpt",
+      "dotfiles",
+      "dots",
+      "firefox",
+      "llm-agent",
+      "mcp",
+      "open-source-alternative",
+      "openai",
+      "openai-dots",
+      "openrouter",
+      "playwright",
+      "stealth-browser",
+      "web-agent",
+      "web-automation"
+    ]
+  },
+  {
+    "title": "dzhng/jevgrep",
+    "url": "https://github.com/dzhng/jevgrep",
+    "source": "github-trending",
+    "popularity": 2101,
+    "summary": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "language": "TypeScript",
+    "topics": [
+      "ai-sdk",
+      "claude-code",
+      "cli",
+      "code-search",
+      "codex",
+      "coding-agents",
+      "context-retrieval",
+      "developer-tools",
+      "jev",
+      "semantic-search",
+      "typescript",
+      "vercel-ai-gateway"
+    ]
+  },
+  {
+    "title": "CopilotKit/OpenDots",
+    "url": "https://github.com/CopilotKit/OpenDots",
+    "source": "github-trending",
+    "popularity": 1917,
+    "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "kaankiziltug/logo-design-skill",
+    "url": "https://github.com/kaankiziltug/logo-design-skill",
+    "source": "github-trending",
+    "popularity": 1613,
+    "summary": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "language": "HTML",
+    "topics": [
+      "agent-skills",
+      "branding",
+      "claude",
+      "claude-skills",
+      "codex",
+      "gemini-cli",
+      "logo-design",
+      "svg"
+    ]
+  },
+  {
+    "title": "feitangyuan/onetake",
+    "url": "https://github.com/feitangyuan/onetake",
+    "source": "github-trending",
+    "popularity": 1403,
+    "summary": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and featur",
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "animation",
+      "canvas",
+      "claude-skill",
+      "launch-video",
+      "motion-graphics",
+      "video"
+    ]
+  },
+  {
+    "title": "wy51ai/floorplan-3d",
+    "url": "https://github.com/wy51ai/floorplan-3d",
+    "source": "github-trending",
+    "popularity": 1353,
+    "summary": "",
+    "language": "HTML",
+    "topics": []
+  },
+  {
+    "title": "firelex/jeff",
+    "url": "https://github.com/firelex/jeff",
+    "source": "github-trending",
+    "popularity": 1338,
+    "summary": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "nanaism/yomiyasu",
+    "url": "https://github.com/nanaism/yomiyasu",
+    "source": "github-trending",
+    "popularity": 1263,
+    "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "gemini",
+      "japanese",
+      "linter",
+      "llm",
+      "nlp",
+      "writing",
+      "writing-assistant",
+      "writing-tool"
+    ]
+  },
+  {
+    "title": "edenfunf/reelmimic",
+    "url": "https://github.com/edenfunf/reelmimic",
+    "source": "github-trending",
+    "popularity": 1022,
+    "summary": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+    "language": "JavaScript",
+    "topics": [
+      "2d-animation",
+      "ai-agents",
+      "ai-video",
+      "animation",
+      "claude-code",
+      "codex",
+      "multi-agent",
+      "style-transfer",
+      "video-generation"
+    ]
+  },
+  {
+    "title": "echris6/motion-video-kit",
+    "url": "https://github.com/echris6/motion-video-kit",
+    "source": "github-trending",
+    "popularity": 971,
+    "summary": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "lemomo-ai/lemo-opuscar",
+    "url": "https://github.com/lemomo-ai/lemo-opuscar",
+    "source": "github-trending",
+    "popularity": 867,
+    "summary": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码",
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-video",
+      "animation",
+      "canvas",
+      "claude",
+      "claude-code",
+      "creative-coding",
+      "ffmpeg",
+      "filmmaking",
+      "motion-graphics",
+      "prompt-library",
+      "text-to-speech",
+      "threejs",
+      "video-production",
+      "webgl"
+    ]
+  },
+  {
+    "title": "openai/mcp-extensions",
+    "url": "https://github.com/openai/mcp-extensions",
+    "source": "github-trending",
+    "popularity": 712,
+    "summary": "Build plugins that feel like native, first-class features of ChatGPT.",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "Edwardxlai/easyread",
+    "url": "https://github.com/Edwardxlai/easyread",
+    "source": "github-trending",
+    "popularity": 654,
+    "summary": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+    "language": "Python",
+    "topics": [
+      "academic",
+      "arxiv",
+      "chinese",
+      "claude-code",
+      "codex",
+      "electron",
+      "llm",
+      "paper-reading",
+      "pdf-translator",
+      "reference-manager",
+      "research-tool",
+      "translation"
+    ]
+  },
+  {
+    "title": "Efficient and accurate systems for querying unstructured data",
+    "url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;Abstract: (shortened)&lt;/p&gt;\n&lt;p&gt;In recent years, automatic analysis over this unstructured data has become possible via machine learning (ML). Analysts can use ML to extract structur",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Better AI code comment detector",
+    "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;(I used both AI and vibecoding tags because the article describes training a logistic regression on LLM output. I thought there was a statistics tag that would have been appropriate but appar",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human extinction, says Anthropic CEO Dario Amodei is ‘deluded’",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/r7o4jc/ai_godfather_yann_lecun_has_zero_concerns\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "US government backs OpenAI in New York Times copyright case",
+    "url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xoklqk/us_government_backs_openai_new_york_times\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ibpgio/brief_perspective_on_deep_learning_using\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Laya — 33ms Multilingual System 1 Decision Engine",
+    "url": "https://laya.convaiinnovations.com/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ojukrw/laya_33ms_multilingual_system_1_decision\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Using machine learning on my Guitar Hero Controller",
+    "url": "https://p0ly.com/ml_strummer.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hhogjo/using_machine_learning_on_my_guitar_hero\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7knhjd/how_openai_used_its_own_llms_design_its\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Model Training Incidents are Negligence",
+    "url": "https://taggart-tech.com/lying/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ujnlm5/model_training_incidents_are_negligence\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+    "url": "https://machinelearning.apple.com/research/homomorphic-encryption",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7ekwll/combining_machine_learning_homomorphic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments",
+    "url": "https://github.com/enactic/OpenArm",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lizqwo/openarm_fully_open_source_humanoid_arm\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data",
+    "url": "https://github.com/volotat/mini-AGI/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gxjhqo/continual_learning_model_trained_from\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A Letter from a Machine Learning Engineer",
+    "url": "https://nemin.hu/llm-letter/index.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+    "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Why don’t machine learning research agents overfit?",
+    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qv2enu/why_don_t_machine_learning_research\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mzgtjg/retrospectively_reverse_engineering\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy",
+    "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/em1whz/researchers_use_ai_democratize_3d\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+    "url": "https://arxiv.org/abs/2408.06602",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/2djazj/super_intelligence_superstition\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "LLMs and self-referentiality",
+    "url": "https://scottaaronson.blog/?p=10046",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jato3y/llms_self_referentiality\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  }
+]
