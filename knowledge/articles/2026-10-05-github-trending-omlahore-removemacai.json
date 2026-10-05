@@ -1,0 +1,18 @@
+{
+  "id": "github-20261005-001",
+  "title": "omlahore/RemoveMacAI",
+  "source": "github-trending",
+  "source_url": "https://github.com/omlahore/RemoveMacAI",
+  "summary": "一键关闭macOS 27的Apple Intelligence并回收磁盘空间，可逆",
+  "stars": 1517,
+  "language": "Swift",
+  "tags": [
+    "Tools/CLI",
+    "Operating Systems/macOS",
+    "Privacy/System"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用工具，解决特定需求，但非技术突破",
+  "status": "draft"
+}
