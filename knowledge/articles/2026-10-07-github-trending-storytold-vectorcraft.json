@@ -1,0 +1,18 @@
+{
+  "id": "github-20261007-002",
+  "title": "storytold/vectorcraft",
+  "source": "github-trending",
+  "source_url": "https://github.com/storytold/vectorcraft",
+  "summary": "纯Rust重写的开源Adobe Illustrator矢量图形编辑器",
+  "stars": 1719,
+  "language": "Rust",
+  "tags": [
+    "Graphics/Vector Graphics",
+    "Software/Open Source",
+    "Programming/Rust"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "用Rust从零实现Illustrator核心功能，技术挑战大且开源价值高",
+  "status": "draft"
+}

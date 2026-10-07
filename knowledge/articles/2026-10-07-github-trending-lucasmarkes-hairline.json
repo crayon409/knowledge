@@ -1,0 +1,18 @@
+{
+  "id": "github-20261007-004",
+  "title": "lucasmarkes/hairline",
+  "source": "github-trending",
+  "source_url": "https://github.com/lucasmarkes/hairline",
+  "summary": "React等DOM环境下的等距线条人物交互动画库",
+  "stars": 999,
+  "language": "TypeScript",
+  "tags": [
+    "Frontend/React",
+    "Animation/Interactive",
+    "UI/Components"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "创意交互动画组件，实用但非突破性技术",
+  "status": "draft"
+}

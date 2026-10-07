@@ -1,0 +1,17 @@
+{
+  "id": "github-20261007-003",
+  "title": "alchaincyf/huashu-art-motion",
+  "source": "github-trending",
+  "source_url": "https://github.com/alchaincyf/huashu-art-motion",
+  "summary": "艺术动画工具：35种风格、9种解说语法，代码驱动画作动起来",
+  "stars": 1379,
+  "language": "JavaScript",
+  "tags": [
+    "CreativeTool/Animation",
+    "Art/Generative"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "创意工具，风格多样，但技术深度有限",
+  "status": "draft"
+}

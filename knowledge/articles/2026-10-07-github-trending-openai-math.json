@@ -1,0 +1,18 @@
+{
+  "id": "github-20261007-001",
+  "title": "openai/math",
+  "source": "github-trending",
+  "source_url": "https://github.com/openai/math",
+  "summary": "OpenAI 开源的数学推理数据集与基准，用于评估大模型数学能力",
+  "stars": 7873,
+  "language": "Lean",
+  "tags": [
+    "AI/大模型评估",
+    "数学/推理基准",
+    "开源/数据集"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "OpenAI 发布的数学推理基准，对评估大模型数学能力有重要价值",
+  "status": "draft"
+}
