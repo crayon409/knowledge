@@ -1,0 +1,17 @@
+{
+  "id": "github-20261008-002",
+  "title": "elstongun/leviathan",
+  "source": "github-trending",
+  "source_url": "https://github.com/elstongun/leviathan",
+  "summary": "Leviathan：将大数据集转为智能体深度记忆的静态二进制工具",
+  "stars": 686,
+  "language": "Rust",
+  "tags": [
+    "AI/Agent Memory",
+    "Developer Tools/Data Processing"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "为智能体提供大规模数据记忆的实用工具，但非颠覆性突破",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20261008-001",
+  "title": "nullmoth/nvidia-macos-driver",
+  "source": "github-trending",
+  "source_url": "https://github.com/nullmoth/nvidia-macos-driver",
+  "summary": "为NVIDIA RTX显卡在macOS 15提供Metal驱动，开源免费",
+  "stars": 787,
+  "language": "Rust",
+  "tags": [
+    "Graphics/Driver",
+    "Operating Systems/macOS",
+    "Hardware/GPU"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "填补macOS对NVIDIA RTX显卡的Metal支持空白，技术难度高且开源",
+  "status": "draft"
+}

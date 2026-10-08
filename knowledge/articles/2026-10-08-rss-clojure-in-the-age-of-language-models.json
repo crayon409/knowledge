@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261008-003",
+  "title": "Clojure in the Age of Language Models",
+  "source": "rss",
+  "source_url": "https://yogthos.net/posts/2026-10-07-clojure-llms.html",
+  "summary": "探讨Clojure在语言模型时代的优势与适用性",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Programming/Clojure",
+    "AI/Language Models"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "观点文章，对Clojure社区有参考价值但非突破性",
+  "status": "draft"
+}
