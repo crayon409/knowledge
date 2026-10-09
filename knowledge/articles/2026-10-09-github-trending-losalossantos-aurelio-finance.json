@@ -1,0 +1,18 @@
+{
+  "id": "github-20261009-003",
+  "title": "LosaLosSantos/aurelio-finance",
+  "source": "github-trending",
+  "source_url": "https://github.com/LosaLosSantos/aurelio-finance",
+  "summary": "开源个人理财应用，AI财务顾问，本地追踪净资产与投资",
+  "stars": 995,
+  "language": "Python",
+  "tags": [
+    "Finance/Personal Finance",
+    "AI/Applications",
+    "Open Source/Self-hosted"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "功能实用的自托管理财工具，但缺乏突破性创新",
+  "status": "draft"
+}

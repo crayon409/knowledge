@@ -1,0 +1,18 @@
+{
+  "id": "github-20261009-001",
+  "title": "mhtsec/ARTEX",
+  "source": "github-trending",
+  "source_url": "https://github.com/mhtsec/ARTEX",
+  "summary": "AI自主渗透测试系统，百度攻防挑战赛冠军项目",
+  "stars": 1979,
+  "language": "Go",
+  "tags": [
+    "AI/安全",
+    "Security/Penetration Testing",
+    "AI/Agent"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "竞赛冠军项目，技术先进且开源",
+  "status": "draft"
+}

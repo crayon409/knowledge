@@ -1,0 +1,18 @@
+{
+  "id": "github-20261009-002",
+  "title": "storytold/cadcraft",
+  "source": "github-trending",
+  "source_url": "https://github.com/storytold/cadcraft",
+  "summary": "纯Rust开源CAD应用CADCraft，仿AutoCAD风格",
+  "stars": 1138,
+  "language": "Rust",
+  "tags": [
+    "Development/Computer-Aided Design",
+    "Programming/Rust",
+    "Open Source/Engineering"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "纯Rust实现CAD工具，开源且功能完整，但非突破性创新",
+  "status": "draft"
+}

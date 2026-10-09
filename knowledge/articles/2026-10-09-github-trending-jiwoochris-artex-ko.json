@@ -1,0 +1,18 @@
+{
+  "id": "github-20261009-004",
+  "title": "jiwoochris/artex-ko",
+  "source": "github-trending",
+  "source_url": "https://github.com/jiwoochris/artex-ko",
+  "summary": "ARTEX韩语本地化版：AI自主渗透测试框架",
+  "stars": 837,
+  "language": "Go",
+  "tags": [
+    "Security/Penetration Testing",
+    "AI/Agent",
+    "Security/Threat Detection"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "有价值的本地化项目，但仅为上游框架的翻译，非原创突破",
+  "status": "draft"
+}

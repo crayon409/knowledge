@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261009-005",
+  "title": "Whistle: Speech to Text in 16.9 MB",
+  "source": "rss",
+  "source_url": "https://cactuscompute.com/blog/whistle",
+  "summary": "Whistle：仅16.9MB的语音转文本模型，实现高效轻量级语音识别。",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/语音识别",
+    "技术/模型压缩"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "模型体积小但性能未明确，属实用创新。",
+  "status": "draft"
+}
