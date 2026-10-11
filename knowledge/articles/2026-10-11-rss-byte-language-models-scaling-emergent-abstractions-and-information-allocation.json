@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261011-002",
+  "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/html/2610.05978v1",
+  "summary": "字节语言模型挑战分词器必要性，证明Transformer可直接处理原始字节序列",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "自然语言处理/语言模型",
+    "深度学习/Transformer架构",
+    "自然语言处理/分词技术"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "挑战传统分词假设，展示字节级模型的有效性，具有重要研究价值",
+  "status": "draft"
+}

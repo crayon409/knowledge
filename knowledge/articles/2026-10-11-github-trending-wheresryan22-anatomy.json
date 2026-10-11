@@ -1,0 +1,18 @@
+{
+  "id": "github-20261011-001",
+  "title": "wheresryan22/anatomy",
+  "source": "github-trending",
+  "source_url": "https://github.com/wheresryan22/anatomy",
+  "summary": "Claude Code技能：将技术创意转为交互式等距机械图，支持SVG/WebGL",
+  "stars": 1577,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Claude Code",
+    "开发工具/可视化",
+    "图形技术/SVG"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创意实用，但依赖Claude Code生态，非通用突破",
+  "status": "draft"
+}
