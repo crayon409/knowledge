@@ -1,0 +1,19 @@
+{
+  "id": "github-20261012-001",
+  "title": "ARahim3/DigUp",
+  "source": "github-trending",
+  "source_url": "https://github.com/ARahim3/DigUp",
+  "summary": "基于EmbeddingGemma 2的Mac本地语义搜索工具，支持多模态文件。",
+  "stars": 1728,
+  "language": "Swift",
+  "tags": [
+    "AI/Embedding",
+    "Search/Semantic",
+    "Platform/macOS",
+    "Development/Tools"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "利用先进嵌入模型实现本地多模态搜索，实用但非突破性创新。",
+  "status": "draft"
+}
