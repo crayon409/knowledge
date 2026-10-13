@@ -1,0 +1,17 @@
+{
+  "id": "github-20261013-001",
+  "title": "Fei2411/DeepSeek-Bot",
+  "source": "github-trending",
+  "source_url": "https://github.com/Fei2411/DeepSeek-Bot",
+  "summary": "DeepSeek Harness 多智能体机器人团队，支持机器人互聊与群聊",
+  "stars": 1632,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Multi-Agent",
+    "Developer Tools/Bot Framework"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "多智能体机器人框架，功能实用但非突破性创新",
+  "status": "draft"
+}
