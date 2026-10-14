@@ -1,0 +1,18 @@
+{
+  "id": "github-20261014-001",
+  "title": "onehumanbeing/esp32-iphone-agent",
+  "source": "github-trending",
+  "source_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+  "summary": "用7美元ESP32让AI模型操控真实iPhone，无需Mac或越狱",
+  "stars": 1961,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "Hardware/ESP32",
+    "Automation/Mobile"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "低成本创新方案，实现AI对iPhone的物理操控，实用性强",
+  "status": "draft"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261014-003",
+  "title": "Running RAG with a (small) language model in the browser",
+  "source": "rss",
+  "source_url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+  "summary": "在浏览器中用小型语言模型运行RAG",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/自然语言处理",
+    "Web/浏览器技术"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "展示了浏览器端RAG的可行实现，有实用价值但非重大突破",
+  "status": "draft"
+}
