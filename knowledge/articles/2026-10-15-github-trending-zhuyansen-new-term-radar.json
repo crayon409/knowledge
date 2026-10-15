@@ -1,0 +1,18 @@
+{
+  "id": "github-20261015-003",
+  "title": "zhuyansen/new-term-radar",
+  "source": "github-trending",
+  "source_url": "https://github.com/zhuyansen/new-term-radar",
+  "summary": "每日AI新术语雷达，从X、Hugging Face、GitHub等平台提前捕捉新模型、产品和仓库名称",
+  "stars": 1008,
+  "language": "Python",
+  "tags": [
+    "AI/工具",
+    "开发/开源",
+    "数据/趋势分析"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用工具，能提前发现AI新术语，但技术门槛不高",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20261015-002",
+  "title": "rociiu/talorys",
+  "source": "github-trending",
+  "source_url": "https://github.com/rociiu/talorys",
+  "summary": "基于Cloudflare的个人AI代理，支持聊天、记忆、任务、笔记和定时提醒，一键部署。",
+  "stars": 1044,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "Cloudflare/Workers",
+    "开发/开源项目"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "功能全面且部署便捷，但属于现有技术组合，创新性一般。",
+  "status": "draft"
+}

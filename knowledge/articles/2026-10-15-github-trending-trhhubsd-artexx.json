@@ -1,0 +1,18 @@
+{
+  "id": "github-20261015-001",
+  "title": "trhhubsd/ARTEXX",
+  "source": "github-trending",
+  "source_url": "https://github.com/trhhubsd/ARTEXX",
+  "summary": "AI自主渗透测试系统，百度“agent+”攻防挑战赛冠军项目",
+  "stars": 1199,
+  "language": "Go",
+  "tags": [
+    "AI/安全",
+    "AI/Agent",
+    "安全/渗透测试"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "竞赛冠军项目，技术有创新但非突破性",
+  "status": "draft"
+}
