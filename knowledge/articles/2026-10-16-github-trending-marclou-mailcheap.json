@@ -1,0 +1,18 @@
+{
+  "id": "github-20261016-003",
+  "title": "marclou/mailcheap",
+  "source": "github-trending",
+  "source_url": "https://github.com/marclou/mailcheap",
+  "summary": "开源邮件营销工具，按发送量付费，替代beehiiv等，支持自托管。",
+  "stars": 1104,
+  "language": "JavaScript",
+  "tags": [
+    "Email/Marketing",
+    "Open Source/Self-Hosted",
+    "SaaS/Alternative"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新的按发送量付费模式，开源且支持自托管，但技术突破性有限。",
+  "status": "draft"
+}

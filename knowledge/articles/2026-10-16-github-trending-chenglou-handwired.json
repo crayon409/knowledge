@@ -1,0 +1,18 @@
+{
+  "id": "github-20261016-001",
+  "title": "chenglou/handwired",
+  "source": "github-trending",
+  "source_url": "https://github.com/chenglou/handwired",
+  "summary": "将普通JavaScript代码转换为神经网络的工具",
+  "stars": 1353,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Neural Networks",
+    "Programming/JavaScript",
+    "Developer Tools/Code Transformation"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新性地将JS代码转为神经网络，但实用性待验证",
+  "status": "draft"
+}

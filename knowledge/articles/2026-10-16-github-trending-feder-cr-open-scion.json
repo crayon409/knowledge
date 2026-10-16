@@ -1,0 +1,17 @@
+{
+  "id": "github-20261016-004",
+  "title": "feder-cr/open_scion",
+  "source": "github-trending",
+  "source_url": "https://github.com/feder-cr/open_scion",
+  "summary": "开源版Scion：为编码代理设计的版本控制系统",
+  "stars": 1031,
+  "language": "Go",
+  "tags": [
+    "开发工具/版本控制",
+    "人工智能/编码代理"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "针对AI代理的版本控制创新，但尚处早期",
+  "status": "draft"
+}

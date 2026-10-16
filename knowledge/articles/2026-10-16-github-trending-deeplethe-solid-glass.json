@@ -1,0 +1,17 @@
+{
+  "id": "github-20261016-002",
+  "title": "deeplethe/solid-glass",
+  "source": "github-trending",
+  "source_url": "https://github.com/deeplethe/solid-glass",
+  "summary": "面向AI应用的设计系统，提供实体触感技术风格UI组件",
+  "stars": 1317,
+  "language": "TypeScript",
+  "tags": [
+    "Design/UI",
+    "AI/Application"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "为AI应用提供独特设计系统，但非技术突破",
+  "status": "draft"
+}
