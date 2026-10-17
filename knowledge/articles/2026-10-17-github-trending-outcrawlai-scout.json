@@ -1,0 +1,18 @@
+{
+  "id": "github-20261017-002",
+  "title": "outcrawlai/scout",
+  "source": "github-trending",
+  "source_url": "https://github.com/outcrawlai/scout",
+  "summary": "开源浏览器AI代理Scout，基于CDP与LLM实现网页自动化",
+  "stars": 920,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "Web/Automation",
+    "Developer/Tools"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用型开源浏览器代理，技术栈清晰但缺乏突破性创新",
+  "status": "draft"
+}

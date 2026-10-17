@@ -1,0 +1,17 @@
+{
+  "id": "github-20261017-001",
+  "title": "feder-cr/git-ai",
+  "source": "github-trending",
+  "source_url": "https://github.com/feder-cr/git-ai",
+  "summary": "为AI代理设计的Git工具，用Go实现，支持编码代理与版本控制",
+  "stars": 1099,
+  "language": "Go",
+  "tags": [
+    "Developer Tools/Version Control",
+    "AI/Agent Infrastructure"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "针对AI代理优化Git工作流，方向新颖但尚属早期工具",
+  "status": "draft"
+}
