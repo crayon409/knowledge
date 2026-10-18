@@ -1,0 +1,18 @@
+{
+  "id": "github-20261018-002",
+  "title": "CoolkHz/gptibo",
+  "source": "github-trending",
+  "source_url": "https://github.com/CoolkHz/gptibo",
+  "summary": "自托管GPTibo商店、管理后台与Go后端，MIT开源",
+  "stars": 825,
+  "language": "TypeScript",
+  "tags": [
+    "Web开发/电商平台",
+    "后端开发/Go",
+    "开源项目/自托管"
+  ],
+  "highlights": [],
+  "score": 4,
+  "score_reason": "实用自托管电商方案，但无技术创新亮点",
+  "status": "draft"
+}

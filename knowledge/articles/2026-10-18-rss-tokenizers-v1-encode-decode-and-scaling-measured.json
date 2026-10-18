@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-021",
+  "title": "tokenizers v1: encode, decode and scaling, measured",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/tokenizers-v1",
+  "summary": "HuggingFace发布tokenizers v1，实测编码解码与扩展性能",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/NLP",
+    "AI/开发工具",
+    "AI/开源项目"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "主流NLP工具库重大版本更新，性能实测有实用价值",
+  "status": "draft"
+}

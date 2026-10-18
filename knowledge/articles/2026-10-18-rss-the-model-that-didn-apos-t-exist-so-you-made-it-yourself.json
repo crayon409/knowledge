@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261018-010",
+  "title": "The model that didn&apos;t exist, so you made it yourself",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/building-with-ml-intern",
+  "summary": "开发者自建缺失的模型并分享构建经验",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/机器学习",
+    "AI/模型开发"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "实践性博客，非突破性成果",
+  "status": "draft"
+}

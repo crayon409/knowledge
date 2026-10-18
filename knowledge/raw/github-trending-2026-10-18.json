@@ -1,0 +1,340 @@
+[
+  {
+    "title": "jhaizhou-ops/d2r-mobile",
+    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+    "source": "github-trending",
+    "popularity": 3777,
+    "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
+    "language": "C",
+    "topics": [
+      "compatibility-layer",
+      "diablo-2-resurrected",
+      "diablo2",
+      "game-port",
+      "ios",
+      "ipad",
+      "iphone",
+      "mac",
+      "macos",
+      "metal",
+      "reign-of-the-warlock"
+    ]
+  },
+  {
+    "title": "onehumanbeing/esp32-iphone-agent",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "source": "github-trending",
+    "popularity": 3060,
+    "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "language": "C",
+    "topics": [
+      "ai-agent",
+      "airplay",
+      "automation",
+      "computer-use",
+      "esp32",
+      "esp32-s3",
+      "iphone",
+      "llm",
+      "usb-hid"
+    ]
+  },
+  {
+    "title": "deeplethe/solid-glass",
+    "url": "https://github.com/deeplethe/solid-glass",
+    "source": "github-trending",
+    "popularity": 2001,
+    "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+    "language": "TypeScript",
+    "topics": [
+      "agent-ui",
+      "ai",
+      "ai-agents",
+      "chat-ui",
+      "design-system",
+      "llm",
+      "react",
+      "shadcn",
+      "shadcn-ui",
+      "tailwindcss",
+      "theme"
+    ]
+  },
+  {
+    "title": "chenglou/handwired",
+    "url": "https://github.com/chenglou/handwired",
+    "source": "github-trending",
+    "popularity": 1698,
+    "summary": "Turn your regular JavaScript code into a neural net.",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "feder-cr/git-ai",
+    "url": "https://github.com/feder-cr/git-ai",
+    "source": "github-trending",
+    "popularity": 1164,
+    "summary": "Git designed for AI agents.",
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "coding-agents",
+      "git",
+      "golang",
+      "scion",
+      "version-control"
+    ]
+  },
+  {
+    "title": "zhuyansen/new-term-radar",
+    "url": "https://github.com/zhuyansen/new-term-radar",
+    "source": "github-trending",
+    "popularity": 1097,
+    "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "aisa",
+      "claude-code",
+      "claude-skills",
+      "google-trends",
+      "keyword-research",
+      "mcp",
+      "mcp-server",
+      "seo",
+      "trends"
+    ]
+  },
+  {
+    "title": "jwuthri-cloud/Tracely-ai",
+    "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+    "source": "github-trending",
+    "popularity": 976,
+    "summary": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "ai-agents",
+      "ai-testing",
+      "ci-cd",
+      "clickhouse",
+      "developer-tools",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "mcp",
+      "observability",
+      "python",
+      "regression-testing",
+      "self-hosted",
+      "tracing"
+    ]
+  },
+  {
+    "title": "outcrawlai/scout",
+    "url": "https://github.com/outcrawlai/scout",
+    "source": "github-trending",
+    "popularity": 945,
+    "summary": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "browser-agent",
+      "browser-automation",
+      "cdp",
+      "llm",
+      "typescript",
+      "web-automation"
+    ]
+  },
+  {
+    "title": "CoolkHz/gptibo",
+    "url": "https://github.com/CoolkHz/gptibo",
+    "source": "github-trending",
+    "popularity": 825,
+    "summary": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "url": "https://huggingface.co/blog/flux-3",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "The model that didn&apos;t exist, so you made it yourself",
+    "url": "https://huggingface.co/blog/building-with-ml-intern",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Introducing Falcon ASR",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "url": "https://huggingface.co/blog/open-tts-leaderboard",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Holo4: powering generalist computer-use agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Welcome RL Environments to the hub",
+    "url": "https://huggingface.co/blog/rl-environments",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Transformers now runs llama.cpp quants",
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "url": "https://huggingface.co/blog/omlx",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "url": "https://huggingface.co/blog/tokenizers-v1",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "language": null,
+    "topics": []
+  }
+]

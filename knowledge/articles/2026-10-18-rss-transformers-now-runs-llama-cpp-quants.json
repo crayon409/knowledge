@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-019",
+  "title": "Transformers now runs llama.cpp quants",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "summary": "Transformers 现已支持 llama.cpp 量化格式",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/模型部署",
+    "AI/推理优化",
+    "工具/开源框架"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "主流框架集成 llama.cpp 量化，显著提升部署便利性",
+  "status": "draft"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20261018-001",
+  "title": "jwuthri-cloud/Tracely-ai",
+  "source": "github-trending",
+  "source_url": "https://github.com/jwuthri-cloud/Tracely-ai",
+  "summary": "面向AI Agent的追踪原生CI/CD工具，可将生产追踪转为回归测试并拦截退化PR",
+  "stars": 976,
+  "language": "Python",
+  "tags": [
+    "AI/Agent评估",
+    "DevOps/CI-CD",
+    "Observability/LLM追踪",
+    "Testing/回归测试"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "将trace评估与CI/CD门禁结合，思路实用且自托管，但属工程整合而非根本性突破",
+  "status": "draft"
+}

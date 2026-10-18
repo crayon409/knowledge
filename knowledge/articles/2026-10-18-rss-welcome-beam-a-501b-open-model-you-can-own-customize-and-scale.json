@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-004",
+  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/reflection-beam",
+  "summary": "Reflection开源501B参数模型Beam，可自部署定制扩展",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/大语言模型",
+    "AI/开源模型",
+    "AI/模型部署"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "501B开源大模型可私有化部署，规模与开放性突出",
+  "status": "draft"
+}

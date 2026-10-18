@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-003",
+  "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "summary": "英伟达发布28万亿token印度语预训练数据及开放生成流程",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/自然语言处理",
+    "AI/预训练数据",
+    "AI/多语言模型"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "大规模多语言预训练数据与开源流水线，对低资源语言研究价值显著",
+  "status": "draft"
+}

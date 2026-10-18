@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-015",
+  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "summary": "提出面向MCP代理的来源感知验证方法，强调核实信息来源而非仅事实",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Agent",
+    "AI/Verification",
+    "AI/MCP"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "针对MCP代理来源验证的实用方法，有一定创新但非突破性",
+  "status": "draft"
+}

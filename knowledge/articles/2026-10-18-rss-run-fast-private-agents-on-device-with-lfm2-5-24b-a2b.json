@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-009",
+  "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+  "summary": "LiquidAI发布LFM2.5-24B-A2B，支持在设备端运行快速、私密的智能体",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/模型发布",
+    "AI/端侧推理",
+    "AI/智能体"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "24B MoE端侧智能体模型，兼顾隐私与速度，具实用价值",
+  "status": "draft"
+}

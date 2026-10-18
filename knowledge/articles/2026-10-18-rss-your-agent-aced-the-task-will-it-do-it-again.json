@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-022",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "summary": "IBM研究提出AL-TK-Evolve方法，提升AI智能体任务执行的一致性",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Agent",
+    "AI/Evaluation",
+    "Research/Method"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "针对智能体可重复性提出新评估与改进方法，具实用价值",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-012",
+  "title": "The Agent Said It Was Done. The Database Disagreed.",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "summary": "微软ThinkingBox博客探讨AI代理声称完成但数据库未同步的可靠性问题",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Agent Reliability",
+    "AI/LLM Applications",
+    "Software Engineering/Database Consistency"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "揭示AI代理状态一致性缺陷，有实践价值但非突破性",
+  "status": "draft"
+}

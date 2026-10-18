@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-018",
+  "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/evaleval-aisi",
+  "summary": "英国AISI与EvalEval合作提升基准测试结果可复现性",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Evaluation",
+    "AI/Benchmarking",
+    "AI/Reproducibility"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "推动AI评测可复现性的实用合作，但非突破性技术进展",
+  "status": "draft"
+}

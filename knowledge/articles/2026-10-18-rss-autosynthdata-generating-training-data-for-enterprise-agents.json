@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-013",
+  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "summary": "ServiceNow开源AutoSynthData，为企业智能体自动生成训练数据",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/训练数据合成",
+    "AI/企业智能体",
+    "AI/开源工具"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "面向企业智能体训练数据的自动化合成框架，实用性强但非颠覆性突破",
+  "status": "draft"
+}
