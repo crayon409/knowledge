@@ -1,0 +1,18 @@
+{
+  "id": "github-20261019-001",
+  "title": "Leonxlnx/earshot",
+  "source": "github-trending",
+  "source_url": "https://github.com/Leonxlnx/earshot",
+  "summary": "开源项目让AI编码代理具备音频生成与审查能力，纯CPU运行",
+  "stars": 1285,
+  "language": "Python",
+  "tags": [
+    "AI/Agent工具",
+    "音频/生成",
+    "开发工具/MCP"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "为编码代理增加音频能力的实用MCP工具，但属应用层集成而非底层突破",
+  "status": "draft"
+}

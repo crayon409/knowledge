@@ -1,0 +1,311 @@
+[
+  {
+    "title": "jhaizhou-ops/d2r-mobile",
+    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+    "source": "github-trending",
+    "popularity": 4021,
+    "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
+    "language": "C",
+    "topics": [
+      "compatibility-layer",
+      "diablo-2-resurrected",
+      "diablo2",
+      "game-port",
+      "ios",
+      "ipad",
+      "iphone",
+      "mac",
+      "macos",
+      "metal",
+      "reign-of-the-warlock"
+    ]
+  },
+  {
+    "title": "feder-cr/git-ai",
+    "url": "https://github.com/feder-cr/git-ai",
+    "source": "github-trending",
+    "popularity": 2407,
+    "summary": "Git designed for AI agents.",
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "coding-agents",
+      "git",
+      "golang",
+      "scion",
+      "version-control"
+    ]
+  },
+  {
+    "title": "deeplethe/solid-glass",
+    "url": "https://github.com/deeplethe/solid-glass",
+    "source": "github-trending",
+    "popularity": 2271,
+    "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+    "language": "TypeScript",
+    "topics": [
+      "agent-ui",
+      "ai",
+      "ai-agents",
+      "chat-ui",
+      "design-system",
+      "llm",
+      "react",
+      "shadcn",
+      "shadcn-ui",
+      "tailwindcss",
+      "theme"
+    ]
+  },
+  {
+    "title": "chenglou/handwired",
+    "url": "https://github.com/chenglou/handwired",
+    "source": "github-trending",
+    "popularity": 1785,
+    "summary": "Turn your regular JavaScript code into a neural net.",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "Leonxlnx/earshot",
+    "url": "https://github.com/Leonxlnx/earshot",
+    "source": "github-trending",
+    "popularity": 1285,
+    "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "audio",
+      "claude-code",
+      "mcp",
+      "sound-design"
+    ]
+  },
+  {
+    "title": "zhuyansen/new-term-radar",
+    "url": "https://github.com/zhuyansen/new-term-radar",
+    "source": "github-trending",
+    "popularity": 1129,
+    "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "aisa",
+      "claude-code",
+      "claude-skills",
+      "google-trends",
+      "keyword-research",
+      "mcp",
+      "mcp-server",
+      "seo",
+      "trends"
+    ]
+  },
+  {
+    "title": "outcrawlai/scout",
+    "url": "https://github.com/outcrawlai/scout",
+    "source": "github-trending",
+    "popularity": 948,
+    "summary": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "browser-agent",
+      "browser-automation",
+      "cdp",
+      "llm",
+      "typescript",
+      "web-automation"
+    ]
+  },
+  {
+    "title": "aicodeking/leanrea",
+    "url": "https://github.com/aicodeking/leanrea",
+    "source": "github-trending",
+    "popularity": 881,
+    "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "url": "https://arxiv.org/html/2610.05978v1",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually out",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+    "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the curre",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+    "url": "https://arxiv.org/abs/2605.00414",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ina01h/trees_flows_back_unifying_decision_trees\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ibpgio/brief_perspective_on_deep_learning_using\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Laya — 33ms Multilingual System 1 Decision Engine",
+    "url": "https://laya.convaiinnovations.com/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ojukrw/laya_33ms_multilingual_system_1_decision\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7knhjd/how_openai_used_its_own_llms_design_its\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Model Training Incidents are Negligence",
+    "url": "https://taggart-tech.com/lying/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ujnlm5/model_training_incidents_are_negligence\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+    "url": "https://machinelearning.apple.com/research/homomorphic-encryption",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7ekwll/combining_machine_learning_homomorphic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments",
+    "url": "https://github.com/enactic/OpenArm",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lizqwo/openarm_fully_open_source_humanoid_arm\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Running RAG with a (small) language model in the browser",
+    "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/nsjjo3/running_rag_with_small_language_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Consistency is not a localized property",
+    "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data",
+    "url": "https://github.com/volotat/mini-AGI/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gxjhqo/continual_learning_model_trained_from\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A Letter from a Machine Learning Engineer",
+    "url": "https://nemin.hu/llm-letter/index.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+    "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Why don’t machine learning research agents overfit?",
+    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qv2enu/why_don_t_machine_learning_research\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mzgtjg/retrospectively_reverse_engineering\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Neural Networks Are Already Clean",
+    "url": "https://already-clean.goodfire.com/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/enjlpn/neural_networks_are_already_clean\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
+    "url": "https://tracel.ai/blog/release-0.22.0/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cme2vx/burn_0_22_0_faster_builds_easier\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  }
+]

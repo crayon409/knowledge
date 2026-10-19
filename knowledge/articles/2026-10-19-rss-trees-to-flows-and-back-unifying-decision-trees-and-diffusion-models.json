@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261019-003",
+  "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.00414",
+  "summary": "提出统一决策树与扩散模型的框架，实现树与流的双向转换",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/生成模型",
+    "AI/决策树",
+    "机器学习/理论"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "理论创新性强，统一两类模型范式，但尚属预印本待验证",
+  "status": "draft"
+}

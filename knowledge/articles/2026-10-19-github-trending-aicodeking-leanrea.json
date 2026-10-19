@@ -1,0 +1,18 @@
+{
+  "id": "github-20261019-002",
+  "title": "aicodeking/leanrea",
+  "source": "github-trending",
+  "source_url": "https://github.com/aicodeking/leanrea",
+  "summary": "8KB技能替代REA逆向工程，纯CLI无MCP，基准快38%省35%",
+  "stars": 881,
+  "language": "Python",
+  "tags": [
+    "AI/Agent工具",
+    "开发工具/逆向工程",
+    "效率优化/成本降低"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "实用轻量工具但缺乏突破性创新，基准数据有限",
+  "status": "draft"
+}
