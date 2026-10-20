@@ -1,0 +1,18 @@
+{
+  "id": "github-20261020-001",
+  "title": "deepseek-ai/DeepInfer",
+  "source": "github-trending",
+  "source_url": "https://github.com/deepseek-ai/DeepInfer",
+  "summary": "DeepSeek开源高性能大规模推理框架DeepInfer",
+  "stars": 7463,
+  "language": "Python",
+  "tags": [
+    "AI/推理框架",
+    "AI/大模型",
+    "开源项目/深度学习"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "官方开源的大规模推理框架，工程价值高但非算法突破",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20261020-002",
+  "title": "alchaincyf/huashu-motion",
+  "source": "github-trending",
+  "source_url": "https://github.com/alchaincyf/huashu-motion",
+  "summary": "让AI编码代理一键生成商业级产品宣传片，支持指帧修改",
+  "stars": 1096,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Agent",
+    "Video/MotionGraphics",
+    "Tool/OpenSource"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "将Agent技能与GSAP动效结合生成宣传片，创意实用但非底层突破",
+  "status": "draft"
+}
