@@ -1,0 +1,19 @@
+{
+  "id": "github-20261022-001",
+  "title": "ikow/php2shell-poc",
+  "source": "github-trending",
+  "source_url": "https://github.com/ikow/php2shell-poc",
+  "summary": "PHP session.upload_progress 预认证 RCE 漏洞 PoC，含 5 条利用",
+  "stars": 1372,
+  "language": "Python",
+  "tags": [
+    "Security/Vulnerability Research",
+    "Security/Exploit",
+    "Security/Detection Rules",
+    "Web/PHP"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "预认证 RCE 利用链完整且附带多种检测规则，实战价值高",
+  "status": "draft"
+}
