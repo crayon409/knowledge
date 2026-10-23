@@ -1,0 +1,18 @@
+{
+  "id": "github-20261023-002",
+  "title": "reason-machines/reason-network",
+  "source": "github-trending",
+  "source_url": "https://github.com/reason-machines/reason-network",
+  "summary": "Reason Network：团队编码代理通过P2P互联的引擎",
+  "stars": 1119,
+  "language": "Rust",
+  "tags": [
+    "AI/Agent协作",
+    "开发工具/编码代理",
+    "网络/P2P"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "多代理协作P2P引擎，方向有价值但尚属早期项目",
+  "status": "draft"
+}

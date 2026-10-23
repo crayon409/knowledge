@@ -1,0 +1,18 @@
+{
+  "id": "github-20261023-003",
+  "title": "openai/php2shell-checker",
+  "source": "github-trending",
+  "source_url": "https://github.com/openai/php2shell-checker",
+  "summary": "OpenAI开源PHP转Shell检测工具，用于识别代码注入风险",
+  "stars": 929,
+  "language": "JavaScript",
+  "tags": [
+    "Security/CodeInjection",
+    "Security/StaticAnalysis",
+    "Development/PHP"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "实用安全检测工具，但非突破性技术",
+  "status": "draft"
+}

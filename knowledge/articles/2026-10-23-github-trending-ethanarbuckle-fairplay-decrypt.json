@@ -1,0 +1,17 @@
+{
+  "id": "github-20261023-001",
+  "title": "EthanArbuckle/fairplay-decrypt",
+  "source": "github-trending",
+  "source_url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+  "summary": "FairPlay IPA离线解密工具，独立密钥派生",
+  "stars": 1199,
+  "language": "C",
+  "tags": [
+    "Security/Reverse Engineering",
+    "Mobile/iOS"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实现独立密钥派生的FairPlay离线解密，技术价值较高但属逆向工具",
+  "status": "draft"
+}
