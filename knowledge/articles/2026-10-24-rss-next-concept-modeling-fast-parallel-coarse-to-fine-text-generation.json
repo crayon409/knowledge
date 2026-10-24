@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261024-003",
+  "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2610.14162",
+  "summary": "提出Next-Concept建模实现快速并行由粗到细文本生成",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/NLP",
+    "AI/文本生成",
+    "AI/模型架构"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "新颖的并行文本生成范式，但尚属arXiv预印本，影响待验证",
+  "status": "draft"
+}

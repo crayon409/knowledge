@@ -1,0 +1,18 @@
+{
+  "id": "github-20261024-001",
+  "title": "colinhacks/reylo",
+  "source": "github-trending",
+  "source_url": "https://github.com/colinhacks/reylo",
+  "summary": "将.sql文件导入TypeScript，支持完整类型推断且无需代码生成",
+  "stars": 1144,
+  "language": "Rust",
+  "tags": [
+    "Developer Tools/TypeScript",
+    "Database/SQL",
+    "Developer Tools/Type Safety"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新性地用TS类型系统解析SQL实现零代码生成类型推断，实用但非颠覆性突破",
+  "status": "draft"
+}
