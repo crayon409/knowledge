@@ -1,0 +1,18 @@
+{
+  "id": "github-20261025-001",
+  "title": "eagle-hq/EAGLE-4",
+  "source": "github-trending",
+  "source_url": "https://github.com/eagle-hq/EAGLE-4",
+  "summary": "EAGLE-4官方推理代码发布，支持SGLang/vLLM推测解码",
+  "stars": 980,
+  "language": "Python",
+  "tags": [
+    "AI/LLM推理",
+    "AI/推测解码",
+    "开源项目/推理框架"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "主流推测解码框架新版本，工程价值高但非根本性突破",
+  "status": "draft"
+}
