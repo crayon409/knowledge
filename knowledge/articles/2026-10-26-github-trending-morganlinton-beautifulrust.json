@@ -1,0 +1,18 @@
+{
+  "id": "github-20261026-002",
+  "title": "morganlinton/BeautifulRust",
+  "source": "github-trending",
+  "source_url": "https://github.com/morganlinton/BeautifulRust",
+  "summary": "教编码代理编写、审查和移植地道Rust的Agent Skills及clippy配置",
+  "stars": 1100,
+  "language": "Python",
+  "tags": [
+    "AI/Agent工具",
+    "编程语言/Rust",
+    "开发工具/代码审查"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "面向多代理平台的Rust规范技能集，实用但非突破性创新",
+  "status": "draft"
+}

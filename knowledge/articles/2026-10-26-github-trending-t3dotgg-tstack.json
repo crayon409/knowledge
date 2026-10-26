@@ -1,0 +1,17 @@
+{
+  "id": "github-20261026-003",
+  "title": "t3dotgg/tstack",
+  "source": "github-trending",
+  "source_url": "https://github.com/t3dotgg/tstack",
+  "summary": "t3dotgg 开源其日常使用的 AI 代理技能集，兼容 Claude Code 与 Codex",
+  "stars": 1036,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "Developer Tools/Configuration"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "知名开发者分享实用代理技能配置，有参考价值但非技术突破",
+  "status": "draft"
+}
