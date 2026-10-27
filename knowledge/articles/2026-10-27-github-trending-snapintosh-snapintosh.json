@@ -1,0 +1,19 @@
+{
+  "id": "github-20261027-001",
+  "title": "Snapintosh/Snapintosh",
+  "source": "github-trending",
+  "source_url": "https://github.com/Snapintosh/Snapintosh",
+  "summary": "Snapintosh项目：EL2虚拟机监控器与工具链，在骁龙X2的华硕A16上启动macOS，含Ad",
+  "stars": 999,
+  "language": "Python",
+  "tags": [
+    "Virtualization/Hypervisor",
+    "Operating Systems/macOS",
+    "Hardware/ARM",
+    "Graphics/GPU Drivers"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "在ARM骁龙平台实现macOS启动并自研GPU栈，技术难度高且具突破性",
+  "status": "draft"
+}
