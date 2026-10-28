@@ -1,0 +1,334 @@
+[
+  {
+    "title": "rddmwmddr/android-ad-cleaner",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "source": "github-trending",
+    "popularity": 4162,
+    "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "language": "Python",
+    "topics": [
+      "adb",
+      "ai-agent",
+      "android",
+      "coloros",
+      "debloat",
+      "hyperos",
+      "magicos",
+      "originos"
+    ]
+  },
+  {
+    "title": "t3dotgg/tstack",
+    "url": "https://github.com/t3dotgg/tstack",
+    "source": "github-trending",
+    "popularity": 2179,
+    "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "interplains/Zero-Breach-Toolkit",
+    "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+    "source": "github-trending",
+    "popularity": 2054,
+    "summary": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "ikow/php2shell-poc",
+    "url": "https://github.com/ikow/php2shell-poc",
+    "source": "github-trending",
+    "popularity": 1880,
+    "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+    "language": "Python",
+    "topics": [
+      "cve-2026-109618",
+      "cve-2026-109619",
+      "detection-rules",
+      "exploit",
+      "php-exploit",
+      "php-security",
+      "php2shell",
+      "poc",
+      "rce",
+      "session-upload-progress",
+      "suricata-rules",
+      "vulnerability-research",
+      "waf-rules",
+      "wordpress-security"
+    ]
+  },
+  {
+    "title": "anhao/ai-pose-gallery-zh",
+    "url": "https://github.com/anhao/ai-pose-gallery-zh",
+    "source": "github-trending",
+    "popularity": 1582,
+    "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "language": "HTML",
+    "topics": [
+      "ai-art",
+      "chinese",
+      "cloudflare-pages",
+      "gallery",
+      "i18n",
+      "pose",
+      "reference-images",
+      "static-site"
+    ]
+  },
+  {
+    "title": "openai/php2shell-checker",
+    "url": "https://github.com/openai/php2shell-checker",
+    "source": "github-trending",
+    "popularity": 1445,
+    "summary": "",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "title": "colinhacks/reylo",
+    "url": "https://github.com/colinhacks/reylo",
+    "source": "github-trending",
+    "popularity": 1359,
+    "summary": "Import .sql files into TypeScript with full type inference and zero codegen.",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "title": "morganlinton/BeautifulRust",
+    "url": "https://github.com/morganlinton/BeautifulRust",
+    "source": "github-trending",
+    "popularity": 1352,
+    "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills",
+      "clippy",
+      "code-review",
+      "coding-agent",
+      "cursor",
+      "rust",
+      "style-guide"
+    ]
+  },
+  {
+    "title": "andyhuo520/digital-human-koubo",
+    "url": "https://github.com/andyhuo520/digital-human-koubo",
+    "source": "github-trending",
+    "popularity": 1258,
+    "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "DenisSergeevitch/ex-ussr-kinship-research",
+    "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+    "source": "github-trending",
+    "popularity": 1133,
+    "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "archives",
+      "claude-code",
+      "codex",
+      "family-history",
+      "familysearch",
+      "genealogy",
+      "ussr"
+    ]
+  },
+  {
+    "title": "CopilotKit/OpenDuet",
+    "url": "https://github.com/CopilotKit/OpenDuet",
+    "source": "github-trending",
+    "popularity": 1069,
+    "summary": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "url": "https://arxiv.org/html/2610.05978v1",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually out",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+    "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the curre",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
+    "url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/urfgc9/how_run_turing_complete_malware_pytorch_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+    "url": "https://arxiv.org/abs/2605.00414",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ina01h/trees_flows_back_unifying_decision_trees\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ibpgio/brief_perspective_on_deep_learning_using\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Laya — 33ms Multilingual System 1 Decision Engine",
+    "url": "https://laya.convaiinnovations.com/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ojukrw/laya_33ms_multilingual_system_1_decision\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7knhjd/how_openai_used_its_own_llms_design_its\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Model Training Incidents are Negligence",
+    "url": "https://taggart-tech.com/lying/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ujnlm5/model_training_incidents_are_negligence\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+    "url": "https://machinelearning.apple.com/research/homomorphic-encryption",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7ekwll/combining_machine_learning_homomorphic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Running RAG with a (small) language model in the browser",
+    "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/nsjjo3/running_rag_with_small_language_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Consistency is not a localized property",
+    "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data",
+    "url": "https://github.com/volotat/mini-AGI/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gxjhqo/continual_learning_model_trained_from\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "url": "https://arxiv.org/abs/2610.14162",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zu7jjb/ai_eu_member_states_approve_digital\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+    "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Neural Networks Are Already Clean",
+    "url": "https://already-clean.goodfire.com/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/enjlpn/neural_networks_are_already_clean\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
+    "url": "https://tracel.ai/blog/release-0.22.0/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cme2vx/burn_0_22_0_faster_builds_easier\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  }
+]

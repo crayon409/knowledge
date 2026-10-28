@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261028-006",
+  "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+  "source": "rss",
+  "source_url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+  "summary": "Project Zero对比Fuzzilli与BigSleep在JS引擎漏洞挖掘中的表现",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Security/Vulnerability Research",
+    "AI/LLM Applications",
+    "Software Testing/Fuzzing"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "权威团队对模糊测试与AI方法进行实证对比，具参考价值",
+  "status": "draft"
+}

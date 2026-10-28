@@ -1,0 +1,17 @@
+{
+  "id": "github-20261028-005",
+  "title": "CopilotKit/OpenDuet",
+  "source": "github-trending",
+  "source_url": "https://github.com/CopilotKit/OpenDuet",
+  "summary": "开源主动式AI代理模板，完成任务并保持用户知情",
+  "stars": 1069,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "OpenSource/Template"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "开源代理模板有实用价值，但属模板性质，创新性一般",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20261028-003",
+  "title": "andyhuo520/digital-human-koubo",
+  "source": "github-trending",
+  "source_url": "https://github.com/andyhuo520/digital-human-koubo",
+  "summary": "基于单张照片生成数字人口播视频，含5种剪辑风格与48个包装组件",
+  "stars": 1258,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Digital Human",
+    "AI/Video Generation",
+    "Agent/Skill"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "整合MCP与剪辑包装的实用Agent技能，但属工程组合而非技术突破",
+  "status": "draft"
+}

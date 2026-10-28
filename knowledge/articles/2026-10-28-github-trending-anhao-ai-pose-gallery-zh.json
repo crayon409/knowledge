@@ -1,0 +1,18 @@
+{
+  "id": "github-20261028-002",
+  "title": "anhao/ai-pose-gallery-zh",
+  "source": "github-trending",
+  "source_url": "https://github.com/anhao/ai-pose-gallery-zh",
+  "summary": "中文AI姿势参考图库，1439组2878张图，零依赖静态画廊",
+  "stars": 1582,
+  "language": "HTML",
+  "tags": [
+    "AI/Art",
+    "Resource/Gallery",
+    "Web/StaticSite"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "实用资源型项目，汉化与静态部署有便利性，但无技术创新",
+  "status": "draft"
+}

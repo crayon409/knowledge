@@ -1,0 +1,18 @@
+{
+  "id": "github-20261028-001",
+  "title": "interplains/Zero-Breach-Toolkit",
+  "source": "github-trending",
+  "source_url": "https://github.com/interplains/Zero-Breach-Toolkit",
+  "summary": "开源离线检测工具，跨平台扫描雇佣间谍软件痕迹",
+  "stars": 2054,
+  "language": "Python",
+  "tags": [
+    "Security/Privacy Tools",
+    "Security/Malware Detection",
+    "Open Source/Security"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用且跨平台的隐私安全工具，但属检测类而非突破性技术",
+  "status": "draft"
+}
