@@ -1,0 +1,18 @@
+{
+  "id": "github-20261029-001",
+  "title": "Motionsites-AI/claude-skill",
+  "source": "github-trending",
+  "source_url": "https://github.com/Motionsites-AI/claude-skill",
+  "summary": "MotionSites开源Claude技能，可生成电影级落地页",
+  "stars": 1042,
+  "language": "Python",
+  "tags": [
+    "AI/Claude技能",
+    "开发/前端生成",
+    "设计/落地页"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用且免费的Claude技能，但属应用层封装而非技术突破",
+  "status": "draft"
+}

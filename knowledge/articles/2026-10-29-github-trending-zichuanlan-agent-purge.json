@@ -1,0 +1,18 @@
+{
+  "id": "github-20261029-002",
+  "title": "ZiChuanLan/agent-purge",
+  "source": "github-trending",
+  "source_url": "https://github.com/ZiChuanLan/agent-purge",
+  "summary": "统一管理多款编码代理系统提示词的工具，支持替换注入并提供本地控制台",
+  "stars": 868,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Agent工具",
+    "开发工具/提示词管理",
+    "AI/编码代理"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用工具，解决多代理提示词管理痛点，但技术门槛不高",
+  "status": "draft"
+}
