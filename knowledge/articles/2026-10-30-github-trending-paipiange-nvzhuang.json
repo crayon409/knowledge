@@ -1,0 +1,18 @@
+{
+  "id": "github-20261030-002",
+  "title": "paipiange/nvzhuang",
+  "source": "github-trending",
+  "source_url": "https://github.com/paipiange/nvzhuang",
+  "summary": "AI女装参考图集与虚拟试穿网站，支持多模型API与中英检索",
+  "stars": 940,
+  "language": "Go",
+  "tags": [
+    "AI/图像生成",
+    "AI/虚拟试穿",
+    "工具/开源项目"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "实用工具型项目，集成多模型API，但技术新颖性一般",
+  "status": "draft"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20261030-001",
+  "title": "qybaihe/bla",
+  "source": "github-trending",
+  "source_url": "https://github.com/qybaihe/bla",
+  "summary": "BLA对抗防御盾，用投毒耗尽策略防AI逆向工程",
+  "stars": 1228,
+  "language": "TypeScript",
+  "tags": [
+    "Security/Adversarial AI",
+    "Security/Reverse Engineering",
+    "AI/LLM Security",
+    "Development/Obfuscation"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "针对LLM逆向代理的对抗防御思路新颖，但项目成熟度与实效待验证",
+  "status": "draft"
+}
