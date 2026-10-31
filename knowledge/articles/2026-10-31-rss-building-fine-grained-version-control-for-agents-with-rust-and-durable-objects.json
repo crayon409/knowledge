@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261031-004",
+  "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+  "source": "rss",
+  "source_url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+  "summary": "用Rust与Durable Objects为AI代理构建细粒度版本控制",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Agent Infrastructure",
+    "Software Engineering/Version Control",
+    "Programming/Rust"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "针对AI代理版本控制的有价值工程实践，但非突破性创新",
+  "status": "draft"
+}

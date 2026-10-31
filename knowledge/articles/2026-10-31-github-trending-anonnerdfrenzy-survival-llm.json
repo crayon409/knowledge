@@ -1,0 +1,18 @@
+{
+  "id": "github-20261031-003",
+  "title": "anonnerdfrenzy/survival-llm",
+  "source": "github-trending",
+  "source_url": "https://github.com/anonnerdfrenzy/survival-llm",
+  "summary": "本地离线AI生存助手，可溯源答案",
+  "stars": 1082,
+  "language": "Python",
+  "tags": [
+    "AI/本地推理",
+    "AI/检索增强生成",
+    "工具/离线应用"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "离线可溯源助手思路实用，但项目影响力与创新性一般",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20261031-001",
+  "title": "heydamir/unslop",
+  "source": "github-trending",
+  "source_url": "https://github.com/heydamir/unslop",
+  "summary": "Claude技能将AI感UI改造为精心设计的界面",
+  "stars": 2626,
+  "language": "JavaScript",
+  "tags": [
+    "AI/Claude技能",
+    "前端/UI设计",
+    "开发工具/代码生成"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "实用但范围有限的提示技能，非技术突破",
+  "status": "draft"
+}

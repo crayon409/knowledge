@@ -1,0 +1,18 @@
+{
+  "id": "github-20261031-002",
+  "title": "wangzan101/Mika",
+  "source": "github-trending",
+  "source_url": "https://github.com/wangzan101/Mika",
+  "summary": "安卓端本地AI助理，可操作App与网页自动完成任务",
+  "stars": 2267,
+  "language": "Kotlin",
+  "tags": [
+    "AI/Mobile Agent",
+    "Android/Automation",
+    "AI/LLM Application"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "移动端on-device agent方向实用，但属工程整合而非突破",
+  "status": "draft"
+}
