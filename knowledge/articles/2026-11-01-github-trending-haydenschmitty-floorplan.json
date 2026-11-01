@@ -1,0 +1,18 @@
+{
+  "id": "github-20261101-002",
+  "title": "haydenschmitty/floorplan",
+  "source": "github-trending",
+  "source_url": "https://github.com/haydenschmitty/floorplan",
+  "summary": "用Claude或Codex生成代码库交互式架构图，助理解项目结构",
+  "stars": 1245,
+  "language": "JavaScript",
+  "tags": [
+    "Developer Tools/Codebase Visualization",
+    "AI/Code Generation",
+    "Developer Tools/Onboarding"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用开发者工具，思路新颖但依赖LLM且非技术突破",
+  "status": "draft"
+}

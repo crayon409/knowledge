@@ -1,0 +1,18 @@
+{
+  "id": "github-20261101-001",
+  "title": "deepseek-ai/dsh-superagent-prototype",
+  "source": "github-trending",
+  "source_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+  "summary": "DeepSeek发布自主智能体系统原型dsh-superagent",
+  "stars": 5890,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "AI/LLM",
+    "开源项目/研究原型"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "来自DeepSeek的自主Agent系统原型，方向重要但尚属早期原型",
+  "status": "draft"
+}
