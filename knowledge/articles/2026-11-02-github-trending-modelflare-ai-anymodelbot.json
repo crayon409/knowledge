@@ -1,0 +1,18 @@
+{
+  "id": "github-20261102-001",
+  "title": "modelflare-ai/AnyModelBot",
+  "source": "github-trending",
+  "source_url": "https://github.com/modelflare-ai/AnyModelBot",
+  "summary": "开源本地优先的多模型AI机器人，支持70+模型统一接入",
+  "stars": 1309,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "AI/LLM工具",
+    "开发/开源项目"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "多模型聚合与本地优先有实用价值，但属集成创新而非技术突破",
+  "status": "draft"
+}
