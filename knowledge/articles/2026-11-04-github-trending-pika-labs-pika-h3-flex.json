@@ -1,0 +1,18 @@
+{
+  "id": "github-20261104-002",
+  "title": "Pika-Labs/Pika-H3-Flex",
+  "source": "github-trending",
+  "source_url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+  "summary": "Pika开源H3 Flex视频音频生成推理项目",
+  "stars": 1564,
+  "language": "Python",
+  "tags": [
+    "AI/视频生成",
+    "AI/音频生成",
+    "AI/推理框架"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "开源视频音频生成推理项目，有实用价值但非突破性创新",
+  "status": "draft"
+}

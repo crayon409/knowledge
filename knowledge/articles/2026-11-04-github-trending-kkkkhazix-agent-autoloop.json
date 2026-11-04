@@ -1,0 +1,18 @@
+{
+  "id": "github-20261104-001",
+  "title": "KKKKhazix/agent-autoloop",
+  "source": "github-trending",
+  "source_url": "https://github.com/KKKKhazix/agent-autoloop",
+  "summary": "命令行Agent后台自动接活跟进，遇不确定才发卡片请人决策",
+  "stars": 2255,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "Automation/Workflow",
+    "Developer Tools/CLI"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "事件驱动自主Agent编排思路实用，但属工程整合非突破性创新",
+  "status": "draft"
+}
