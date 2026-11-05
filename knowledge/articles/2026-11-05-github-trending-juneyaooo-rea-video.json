@@ -1,0 +1,18 @@
+{
+  "id": "github-20261105-002",
+  "title": "JuneYaooo/rea-video",
+  "source": "github-trending",
+  "source_url": "https://github.com/JuneYaooo/rea-video",
+  "summary": "逆向视频逐镜分析工具，识别拍摄/AI/代码生成并给出复刻方案",
+  "stars": 1865,
+  "language": "Python",
+  "tags": [
+    "AI/视频分析",
+    "工具/逆向工程",
+    "AI/多模态"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创意实用且技术栈完整，但属工具集成而非底层突破",
+  "status": "draft"
+}
