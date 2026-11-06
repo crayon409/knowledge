@@ -1,0 +1,18 @@
+{
+  "id": "github-20261106-004",
+  "title": "anthropics/FlashProve",
+  "source": "github-trending",
+  "source_url": "https://github.com/anthropics/FlashProve",
+  "summary": "Anthropic零知识证明AI推理研究原型，已停止维护",
+  "stars": 935,
+  "language": "Lean",
+  "tags": [
+    "Security/Zero-Knowledge Proofs",
+    "AI/Inference",
+    "Research/Prototype"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "前沿交叉方向原型，但未维护且无实际应用",
+  "status": "draft"
+}

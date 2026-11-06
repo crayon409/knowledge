@@ -1,0 +1,19 @@
+{
+  "id": "github-20261106-005",
+  "title": "andrew-babo/muse4ai",
+  "source": "github-trending",
+  "source_url": "https://github.com/andrew-babo/muse4ai",
+  "summary": "Muse4AI：本地Windows桥接，让AI代理通过REST/MCP/OAuth生成图片视频",
+  "stars": 933,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent工具",
+    "AI/图像生成",
+    "AI/视频生成",
+    "开发/API集成"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "实用工具型项目，连接AI代理与Muse生成能力，但非突破性创新",
+  "status": "draft"
+}

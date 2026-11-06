@@ -1,0 +1,20 @@
+{
+  "id": "github-20261106-001",
+  "title": "wquguru/cicada",
+  "source": "github-trending",
+  "source_url": "https://github.com/wquguru/cicada",
+  "summary": "开源跨平台实时字幕、同传与AI会议纪要工具",
+  "stars": 1540,
+  "language": "Swift",
+  "tags": [
+    "Speech/Recognition",
+    "Speech/Translation",
+    "Productivity/Meeting",
+    "Platform/Cross-platform",
+    "Development/Open Source"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "跨平台开源实时字幕与同传，功能实用但非突破性技术",
+  "status": "draft"
+}

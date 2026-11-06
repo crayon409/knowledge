@@ -1,0 +1,18 @@
+{
+  "id": "github-20261106-002",
+  "title": "N1nEmAn/sapper-v2",
+  "source": "github-trending",
+  "source_url": "https://github.com/N1nEmAn/sapper-v2",
+  "summary": "腾讯智能攻防赛冠军AI渗透测试多智能体系统",
+  "stars": 1446,
+  "language": "Python",
+  "tags": [
+    "Security/Penetration Testing",
+    "AI/Multi-Agent",
+    "AI/LLM Applications"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "实战竞赛夺冠且以1B token胜4.5B，工程与效率表现突出",
+  "status": "draft"
+}

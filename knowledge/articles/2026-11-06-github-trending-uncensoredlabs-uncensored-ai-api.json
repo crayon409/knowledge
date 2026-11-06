@@ -1,0 +1,18 @@
+{
+  "id": "github-20261106-003",
+  "title": "UncensoredLabs/uncensored-ai-api",
+  "source": "github-trending",
+  "source_url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+  "summary": "无审查AI API与浏览器聊天，支持DeepSeek和GLM模型流式调用",
+  "stars": 953,
+  "language": "JavaScript",
+  "tags": [
+    "AI/API服务",
+    "AI/无审查模型",
+    "开发工具/API封装"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "提供无审查模型API封装与示例，实用但非技术突破",
+  "status": "draft"
+}
