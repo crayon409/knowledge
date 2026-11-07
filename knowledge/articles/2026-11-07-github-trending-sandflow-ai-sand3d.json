@@ -1,0 +1,18 @@
+{
+  "id": "github-20261107-001",
+  "title": "Sandflow-ai/sand3d",
+  "source": "github-trending",
+  "source_url": "https://github.com/Sandflow-ai/sand3d",
+  "summary": "面向LLM的Python 3D建模库，支持程序化建模与USD",
+  "stars": 953,
+  "language": "HTML",
+  "tags": [
+    "AI/LLM应用",
+    "3D建模/程序化建模",
+    "开发工具/Python库"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "LLM驱动3D建模方向新颖，但项目尚早期，影响力待验证",
+  "status": "draft"
+}

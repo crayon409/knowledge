@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261107-002",
+  "title": "Firecracker VM Escape: PwnEscape Part 2",
+  "source": "rss",
+  "source_url": "https://pwn.ai/blog/firecracker-escape",
+  "summary": "Firecracker虚拟机逃逸漏洞分析第二部分",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Security/Virtualization",
+    "Security/Exploit"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "Firecracker VM逃逸属高价值云安全研究，但为系列续篇非首次突破",
+  "status": "draft"
+}

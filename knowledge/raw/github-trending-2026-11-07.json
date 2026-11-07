@@ -1,0 +1,279 @@
+[
+  {
+    "title": "deepseek-ai/dsh-superagent-prototype",
+    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "source": "github-trending",
+    "popularity": 20655,
+    "summary": "Towards a More Autonomous Agent System",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "KKKKhazix/agent-autoloop",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "source": "github-trending",
+    "popularity": 3897,
+    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "cli",
+      "codex",
+      "event-driven",
+      "mcp",
+      "nodejs",
+      "self-hosted",
+      "typescript",
+      "workflow"
+    ]
+  },
+  {
+    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "source": "github-trending",
+    "popularity": 3005,
+    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "caru-ini/stack-diagram",
+    "url": "https://github.com/caru-ini/stack-diagram",
+    "source": "github-trending",
+    "popularity": 2036,
+    "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "architecture-diagram",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "diagram",
+      "system-architecture",
+      "tech-stack"
+    ]
+  },
+  {
+    "title": "wquguru/cicada",
+    "url": "https://github.com/wquguru/cicada",
+    "source": "github-trending",
+    "popularity": 1605,
+    "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+    "language": "Swift",
+    "topics": [
+      "android",
+      "linux",
+      "live-captions",
+      "macos",
+      "meeting-notes",
+      "menubar-app",
+      "simultaneous-interpretation",
+      "speech-recognition",
+      "subtitles",
+      "swift",
+      "swiftui",
+      "translation",
+      "windows"
+    ]
+  },
+  {
+    "title": "Sandflow-ai/sand3d",
+    "url": "https://github.com/Sandflow-ai/sand3d",
+    "source": "github-trending",
+    "popularity": 953,
+    "summary": "3D modeling in Python, built for LLMs.",
+    "language": "HTML",
+    "topics": [
+      "3d",
+      "blender",
+      "cad",
+      "llm",
+      "procedural-modeling",
+      "python",
+      "usd"
+    ]
+  },
+  {
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "url": "https://arxiv.org/html/2610.05978v1",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually out",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+    "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the curre",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "An easy way to try local AI with braindead-local-intelligence",
+    "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rlmrfy/easy_way_try_local_ai_with_braindead_local\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
+    "url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/urfgc9/how_run_turing_complete_malware_pytorch_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/u7wdqj/sparks_weight_space_programming_llms_can\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+    "url": "https://arxiv.org/abs/2605.00414",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ina01h/trees_flows_back_unifying_decision_trees\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ibpgio/brief_perspective_on_deep_learning_using\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+    "url": "https://machinelearning.apple.com/research/homomorphic-encryption",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7ekwll/combining_machine_learning_homomorphic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+    "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cctbcu/building_fine_grained_version_control\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Running RAG with a (small) language model in the browser",
+    "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/nsjjo3/running_rag_with_small_language_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Consistency is not a localized property",
+    "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "url": "https://arxiv.org/abs/2610.14162",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zu7jjb/ai_eu_member_states_approve_digital\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Neural Networks Are Already Clean",
+    "url": "https://already-clean.goodfire.com/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/enjlpn/neural_networks_are_already_clean\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
+    "url": "https://tracel.ai/blog/release-0.22.0/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cme2vx/burn_0_22_0_faster_builds_easier\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Timestral: Mistral's time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7r9dcc/timestral_mistral_s_time_series\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Reflections on Rust in the LLM Age",
+    "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/yomksa/reflections_on_rust_llm_age\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  }
+]
