@@ -1,0 +1,19 @@
+{
+  "id": "github-20261108-003",
+  "title": "voyager-so/vork",
+  "source": "github-trending",
+  "source_url": "https://github.com/voyager-so/vork",
+  "summary": "面向AI代理的无头3D与VFX引擎，Rust实现，支持Vulkan/Metal与光线追踪",
+  "stars": 1037,
+  "language": "Rust",
+  "tags": [
+    "AI/Agent工具",
+    "图形学/渲染引擎",
+    "图形学/光线追踪",
+    "编程语言/Rust"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "面向代理的3D/VFX引擎研究预览，技术栈扎实但尚处早期",
+  "status": "draft"
+}

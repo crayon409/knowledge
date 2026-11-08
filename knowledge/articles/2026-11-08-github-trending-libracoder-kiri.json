@@ -1,0 +1,17 @@
+{
+  "id": "github-20261108-002",
+  "title": "libracoder/kiri",
+  "source": "github-trending",
+  "source_url": "https://github.com/libracoder/kiri",
+  "summary": "轻量快速跨平台容器运行时，支持macOS/Windows/Linux",
+  "stars": 1096,
+  "language": "Rust",
+  "tags": [
+    "DevOps/Container Runtime",
+    "Systems/Virtualization"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "跨平台轻量容器运行时，有实用价值但非突破性创新",
+  "status": "draft"
+}

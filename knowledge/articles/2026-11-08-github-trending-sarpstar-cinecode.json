@@ -1,0 +1,18 @@
+{
+  "id": "github-20261108-001",
+  "title": "sarpstar/cinecode",
+  "source": "github-trending",
+  "source_url": "https://github.com/sarpstar/cinecode",
+  "summary": "AI编码代理用代码生成电影全流程并输出MP4",
+  "stars": 1374,
+  "language": "Python",
+  "tags": [
+    "AI/CodeGeneration",
+    "Media/VideoGeneration",
+    "Tool/Agent"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "创意新颖的代码生成视频工具，但尚属早期项目",
+  "status": "draft"
+}

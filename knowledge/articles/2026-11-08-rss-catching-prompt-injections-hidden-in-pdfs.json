@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261108-004",
+  "title": "Catching prompt injections hidden in PDFs",
+  "source": "rss",
+  "source_url": "https://tomclancy.info/joshua-judges-ruth.html",
+  "summary": "介绍检测PDF中隐藏提示注入攻击的方法",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Security/Prompt Injection",
+    "AI/LLM Security",
+    "Document Processing/PDF"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "聚焦LLM安全实用问题，但信息有限且非突破性",
+  "status": "draft"
+}
