@@ -1,0 +1,17 @@
+{
+  "id": "github-20261110-003",
+  "title": "IainKay/ram-altman",
+  "source": "github-trending",
+  "source_url": "https://github.com/IainKay/ram-altman",
+  "summary": "恶搞脚本：监控内存空闲并邮件报告给OpenAI CEO",
+  "stars": 1730,
+  "language": "Shell",
+  "tags": [
+    "Humor/Parody",
+    "System/Monitoring"
+  ],
+  "highlights": [],
+  "score": 3,
+  "score_reason": "幽默恶搞项目，技术价值有限",
+  "status": "draft"
+}

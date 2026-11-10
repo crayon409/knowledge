@@ -1,0 +1,19 @@
+{
+  "id": "github-20261110-002",
+  "title": "jhaizhou-ops/S2Arm",
+  "source": "github-trending",
+  "source_url": "https://github.com/jhaizhou-ops/S2Arm",
+  "summary": "将Switch游戏静态重编译为ARM64并直连Metal，在苹果设备原生运行",
+  "stars": 2320,
+  "language": "C#",
+  "tags": [
+    "Game/Emulation",
+    "Systems/Static-Recompilation",
+    "Graphics/Metal",
+    "Platform/Apple-Silicon"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "静态重编译+Metal直通思路新颖且工程量大，但属模拟/移植类项目，非通用突破",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20261110-005",
+  "title": "shanselman/gputaskman",
+  "source": "github-trending",
+  "source_url": "https://github.com/shanselman/gputaskman",
+  "summary": "跨平台GPU任务管理器，可查看每进程显存与LLM KV缓存",
+  "stars": 1599,
+  "language": "Python",
+  "tags": [
+    "Tool/System Monitoring",
+    "AI/LLM Infrastructure",
+    "Platform/Cross-platform"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "填补GPU进程级监控空白，支持LLM洞察，实用但非突破性",
+  "status": "draft"
+}

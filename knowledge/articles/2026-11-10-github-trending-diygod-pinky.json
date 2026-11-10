@@ -1,0 +1,18 @@
+{
+  "id": "github-20261110-004",
+  "title": "DIYgod/pinky",
+  "source": "github-trending",
+  "source_url": "https://github.com/DIYgod/pinky",
+  "summary": "DIYgod开源pinky项目，让AI代理在人工监督下操作手机",
+  "stars": 1639,
+  "language": "Go",
+  "tags": [
+    "AI/Agent",
+    "Mobile/Automation",
+    "OpenSource/Tool"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "创新的人机协同手机代理框架，但尚属早期项目",
+  "status": "draft"
+}
