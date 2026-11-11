@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261111-003",
+  "title": "Online learning on the programmable dataplane (2022)",
+  "source": "rss",
+  "source_url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+  "summary": "格拉斯哥大学博士论文：可编程数据平面上的在线学习",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Networking/Programmable Data Plane",
+    "Machine Learning/Online Learning",
+    "Computer Science/PhD Thesis"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "系统研究在P4可编程数据平面实现在线学习的博士论文，具工程与学术价值",
+  "status": "draft"
+}
