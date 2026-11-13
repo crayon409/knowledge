@@ -1,0 +1,19 @@
+{
+  "id": "github-20261113-002",
+  "title": "agentes-chat/agentes-chat",
+  "source": "github-trending",
+  "source_url": "https://github.com/agentes-chat/agentes-chat",
+  "summary": "开源自托管Slack替代品，团队与AI代理在频道和私信中协作",
+  "stars": 1298,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent协作",
+    "协作工具/团队聊天",
+    "开源/自托管",
+    "AI/多模型集成"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "多模型代理协作平台，集成MCP与计算机使用，实用但非突破性",
+  "status": "draft"
+}

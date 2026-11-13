@@ -1,0 +1,19 @@
+{
+  "id": "github-20261113-006",
+  "title": "FrigadeHQ/yogurt",
+  "source": "github-trending",
+  "source_url": "https://github.com/FrigadeHQ/yogurt",
+  "summary": "开源本地AI会议纪要工具，支持多平台与隐私保护",
+  "stars": 1184,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Meeting Assistant",
+    "AI/Local AI",
+    "Open Source/Productivity",
+    "Speech/Transcription"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "本地AI会议记录的开源实现，实用但非突破性创新",
+  "status": "draft"
+}

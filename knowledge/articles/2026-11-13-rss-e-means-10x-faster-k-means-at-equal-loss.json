@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261113-007",
+  "title": "e-means: 10x faster k-means at equal loss",
+  "source": "rss",
+  "source_url": "https://e-means.github.io/",
+  "summary": "e-means实现等损失下快10倍的k-means聚类",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Machine Learning/Clustering",
+    "Algorithms/Optimization"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "显著加速经典聚类算法且保持损失，实用价值高但非范式突破",
+  "status": "draft"
+}

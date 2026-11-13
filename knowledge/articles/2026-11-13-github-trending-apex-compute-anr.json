@@ -1,0 +1,17 @@
+{
+  "id": "github-20261113-001",
+  "title": "apex-compute/ANR",
+  "source": "github-trending",
+  "source_url": "https://github.com/apex-compute/ANR",
+  "summary": "Apex Compute 发布 ANR 神经渲染项目仓库",
+  "stars": 1298,
+  "language": "C++",
+  "tags": [
+    "AI/Neural Rendering",
+    "Graphics/Rendering"
+  ],
+  "highlights": [],
+  "score": 3,
+  "score_reason": "仅仓库名称与简介，无技术细节或实质内容",
+  "status": "draft"
+}
