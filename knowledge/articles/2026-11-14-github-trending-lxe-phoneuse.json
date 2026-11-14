@@ -1,0 +1,19 @@
+{
+  "id": "github-20261114-005",
+  "title": "lxe/phoneuse",
+  "source": "github-trending",
+  "source_url": "https://github.com/lxe/phoneuse",
+  "summary": "Linux远程镜像并操控iPhone，含CLI与Agent技能",
+  "stars": 656,
+  "language": "Python",
+  "tags": [
+    "Tools/Remote Control",
+    "Platform/Linux",
+    "Platform/iOS",
+    "AI/Agent Tools"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "无需越狱实现AirPlay镜像加蓝牙HID反向控制，工程价值高",
+  "status": "draft"
+}

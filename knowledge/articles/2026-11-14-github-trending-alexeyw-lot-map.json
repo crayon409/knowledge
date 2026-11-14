@@ -1,0 +1,18 @@
+{
+  "id": "github-20261114-004",
+  "title": "alexeyw/lot-map",
+  "source": "github-trending",
+  "source_url": "https://github.com/alexeyw/lot-map",
+  "summary": "Claude Code 实时可视化地图插件，展示工具调用、模型步骤与子代理活动",
+  "stars": 786,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent Observability",
+    "Developer Tools/Claude Code",
+    "Visualization/Real-time"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用的本地可观测性插件，但属细分工具而非突破性创新",
+  "status": "draft"
+}

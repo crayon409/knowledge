@@ -1,0 +1,18 @@
+{
+  "id": "github-20261114-003",
+  "title": "kolbicz/WQFiles",
+  "source": "github-trending",
+  "source_url": "https://github.com/kolbicz/WQFiles",
+  "summary": "iOS 26/27 文件浏览与缓存清理工具，免越狱",
+  "stars": 840,
+  "language": "Objective-C",
+  "tags": [
+    "Mobile/iOS",
+    "Developer Tools/Utilities",
+    "Security/Jailbreak"
+  ],
+  "highlights": [],
+  "score": 5,
+  "score_reason": "实用但受众窄的iOS工具，非突破性项目",
+  "status": "draft"
+}
