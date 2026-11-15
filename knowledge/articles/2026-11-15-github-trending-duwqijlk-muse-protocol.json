@@ -1,0 +1,17 @@
+{
+  "id": "github-20261115-001",
+  "title": "duwqijlk/muse-protocol",
+  "source": "github-trending",
+  "source_url": "https://github.com/duwqijlk/muse-protocol",
+  "summary": "muse.ai注册与邀请码兑换协议的纯HTTP Python实现研究",
+  "stars": 856,
+  "language": "Python",
+  "tags": [
+    "Security/Protocol Reverse Engineering",
+    "Programming/Python"
+  ],
+  "highlights": [],
+  "score": 3,
+  "score_reason": "小型协议逆向研究项目，无技术突破且信息有限",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20261115-002",
+  "title": "ZiChuanLan/freebie-radar",
+  "source": "github-trending",
+  "source_url": "https://github.com/ZiChuanLan/freebie-radar",
+  "summary": "白嫖资源聚合雷达：57源定时采集，AI二审过滤假福利，分级隔离抽奖/试用/推广，Telegram推送",
+  "stars": 701,
+  "language": "TypeScript",
+  "tags": [
+    "DevTools/ResourceAggregation",
+    "AI/ContentFiltering",
+    "Automation/WebScraping"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "多源聚合加AI过滤与分级隔离，工程实用但非突破性创新",
+  "status": "draft"
+}
