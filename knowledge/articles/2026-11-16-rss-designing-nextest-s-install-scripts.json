@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261116-003",
+  "title": "Designing nextest's install scripts",
+  "source": "rss",
+  "source_url": "https://sunshowers.io/posts/nextest-install-scripts/",
+  "summary": "介绍nextest安装脚本的设计思路与实现细节",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Software Development/Rust",
+    "Software Development/Build Tools"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用的工程经验分享，但非突破性技术",
+  "status": "draft"
+}
