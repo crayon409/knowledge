@@ -1,0 +1,325 @@
+[
+  {
+    "title": "deepseek-ai/chat-demo",
+    "url": "https://github.com/deepseek-ai/chat-demo",
+    "source": "github-trending",
+    "popularity": 4489,
+    "summary": "Chat Demo",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "apex-compute/ANR",
+    "url": "https://github.com/apex-compute/ANR",
+    "source": "github-trending",
+    "popularity": 2564,
+    "summary": "Apex Neural Rendering (ANR) by Apex Compute",
+    "language": "C++",
+    "topics": []
+  },
+  {
+    "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "source": "github-trending",
+    "popularity": 1997,
+    "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
+    "language": "C++",
+    "topics": []
+  },
+  {
+    "title": "FrigadeHQ/yogurt",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "source": "github-trending",
+    "popularity": 1971,
+    "summary": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+    "language": "TypeScript",
+    "topics": [
+      "ai-meeting-assistant",
+      "ai-notetaker",
+      "electron",
+      "granola-alternative",
+      "linux",
+      "llama-cpp",
+      "local-ai",
+      "local-first",
+      "macos",
+      "mcp",
+      "meeting-minutes",
+      "meeting-notes",
+      "offline-first",
+      "open-source",
+      "privacy",
+      "speech-to-text",
+      "transcription",
+      "whisper",
+      "whisper-cpp",
+      "windows"
+    ]
+  },
+  {
+    "title": "duwqijlk/muse-protocol",
+    "url": "https://github.com/duwqijlk/muse-protocol",
+    "source": "github-trending",
+    "popularity": 1569,
+    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "ZiChuanLan/freebie-radar",
+    "url": "https://github.com/ZiChuanLan/freebie-radar",
+    "source": "github-trending",
+    "popularity": 1404,
+    "summary": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "Immortal-Protocols/lastbook",
+    "url": "https://github.com/Immortal-Protocols/lastbook",
+    "source": "github-trending",
+    "popularity": 1403,
+    "summary": "Offline knowledge AI, maps and videos for survival and rebuilding",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "CzzzzzzJ/mdldm-maitian",
+    "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+    "source": "github-trending",
+    "popularity": 932,
+    "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+    "language": "JavaScript",
+    "topics": [
+      "automation",
+      "chrome-extension",
+      "creator-tools",
+      "dashboard",
+      "feishu",
+      "social-media"
+    ]
+  },
+  {
+    "title": "failsafe-security/artex",
+    "url": "https://github.com/failsafe-security/artex",
+    "source": "github-trending",
+    "popularity": 818,
+    "summary": "Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "title": "haziqahmedqasmi/PeakCut",
+    "url": "https://github.com/haziqahmedqasmi/PeakCut",
+    "source": "github-trending",
+    "popularity": 807,
+    "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "title": "AIRzZ90/study-materials-fork",
+    "url": "https://github.com/AIRzZ90/study-materials-fork",
+    "source": "github-trending",
+    "popularity": 746,
+    "summary": "A cross-platform Tauri 2 interface and interaction practice project",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "title": "sybil-solutions/inference-optimisation-skill",
+    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "source": "github-trending",
+    "popularity": 720,
+    "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "benchmarking",
+      "claude-code",
+      "inference",
+      "llm",
+      "speculative-decoding"
+    ]
+  },
+  {
+    "title": "\"Proof of use\" as a requirement for open source contributions?",
+    "url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "An easy way to try local AI with braindead-local-intelligence",
+    "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rlmrfy/easy_way_try_local_ai_with_braindead_local\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
+    "url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/urfgc9/how_run_turing_complete_malware_pytorch_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "e-means: 10x faster k-means at equal loss",
+    "url": "https://e-means.github.io/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rnmylu/e_means_10x_faster_k_means_at_equal_loss\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/u7wdqj/sparks_weight_space_programming_llms_can\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+    "url": "https://arxiv.org/abs/2605.00414",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ina01h/trees_flows_back_unifying_decision_trees\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "url": "https://arxiv.org/abs/2607.02512",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Catching prompt injections hidden in PDFs",
+    "url": "https://tomclancy.info/joshua-judges-ruth.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hreu0b/catching_prompt_injections_hidden_pdfs\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/0aungk/little_book_generative_ai_foundations\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+    "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cctbcu/building_fine_grained_version_control\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Running RAG with a (small) language model in the browser",
+    "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/nsjjo3/running_rag_with_small_language_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Consistency is not a localized property",
+    "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/u2h9as/you_could_have_invented_transformers\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Writing a SIGGRAPH paper from scratch",
+    "url": "https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/793ecg/writing_siggraph_paper_from_scratch\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "url": "https://arxiv.org/abs/2610.14162",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zu7jjb/ai_eu_member_states_approve_digital\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Neural Networks Are Already Clean",
+    "url": "https://already-clean.goodfire.com/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/enjlpn/neural_networks_are_already_clean\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  },
+  {
+    "title": "Online learning on the programmable dataplane (2022)",
+    "url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tj73bq/online_learning_on_programmable\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "language": null,
+    "topics": []
+  }
+]

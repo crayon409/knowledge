@@ -1,0 +1,17 @@
+{
+  "id": "github-20261117-004",
+  "title": "haziqahmedqasmi/PeakCut",
+  "source": "github-trending",
+  "source_url": "https://github.com/haziqahmedqasmi/PeakCut",
+  "summary": "开源AI视频剪辑工具，支持长视频和直播切片，可自托管",
+  "stars": 807,
+  "language": "Python",
+  "tags": [
+    "AI/视频处理",
+    "工具/开源项目"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用型自托管AI切片工具，但技术门槛不高",
+  "status": "draft"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20261117-001",
+  "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+  "source": "github-trending",
+  "source_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+  "summary": "Windows托盘应用，显示无线外设电量，无需厂商软件",
+  "stars": 1997,
+  "language": "C++",
+  "tags": [
+    "Tools/System Utilities",
+    "Hardware/Peripherals"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用轻量工具，支持多品牌，但非技术突破",
+  "status": "draft"
+}
