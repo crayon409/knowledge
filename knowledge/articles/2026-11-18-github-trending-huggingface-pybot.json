@@ -1,0 +1,18 @@
+{
+  "id": "github-20261118-002",
+  "title": "huggingface/pybot",
+  "source": "github-trending",
+  "source_url": "https://github.com/huggingface/pybot",
+  "summary": "HuggingFace开源纯Python规则聊天机器人PyBot，无权重无训练",
+  "stars": 803,
+  "language": "Python",
+  "tags": [
+    "AI/Chatbot",
+    "AI/Rule-based Systems",
+    "Open Source/Projects"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "有趣的规则式聊天机器人实验，但技术突破性有限",
+  "status": "draft"
+}

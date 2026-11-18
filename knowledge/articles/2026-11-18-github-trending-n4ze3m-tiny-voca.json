@@ -1,0 +1,17 @@
+{
+  "id": "github-20261118-003",
+  "title": "n4ze3m/tiny-voca",
+  "source": "github-trending",
+  "source_url": "https://github.com/n4ze3m/tiny-voca",
+  "summary": "从零训练的450万参数双音色英语TTS模型",
+  "stars": 734,
+  "language": "Python",
+  "tags": [
+    "AI/Text-to-Speech",
+    "AI/Model"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "小巧的从零训练TTS模型，有一定实用价值但非突破性创新",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20261118-001",
+  "title": "erkamyaman/rust-anything",
+  "source": "github-trending",
+  "source_url": "https://github.com/erkamyaman/rust-anything",
+  "summary": "增量迁移工具：逐步将多语言应用重写为Rust，并用原行为校验",
+  "stars": 2870,
+  "language": "Rust",
+  "tags": [
+    "Programming/Rust",
+    "Development/Migration",
+    "Development/Testing"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "行为对照的渐进式Rust迁移思路实用，但属工程工具而非突破",
+  "status": "draft"
+}

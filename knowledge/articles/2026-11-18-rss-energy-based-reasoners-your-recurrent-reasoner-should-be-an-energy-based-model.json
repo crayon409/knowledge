@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261118-004",
+  "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+  "source": "rss",
+  "source_url": "https://energy-based-reasoners.github.io/",
+  "summary": "提出将循环推理器建模为能量模型，以提升推理能力",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "AI/Machine Learning",
+    "AI/Reasoning",
+    "Research/Model Architecture"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "有理论新意的架构提议，但尚属预印/项目页面阶段",
+  "status": "draft"
+}
