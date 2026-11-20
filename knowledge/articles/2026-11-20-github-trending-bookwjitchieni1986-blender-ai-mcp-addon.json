@@ -1,0 +1,18 @@
+{
+  "id": "github-20261120-001",
+  "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+  "source": "github-trending",
+  "source_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+  "summary": "Blender AI助手MCP插件，支持多模型对话与场景自动化",
+  "stars": 1146,
+  "language": null,
+  "tags": [
+    "AI/MCP",
+    "3D/Blender",
+    "工具/插件"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用集成项目，但属MCP封装而非突破性创新",
+  "status": "draft"
+}

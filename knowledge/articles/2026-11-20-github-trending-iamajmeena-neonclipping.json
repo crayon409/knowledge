@@ -1,0 +1,18 @@
+{
+  "id": "github-20261120-002",
+  "title": "iamajmeena/neonclipping",
+  "source": "github-trending",
+  "source_url": "https://github.com/iamajmeena/neonclipping",
+  "summary": "开源本地视频切片引擎，粘贴链接约2分钟生成带字幕9:16短片",
+  "stars": 1083,
+  "language": "Python",
+  "tags": [
+    "AI/Video Processing",
+    "Open Source/Media Tools",
+    "AI/Local LLM"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用开源工具，整合音频优先、YouTube字幕与本地LLM，但非突破性技术",
+  "status": "draft"
+}
