@@ -1,0 +1,18 @@
+{
+  "id": "github-20261121-002",
+  "title": "boringmarketer/boring-marketing-skills",
+  "source": "github-trending",
+  "source_url": "https://github.com/boringmarketer/boring-marketing-skills",
+  "summary": "开源32个AI代理营销技能包，覆盖调研、文案、SEO、广告等",
+  "stars": 765,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "Marketing/SEO",
+    "Marketing/Copywriting"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用且MIT开源的营销技能集合，但属工具整合而非技术突破",
+  "status": "draft"
+}

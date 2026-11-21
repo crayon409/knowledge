@@ -1,0 +1,17 @@
+{
+  "id": "github-20261121-001",
+  "title": "hatsunemiku-ai/google-one-tools",
+  "source": "github-trending",
+  "source_url": "https://github.com/hatsunemiku-ai/google-one-tools",
+  "summary": "Google One工具集开源项目，提供相关功能脚本",
+  "stars": 805,
+  "language": "Python",
+  "tags": [
+    "Tool/GoogleOne",
+    "Development/Utility"
+  ],
+  "highlights": [],
+  "score": 3,
+  "score_reason": "信息不足，仅凭仓库名推测为小型工具集，无突出技术价值",
+  "status": "draft"
+}
