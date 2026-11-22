@@ -1,0 +1,18 @@
+{
+  "id": "github-20261122-002",
+  "title": "omonkeyz/xbox-emulator",
+  "source": "github-trending",
+  "source_url": "https://github.com/omonkeyz/xbox-emulator",
+  "summary": "Xbox Series X|S游戏在PC运行的进展记录项目",
+  "stars": 1145,
+  "language": "Rust",
+  "tags": [
+    "Emulator/Xbox",
+    "Software/ReverseEngineering",
+    "Platform/PC"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "前沿模拟器探索项目，有技术价值但尚处早期阶段",
+  "status": "draft"
+}

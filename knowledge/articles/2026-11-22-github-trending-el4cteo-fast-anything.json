@@ -1,0 +1,18 @@
+{
+  "id": "github-20261122-001",
+  "title": "EL4CTEO/fast-anything",
+  "source": "github-trending",
+  "source_url": "https://github.com/EL4CTEO/fast-anything",
+  "summary": "用AI代理定位并移植Python/Node/Ruby热点函数到Rust，验证行为一致",
+  "stars": 1239,
+  "language": "Rust",
+  "tags": [
+    "Developer Tools/Performance Optimization",
+    "AI/Agent Tooling",
+    "Programming/Rust"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实用性能优化工作流，思路清晰但非突破性技术",
+  "status": "draft"
+}
