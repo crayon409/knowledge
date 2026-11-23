@@ -1,0 +1,19 @@
+{
+  "id": "github-20261123-002",
+  "title": "INK-Q/agy-fast",
+  "source": "github-trending",
+  "source_url": "https://github.com/INK-Q/agy-fast",
+  "summary": "Antigravity非侵入式MCP加速插件，减少LLM轮次与token消耗",
+  "stars": 771,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "Developer Tools/Plugin",
+    "Performance/Optimization",
+    "MCP/Server"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "实测降低34%轮次与31%token，实用但属工程优化非突破",
+  "status": "draft"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20261123-001",
+  "title": "pierridotite/mobile-agent-testers",
+  "source": "github-trending",
+  "source_url": "https://github.com/pierridotite/mobile-agent-testers",
+  "summary": "用Claude Code代理在GitHub免费runner上并行运行20台模拟手机做移动端AI探索测",
+  "stars": 1383,
+  "language": "Python",
+  "tags": [
+    "AI/Agent",
+    "Testing/Mobile",
+    "CI/GitHub Actions",
+    "Testing/Accessibility"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "创新性地将LLM代理与免费CI并行移动测试结合，实用但非根本性突破",
+  "status": "draft"
+}
