@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261124-003",
+  "title": "9/UX: a Macintosh-inspired desktop for 9front",
+  "source": "rss",
+  "source_url": "https://progrium.github.io/9ux/",
+  "summary": "为9front打造Macintosh风格桌面环境，令人惊叹的移植尝试",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Operating Systems/Plan 9",
+    "User Interface/Desktop Environment",
+    "Retro Computing/System Modding"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "有趣的复古系统UI移植项目，但属小众生态的界面改造",
+  "status": "draft"
+}

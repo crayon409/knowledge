@@ -1,0 +1,18 @@
+{
+  "id": "github-20261124-002",
+  "title": "danielwh2/sprite-stacking",
+  "source": "github-trending",
+  "source_url": "https://github.com/danielwh2/sprite-stacking",
+  "summary": "将四视图像素画转为可旋转伪3D精灵的Agent技能",
+  "stars": 765,
+  "language": "HTML",
+  "tags": [
+    "AI/Agent工具",
+    "游戏开发/像素艺术",
+    "图形渲染/伪3D"
+  ],
+  "highlights": [],
+  "score": 6,
+  "score_reason": "实用且跨多Agent平台的像素画工具，但属细分领域技能",
+  "status": "draft"
+}
