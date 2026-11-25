@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261125-001",
+  "title": "Matrix Multiplication is Θ(n^2.25)",
+  "source": "rss",
+  "source_url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+  "summary": "声称矩阵乘法指数下界为Θ(n^2.25)，挑战长期猜想",
+  "stars": 0,
+  "language": null,
+  "tags": [
+    "Computer Science/Algorithms",
+    "Mathematics/Computational Complexity",
+    "Research/Preprint"
+  ],
+  "highlights": [],
+  "score": 8,
+  "score_reason": "若成立将颠覆矩阵乘法复杂度认知，但需同行验证",
+  "status": "draft"
+}
