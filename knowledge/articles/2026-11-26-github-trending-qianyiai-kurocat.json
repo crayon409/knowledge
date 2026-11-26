@@ -1,0 +1,19 @@
+{
+  "id": "github-20261126-001",
+  "title": "qianyiai/KuroCat",
+  "source": "github-trending",
+  "source_url": "https://github.com/qianyiai/KuroCat",
+  "summary": "开源3D桌面打字猫与AI编程伴侣，跨平台支持MCP",
+  "stars": 1321,
+  "language": "TypeScript",
+  "tags": [
+    "AI/开发工具",
+    "开源项目/桌面应用",
+    "开发工具/跨平台",
+    "AI/AI伴侣"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "Tauri+Rust跨平台桌面宠物，集成MCP与多AI模型，创意实用但非突破性技术",
+  "status": "draft"
+}

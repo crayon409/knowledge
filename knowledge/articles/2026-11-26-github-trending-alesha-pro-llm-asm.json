@@ -1,0 +1,19 @@
+{
+  "id": "github-20261126-002",
+  "title": "alesha-pro/llm.asm",
+  "source": "github-trending",
+  "source_url": "https://github.com/alesha-pro/llm.asm",
+  "summary": "纯x86-64汇编实现Qwen3推理、裸机OS与Mini-GPT训练器",
+  "stars": 1276,
+  "language": "Assembly",
+  "tags": [
+    "Assembly/x86-64",
+    "Machine Learning/LLM Inference",
+    "Operating Systems/Bare-metal",
+    "Machine Learning/Training"
+  ],
+  "highlights": [],
+  "score": 9,
+  "score_reason": "零依赖纯汇编实现LLM推理与训练，技术难度极高且具突破性",
+  "status": "draft"
+}
