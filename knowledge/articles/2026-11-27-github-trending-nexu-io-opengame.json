@@ -1,0 +1,18 @@
+{
+  "id": "github-20261127-001",
+  "title": "nexu-io/opengame",
+  "source": "github-trending",
+  "source_url": "https://github.com/nexu-io/opengame",
+  "summary": "开源AI游戏工作室，将多种编程智能体变为全栈游戏开发引擎",
+  "stars": 2042,
+  "language": "TypeScript",
+  "tags": [
+    "AI/Agent",
+    "GameDev/Engine",
+    "Tool/Platform"
+  ],
+  "highlights": [],
+  "score": 7,
+  "score_reason": "整合多智能体与游戏引擎的实用平台，生态丰富但非底层突破",
+  "status": "draft"
+}
